@@ -1,0 +1,19 @@
+{
+  "title": "Vaesen",
+  "slug": "vaesen",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Vaesen.md",
+  "url": "notes/vaesen.html",
+  "apiUrl": "api/notes/vaesen.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

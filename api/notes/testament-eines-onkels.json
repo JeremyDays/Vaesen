@@ -1,0 +1,30 @@
+{
+  "title": "Testament eines Onkels",
+  "slug": "testament-eines-onkels",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Hilde/Testament eines Onkels.md",
+  "url": "notes/testament-eines-onkels.html",
+  "apiUrl": "api/notes/testament-eines-onkels.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Hildes Memento Ein Testament von Paulus Olbers, ihres Onkels.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Paulus Olbers",
+      "label": "Paulus Olbers",
+      "slug": "paulus-olbers"
+    }
+  ],
+  "markdown": "- [[Hilde]]s Memento\n- Ein Testament von [[Paulus Olbers]], ihres Onkels.\n- "
+}

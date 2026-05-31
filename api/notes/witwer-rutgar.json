@@ -1,0 +1,25 @@
+{
+  "title": "Witwer Rutgar",
+  "slug": "witwer-rutgar",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Witwer Rutgar.md",
+  "url": "notes/witwer-rutgar.html",
+  "apiUrl": "api/notes/witwer-rutgar.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Wurde im Tagebuch von Nora erwähnt.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Nora",
+      "label": "Nora",
+      "slug": "nora"
+    }
+  ],
+  "markdown": "- Wurde im Tagebuch von [[Nora]] erwähnt.\n- "
+}

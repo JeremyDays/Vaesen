@@ -1,0 +1,25 @@
+{
+  "title": "Sturmlaterne",
+  "slug": "sturmlaterne",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Sven/Sturmlaterne.md",
+  "url": "notes/sturmlaterne.html",
+  "apiUrl": "api/notes/sturmlaterne.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Svens",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    }
+  ],
+  "markdown": "- [[Sven]]s\n- "
+}

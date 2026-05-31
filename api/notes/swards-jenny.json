@@ -1,0 +1,22 @@
+{
+  "title": "Swärds Jenny",
+  "slug": "swards-jenny",
+  "category": "npc",
+  "relativePath": "2 - NSCs/05 Fudal/Swärds Jenny.md",
+  "url": "notes/swards-jenny.html",
+  "apiUrl": "api/notes/swards-jenny.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "aliases": [
+      "Jenny"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "\n![[Swärds Jenny.jpg]]\n\n"
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Sophia",
+  "slug": "sophia",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Sophia.md",
+  "url": "notes/sophia.html",
+  "apiUrl": "api/notes/sophia.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Tochter vom Gasthaus Hexenkatze Tochter von Nora und Sami. Dicke Frau Selbstgebastelter Schmuck, Feder Ist im Traum von Oscar Hjort besessen gewesen und hat ein Schattentheater geb",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Sophia Harjula"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Nora",
+      "label": "Nora",
+      "slug": "nora"
+    },
+    {
+      "target": "Sami",
+      "label": "Sami",
+      "slug": "sami"
+    },
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar Hjort",
+      "slug": "oscar-hjort"
+    }
+  ],
+  "markdown": "\n*Tochter vom [[Gasthaus Hexenkatze]]*\n![[Sophia Harjula Bild.png]]\n\n- Tochter von [[Nora]] und [[Sami]].\n- Dicke Frau\n- Selbstgebastelter Schmuck, Feder\n- Ist im Traum von [[Oscar Hjort]] besessen gewesen und hat ein Schattentheater gebaut."
+}

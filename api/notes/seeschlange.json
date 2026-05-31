@@ -1,0 +1,19 @@
+{
+  "title": "Seeschlange",
+  "slug": "seeschlange",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Seeschlange.md",
+  "url": "notes/seeschlange.html",
+  "apiUrl": "api/notes/seeschlange.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

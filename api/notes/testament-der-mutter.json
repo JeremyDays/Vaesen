@@ -1,0 +1,30 @@
+{
+  "title": "Testament der Mutter",
+  "slug": "testament-der-mutter",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Jona/Testament der Mutter.md",
+  "url": "notes/testament-der-mutter.html",
+  "apiUrl": "api/notes/testament-der-mutter.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Jonas Memento Testament von Inga Johansson.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Inga Johansson",
+      "label": "Inga Johansson",
+      "slug": "inga-johansson"
+    }
+  ],
+  "markdown": "- [[Jona]]s Memento\n- Testament von [[Inga Johansson]].\n- "
+}

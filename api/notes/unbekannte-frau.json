@@ -1,0 +1,30 @@
+{
+  "title": "Unbekannte Frau",
+  "slug": "unbekannte-frau",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Unbekannte Frau.md",
+  "url": "notes/unbekannte-frau.html",
+  "apiUrl": "api/notes/unbekannte-frau.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "War in der Hexenkatze Wurde von Sven gerettet War verschwitzt und nervös",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hexenkatze",
+      "label": "Hexenkatze",
+      "slug": null
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    }
+  ],
+  "markdown": "- War in der [[Hexenkatze]]\n- Wurde von [[Sven]] gerettet\n- War verschwitzt und nervös\n- "
+}

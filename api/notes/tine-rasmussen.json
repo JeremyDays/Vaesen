@@ -1,0 +1,28 @@
+{
+  "title": "Tine Rasmussen",
+  "slug": "tine-rasmussen",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Tine Rasmussen.md",
+  "url": "notes/tine-rasmussen.html",
+  "apiUrl": "api/notes/tine-rasmussen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Gründerin der Gesellschaft",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Tine"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    }
+  ],
+  "markdown": "- Gründerin der [[Gesellschaft]]\n\n"
+}

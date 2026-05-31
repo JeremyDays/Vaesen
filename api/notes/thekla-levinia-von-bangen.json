@@ -1,0 +1,33 @@
+{
+  "title": "Thekla Levinia von Bängen",
+  "slug": "thekla-levinia-von-bangen",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Thekla Levinia von Bängen.md",
+  "url": "notes/thekla-levinia-von-bangen.html",
+  "apiUrl": "api/notes/thekla-levinia-von-bangen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Jüngere Schwester von Hilde Sie sollte Medizinerin werden, wurde es leider nicht. Elena: Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Thekla"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Astrid Cleve",
+      "label": "Astrid Cleve",
+      "slug": "astrid-cleve"
+    }
+  ],
+  "markdown": "- Jüngere Schwester von [[Hilde]]\n- Sie sollte Medizinerin werden, wurde es leider nicht. \n>**Elena:** Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin erhielt war **[[Astrid Cleve]]** in 1898. War eine leidenschaftliche Botanikerin.\n- Verkauft Kräuter und Tinkturen.\n"
+}

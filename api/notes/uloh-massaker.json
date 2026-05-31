@@ -1,0 +1,25 @@
+{
+  "title": "Uloh-Massaker",
+  "slug": "uloh-massaker",
+  "category": "session",
+  "relativePath": "7 - Protokoll/Events/Uloh-Massaker.md",
+  "url": "notes/uloh-massaker.html",
+  "apiUrl": "api/notes/uloh-massaker.json",
+  "tags": [
+    "Event"
+  ],
+  "excerpt": "1880",
+  "frontmatter": {
+    "tags": [
+      "Event"
+    ]
+  },
+  "links": [
+    {
+      "target": "1880",
+      "label": "1880",
+      "slug": "1880"
+    }
+  ],
+  "markdown": "- [[1880]]\n\n"
+}

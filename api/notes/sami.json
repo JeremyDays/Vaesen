@@ -1,0 +1,39 @@
+{
+  "title": "Sami",
+  "slug": "sami",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Sami.md",
+  "url": "notes/sami.html",
+  "apiUrl": "api/notes/sami.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Wirt vom Gasthaus Hexenkatze Hat seine Frau Nora und Tochter Sophia geschlagen. Hat sich selbst das Leben genommen",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Sami Harjula",
+      "Samuel Harjula"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Nora",
+      "label": "Nora",
+      "slug": "nora"
+    },
+    {
+      "target": "Sophia",
+      "label": "Sophia",
+      "slug": "sophia"
+    }
+  ],
+  "markdown": "\n*Wirt vom [[Gasthaus Hexenkatze]]*\n![[Sami Harjula Bild.png]]\n\n- Hat seine Frau [[Nora]] und Tochter [[Sophia]] geschlagen.\n- Hat sich selbst das Leben genommen"
+}

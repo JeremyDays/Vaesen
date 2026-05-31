@@ -1,0 +1,19 @@
+{
+  "title": "Vorbereitung",
+  "slug": "vorbereitung",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Vorbereitung.md",
+  "url": "notes/vorbereitung.html",
+  "apiUrl": "api/notes/vorbereitung.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Vorbereitung Vorteile erhalten durch Vorbereitung (Reise): Einmal Skill +2 Würfel",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "**Vorbereitung**\nVorteile erhalten durch Vorbereitung (Reise): Einmal Skill +2 Würfel\n"
+}

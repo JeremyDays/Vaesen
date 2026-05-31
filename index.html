@@ -1,0 +1,854 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vaesen</title>
+  <link rel="stylesheet" href="assets/app.css?v=mpu9ovja">
+  <link rel="stylesheet" href="assets/obsidian.css?v=mpu9ovja">
+  <script defer src="assets/app.js?v=mpu9ovja"></script>
+</head>
+<body class="dashboard-page">
+  <main>
+      <section class="hero">
+        <div></div>
+        <div class="search-shell">
+          <input id="site-search" type="search" placeholder="Titel oder Alias..." autocomplete="off">
+          <div id="search-results" class="search-results"></div>
+        </div>
+      </section>
+      <section class="dashboard-grid">
+        <div class="panel">
+          <h2>Kategorien</h2>
+          <div class="category-tree">
+            <details class="tree-node tree-root">
+    <summary><span>Fraktionen</span><strong>3</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/donnerstagskinder.html">Donnerstagskinder</a><a class="tree-note" href="notes/gesellschaft.html">Gesellschaft</a><a class="tree-note" href="notes/rosenberger.html">Rosenberger</a></div>
+  </details><details class="tree-node tree-root">
+    <summary><span>SCs</span><strong>5</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/charlot.html">Charlot</a><a class="tree-note" href="notes/die-gruppe.html">Die Gruppe</a><a class="tree-note" href="notes/hilde.html">Hilde</a><a class="tree-note" href="notes/jona.html">Jona</a><a class="tree-note" href="notes/sven.html">Sven</a></div>
+  </details><details class="tree-node tree-root">
+    <summary><span>NSCs</span><strong>57</strong></summary>
+    <div class="tree-children"><details class="tree-node">
+    <summary><span>01 Hintergrund Charlot</span><strong>2</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/bruder-charlots.html">Bruder Charlots</a><a class="tree-note" href="notes/gaul.html">Gaul</a></div>
+  </details><details class="tree-node">
+    <summary><span>01 Hintergrund Hilde</span><strong>12</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/alda-margherita-olbers.html">Alda Margherita Olbers</a><a class="tree-note" href="notes/astrid-cleve.html">Astrid Cleve</a><a class="tree-note" href="notes/auslander.html">Ausländer</a><a class="tree-note" href="notes/carl-rosen-von-bangen.html">Carl Rosén von Bängen</a><a class="tree-note" href="notes/francisco-de-osuna.html">Francisco de Osuna</a><a class="tree-note" href="notes/gustaf-von-bangen.html">Gustaf von Bängen</a><a class="tree-note" href="notes/hexe.html">Hexe</a><a class="tree-note" href="notes/jonas-olbers.html">Jonas Olbers</a><a class="tree-note" href="notes/nathan-olof-von-bangen.html">Nathan Olof von Bängen</a><a class="tree-note" href="notes/otto-von-bangen.html">Otto von Bängen</a><a class="tree-note" href="notes/paulus-olbers.html">Paulus Olbers</a><a class="tree-note" href="notes/thekla-levinia-von-bangen.html">Thekla Levinia von Bängen</a></div>
+  </details><details class="tree-node">
+    <summary><span>01 Hintergrund Jona</span><strong>6</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/inga-johansson.html">Inga Johansson</a><a class="tree-note" href="notes/jakob-johansson.html">Jakob Johansson</a><a class="tree-note" href="notes/johan-erik-johansson-junior.html">Johan Erik Johansson Junior</a><a class="tree-note" href="notes/johan-johansson-junior.html">Johan Johansson Junior</a><a class="tree-note" href="notes/johan-johansson-senior.html">Johan Johansson Senior</a><a class="tree-note" href="notes/kille.html">Kille</a></div>
+  </details><details class="tree-node">
+    <summary><span>01 Hintergrund Sven</span><strong>3</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/elin-jansen.html">Elin Jansen</a><a class="tree-note" href="notes/karin-jansen.html">Karin Jansen</a><a class="tree-note" href="notes/nils-jansen.html">Nils Jansen</a></div>
+  </details><details class="tree-node">
+    <summary><span>02 Die Gesellschaft</span><strong>9</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/albert-frisk.html">Albert Frisk</a><a class="tree-note" href="notes/albert-wriedenhelm.html">Albert Wriedenhelm</a><a class="tree-note" href="notes/algot-frisk.html">Algot Frisk</a><a class="tree-note" href="notes/hielma-von-thulenstein.html">Hielma von Thulenstein</a><a class="tree-note" href="notes/katja-kokola.html">Katja Kokola</a><a class="tree-note" href="notes/linea.html">Linea</a><a class="tree-note" href="notes/linnea.html">Linnea</a><a class="tree-note" href="notes/matz-von-rosenberg.html">Matz von Rosenberg</a><a class="tree-note" href="notes/tine-rasmussen.html">Tine Rasmussen</a></div>
+  </details><details class="tree-node">
+    <summary><span>03 Uppsala</span><strong>5</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/herr-ohlsdorf.html">Herr Ohlsdorf</a><a class="tree-note" href="notes/max.html">Max</a><a class="tree-note" href="notes/olaf.html">Olaf</a><a class="tree-note" href="notes/olaus-klint.html">Olaus Klint</a><a class="tree-note" href="notes/richard.html">Richard</a></div>
+  </details><details class="tree-node">
+    <summary><span>04 Hexenkatze</span><strong>11</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/ingelie.html">Ingelie</a><a class="tree-note" href="notes/jonathan.html">Jonathan</a><a class="tree-note" href="notes/nils-klaed.html">Nils Klaed</a><a class="tree-note" href="notes/nora.html">Nora</a><a class="tree-note" href="notes/oscar-hjort.html">Oscar Hjort</a><a class="tree-note" href="notes/piry.html">Piry</a><a class="tree-note" href="notes/sami.html">Sami</a><a class="tree-note" href="notes/sophia.html">Sophia</a><a class="tree-note" href="notes/sven2.html">Sven2</a><a class="tree-note" href="notes/unbekannte-frau.html">Unbekannte Frau</a><a class="tree-note" href="notes/witwer-rutgar.html">Witwer Rutgar</a></div>
+  </details><details class="tree-node">
+    <summary><span>05 Fudal</span><strong>9</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/frederic.html">Frederic</a><a class="tree-note" href="notes/jons-gustav.html">Jons Gustav</a><a class="tree-note" href="notes/konrads-lisa.html">Konrads Lisa</a><a class="tree-note" href="notes/konrads-monika.html">Konrads Monika</a><a class="tree-note" href="notes/lisbets-boel.html">Lisbets Boel</a><a class="tree-note" href="notes/mattias-freja.html">Mattias Freja</a><a class="tree-note" href="notes/nicklas.html">Nicklas</a><a class="tree-note" href="notes/pers-ida.html">Pers Ida</a><a class="tree-note" href="notes/swards-jenny.html">Swärds Jenny</a></div>
+  </details></div>
+  </details><details class="tree-node tree-root">
+    <summary><span>Orte</span><strong>17</strong></summary>
+    <div class="tree-children"><details class="tree-node">
+    <summary><span>In Fudal</span><strong>2</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/mora.html">Mora</a><a class="tree-note" href="notes/svertshof.html">Svertshof</a></div>
+  </details><details class="tree-node">
+    <summary><span>In Mariefred</span><strong>5</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/gasthof-von-bangen.html">Gasthof von Bängen</a><a class="tree-note" href="notes/kartauserklosters-pax-mariae.html">Kartäuserklosters Pax Mariae</a><a class="tree-note" href="notes/kirche-von-mariefred.html">Kirche von Mariefred</a><a class="tree-note" href="notes/kloster.html">Kloster</a><a class="tree-note" href="notes/mariefred.html">Mariefred</a></div>
+  </details><details class="tree-node">
+    <summary><span>In Uppsala</span><strong>8</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/becker-und-konig.html">Becker und König</a><a class="tree-note" href="notes/dom-von-uppsala.html">Dom von Uppsala</a><a class="tree-note" href="notes/privatdetektei-olaus-klint.html">Privatdetektei Olaus Klint</a><a class="tree-note" href="notes/psychiatrische-klinik-von-uppsala.html">Psychiatrische Klinik von Uppsala</a><a class="tree-note" href="notes/psychiatrische-klinik-von-upsala.html">Psychiatrische Klinik von Upsala</a><a class="tree-note" href="notes/schloss-gyllenkreuz.html">Schloss Gyllenkreuz</a><a class="tree-note" href="notes/universitat-uppsala.html">Universität Uppsala</a><a class="tree-note" href="notes/uppsala.html">Uppsala</a></div>
+  </details><a class="tree-note" href="notes/gasthaus-hexenkatze.html">Gasthaus Hexenkatze</a><a class="tree-note" href="notes/schweden.html">Schweden</a></div>
+  </details><details class="tree-node tree-root">
+    <summary><span>Gegenstände</span><strong>14</strong></summary>
+    <div class="tree-children"><details class="tree-node">
+    <summary><span>Im Besitz der Gruppe</span><strong>12</strong></summary>
+    <div class="tree-children"><details class="tree-node">
+    <summary><span>Charlot</span><strong>2</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/fingerknochen.html">Fingerknochen</a><a class="tree-note" href="notes/tagebuch-von-nora.html">Tagebuch von Nora</a></div>
+  </details><details class="tree-node">
+    <summary><span>Hilde</span><strong>3</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/harke.html">Harke</a><a class="tree-note" href="notes/heiliges-wasser.html">Heiliges Wasser</a><a class="tree-note" href="notes/testament-eines-onkels.html">Testament eines Onkels</a></div>
+  </details><details class="tree-node">
+    <summary><span>Jona</span><strong>2</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/gewehr.html">Gewehr</a><a class="tree-note" href="notes/testament-der-mutter.html">Testament der Mutter</a></div>
+  </details><details class="tree-node">
+    <summary><span>Schloss Gyllenkreuz</span><strong>1</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/die-annalen-der-gesellschaft.html">Die Annalen Der Gesellschaft</a></div>
+  </details><details class="tree-node">
+    <summary><span>Sven</span><strong>4</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/bild-der-familie.html">Bild der Familie</a><a class="tree-note" href="notes/revolver.html">Revolver</a><a class="tree-note" href="notes/sturmlaterne.html">Sturmlaterne</a><a class="tree-note" href="notes/taschenuhr.html">Taschenuhr</a></div>
+  </details></div>
+  </details><details class="tree-node">
+    <summary><span>Nicht im Besitz der Gruppe</span><strong>1</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/drittes-geistliches-abc.html">Drittes geistliches ABC</a></div>
+  </details><a class="tree-note" href="notes/darlahest.html">Darlahest</a></div>
+  </details><details class="tree-node tree-root">
+    <summary><span>Welt</span><strong>3</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/artemis.html">Artemis</a><a class="tree-note" href="notes/folklore.html">Folklore</a><a class="tree-note" href="notes/thor.html">Thor</a></div>
+  </details><details class="tree-node tree-root">
+    <summary><span>Regeln</span><strong>8</strong></summary>
+    <div class="tree-children"><details class="tree-node">
+    <summary><span>Einzelne Regeln</span><strong>7</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/aktionen.html">Aktionen</a><a class="tree-note" href="notes/erfolgswurf.html">Erfolgswurf</a><a class="tree-note" href="notes/furchtwurf.html">Furchtwurf</a><a class="tree-note" href="notes/steigern.html">Steigern</a><a class="tree-note" href="notes/vorbereitung.html">Vorbereitung</a><a class="tree-note" href="notes/wurf-strapazieren.html">Wurf strapazieren</a><a class="tree-note" href="notes/zustand.html">Zustand</a></div>
+  </details><a class="tree-note" href="notes/regeln.html">Regeln</a></div>
+  </details><details class="tree-node tree-root">
+    <summary><span>Protokoll</span><strong>25</strong></summary>
+    <div class="tree-children"><details class="tree-node">
+    <summary><span>Events</span><strong>2</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/jungkirchenbewegung.html">Jungkirchenbewegung</a><a class="tree-note" href="notes/uloh-massaker.html">Uloh-Massaker</a></div>
+  </details><details class="tree-node">
+    <summary><span>Kalender</span><strong>18</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/1828.html">1828</a><a class="tree-note" href="notes/1880.html">1880</a><a class="tree-note" href="notes/1889.html">1889</a><a class="tree-note" href="notes/1889-01-15.html">1889-01-15</a><a class="tree-note" href="notes/1889-01-17.html">1889-01-17</a><a class="tree-note" href="notes/1889-01-31.html">1889-01-31</a><a class="tree-note" href="notes/1889-02-07.html">1889-02-07</a><a class="tree-note" href="notes/1889-02-08.html">1889-02-08</a><a class="tree-note" href="notes/1889-03-01.html">1889-03-01</a><a class="tree-note" href="notes/1889-03-19.html">1889-03-19</a><a class="tree-note" href="notes/1889-04-03.html">1889-04-03</a><a class="tree-note" href="notes/1890-02-04-di.html">1890-02-04 (Di)</a><a class="tree-note" href="notes/1890-02-05-mi.html">1890-02-05 (Mi)</a><a class="tree-note" href="notes/1890-02-06-do.html">1890-02-06 (Do)</a><a class="tree-note" href="notes/1890-02-07-fr.html">1890-02-07 (Fr)</a><a class="tree-note" href="notes/1890-02-08-sa.html">1890-02-08 (Sa)</a><a class="tree-note" href="notes/1890-02-09-so.html">1890-02-09 (So)</a><a class="tree-note" href="notes/1898.html">1898</a></div>
+  </details><details class="tree-node">
+    <summary><span>Session Protokolle</span><strong>5</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/s00-session-zero.html">S00 - Session Zero</a><a class="tree-note" href="notes/s01-ankunft-in-uppsala.html">S01 - Ankunft in Uppsala</a><a class="tree-note" href="notes/s02-die-hexenkatze.html">S02 - Die Hexenkatze</a><a class="tree-note" href="notes/s03-abschied-von-mariefred.html">S03 - Abschied von Mariefred</a><a class="tree-note" href="notes/s04-reise-nach-fudal.html">S04 - Reise nach Fudal</a></div>
+  </details></div>
+  </details><details class="tree-node tree-root">
+    <summary><span>Kreaturen</span><strong>14</strong></summary>
+    <div class="tree-children"><a class="tree-note" href="notes/drauger.html">Drauger</a><a class="tree-note" href="notes/elfen.html">Elfen</a><a class="tree-note" href="notes/geisterraben.html">Geisterraben</a><a class="tree-note" href="notes/hauswichtel.html">Hauswichtel</a><a class="tree-note" href="notes/irrlichter.html">Irrlichter</a><a class="tree-note" href="notes/mehrjungfrauen.html">Mehrjungfrauen</a><a class="tree-note" href="notes/milchhase.html">Milchhase</a><a class="tree-note" href="notes/nachtmar.html">Nachtmar</a><a class="tree-note" href="notes/nachtraben.html">Nachtraben</a><a class="tree-note" href="notes/nock.html">Nöck</a><a class="tree-note" href="notes/seekalb.html">Seekalb</a><a class="tree-note" href="notes/seeschlange.html">Seeschlange</a><a class="tree-note" href="notes/vaesen.html">Vaesen</a><a class="tree-note" href="notes/wichtel.html">Wichtel</a></div>
+  </details>
+          </div>
+        </div>
+        <div class="dashboard-side">
+          <section class="stats" aria-label="Uebersicht">
+            <div class="stat"><span>Notizen</span><strong>146</strong></div><div class="stat"><span>Verweise</span><strong>420</strong></div><div class="stat"><span>Zeichen</span><strong>106.861</strong></div><div class="stat"><span>Sessions</span><strong>0</strong></div><div class="stat"><span>Ingame-Tage</span><strong>0</strong></div><div class="stat"><span>Gesamt-CP</span><strong>n/a</strong></div>
+          </section>
+          <div class="panel activity-panel">
+            <h2>Aktuell</h2>
+            <section class="activity-group">
+    <h3>Letzte Sessions</h3>
+    <div class="activity-list">
+      <p class="muted">Keine passenden Einträge gefunden.</p>
+    </div>
+  </section><section class="activity-group">
+    <h3>Letzte NSCs</h3>
+    <div class="activity-list">
+      <a class="activity-card" href="notes/swards-jenny.html">
+    <div>
+      <strong>Swärds Jenny</strong>
+      <p></p>
+    </div>
+    <img src="assets/vault/z_pictures/NSCs/Sw%C3%A4rds%20Jenny.jpg" alt="Swärds Jenny.jpg" loading="lazy">
+  </a><a class="activity-card" href="notes/pers-ida.html">
+    <div>
+      <strong>Pers Ida</strong>
+      <p></p>
+    </div>
+    <img src="assets/vault/z_pictures/NSCs/Pers%20Ida.jpg" alt="Pers Ida.jpg" loading="lazy">
+  </a><a class="activity-card" href="notes/nicklas.html">
+    <div>
+      <strong>Nicklas</strong>
+      <p></p>
+    </div>
+    
+  </a>
+    </div>
+  </section><section class="activity-group">
+    <h3>Letzte Orte</h3>
+    <div class="activity-list">
+      <a class="activity-card" href="notes/schweden.html">
+    <div>
+      <strong>Schweden</strong>
+      <p></p>
+    </div>
+    
+  </a><a class="activity-card" href="notes/uppsala.html">
+    <div>
+      <strong>Uppsala</strong>
+      <p>Viert größte Stadt in Schweden. Geschichte 5 Kurzer Überblick über die Geschichte von Uppsala Uppsala ist einer der ältesten und symbolisch wichtigsten Orte Schwedens . Seine Geschichte lässt sich in mehrere klar unterscheidbare Phasen gliedern, die jeweils re</p>
+    </div>
+    <img src="assets/vault/3%20-%20Orte/In%20Uppsala/Uppsala%20Stadtplan.pdf" alt="Uppsala Stadtplan.pdf" loading="lazy">
+  </a><a class="activity-card" href="notes/universitat-uppsala.html">
+    <div>
+      <strong>Universität Uppsala</strong>
+      <p>Hier studierte Hilde</p>
+    </div>
+    
+  </a>
+    </div>
+  </section><section class="activity-group">
+    <h3>Letzte Gegenstände</h3>
+    <div class="activity-list">
+      <a class="activity-card" href="notes/drittes-geistliches-abc.html">
+    <div>
+      <strong>Drittes geistliches ABC</strong>
+      <p>Das hat Hilde bei ihrem Onkel Paulus Olbers gesehen. Es wurde von Francisco de Osuna geschrieben.</p>
+    </div>
+    
+  </a><a class="activity-card" href="notes/taschenuhr.html">
+    <div>
+      <strong>Taschenuhr</strong>
+      <p>Svens Memento Ein Bild der ganzen Familie nach Svens Boxsieg. Er hat es bei seiner Mutter gefunden.</p>
+    </div>
+    
+  </a><a class="activity-card" href="notes/sturmlaterne.html">
+    <div>
+      <strong>Sturmlaterne</strong>
+      <p>Svens</p>
+    </div>
+    
+  </a>
+    </div>
+  </section>
+          </div>
+        </div>
+      </section>
+      
+        <section class="note-section" id="faction">
+          <h2>Fraktionen</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/donnerstagskinder.html">
+    <span>Fraktionen</span>
+    <strong>Donnerstagskinder</strong>
+    <p>Kinder, die von Thor gesegnet sind und Vaesen sehen können. Mitglieder: Linnea Charlot Hilde Jona Sven Katja Kokola Hielma von Thulenstein Albert Wriedenhelm</p>
+  </a><a class="note-card" href="notes/gesellschaft.html">
+    <span>Fraktionen</span>
+    <strong>Gesellschaft</strong>
+    <p>Eine Gruppe von Donnerstagskindern.</p>
+  </a><a class="note-card" href="notes/rosenberger.html">
+    <span>Fraktionen</span>
+    <strong>Rosenberger</strong>
+    <p>Fraktion der Donnerstagskinder, die im Gegensatz zur Gesellschaft nicht daran interessiert ist, Vaesen zu verstehen und sie zu schützen, sondern sie zu vernichten.</p>
+  </a>
+          </div>
+        </section>
+      
+        <section class="note-section" id="sc">
+          <h2>SCs</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/charlot.html">
+    <span>SCs</span>
+    <strong>Charlot</strong>
+    <p>Charakter Alter Mediziner (Logik) Motivation auszuziehen Rache? Hintergrund Franzose Hat im Krieg gekämpft und auf dem Schlachtfeld Nachtraben (?) gesehen Ist dann (?) Mediziner ge</p>
+  </a><a class="note-card" href="notes/die-gruppe.html">
+    <span>SCs</span>
+    <strong>Die Gruppe</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/hilde.html">
+    <span>SCs</span>
+    <strong>Hilde</strong>
+    <p>Priesterin, 40 Jahre. Lernte vom Mutter viele Sprachen und die Inspiration in Gott, vom Papa die gesellschaftliche Ordnung und Prinzipien. Beschreibung Sie ist 40 Jahre alt, 175 cm</p>
+  </a><a class="note-card" href="notes/jona.html">
+    <span>SCs</span>
+    <strong>Jona</strong>
+    <p>Beschreibung dunkle lange Haare, 1,68 groß schwedisch samischer Abstammung dunkelbraune Augen eher schlanke, sehnige Figur, hat sehr hohe Ausdauer und ist körperlich in sehr guter </p>
+  </a><a class="note-card" href="notes/sven.html">
+    <span>SCs</span>
+    <strong>Sven</strong>
+    <p>Beschreibung 68 Jahre alt. Er ist sehr groß gewachsen, hat schwere Knochen und ist breitschultrig, wobei er sich dennoch sehr aufrecht hält. Lange Arme, große starke Hände, die zum</p>
+  </a>
+          </div>
+        </section>
+      
+        <section class="note-section" id="npc">
+          <h2>NSCs</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/bruder-charlots.html">
+    <span>NSCs</span>
+    <strong>Bruder Charlots</strong>
+    <p>Ist im Krieg gefallen.</p>
+  </a><a class="note-card" href="notes/gaul.html">
+    <span>NSCs</span>
+    <strong>Gaul</strong>
+    <p>Altes Pferd von Charlot.</p>
+  </a><a class="note-card" href="notes/alda-margherita-olbers.html">
+    <span>NSCs</span>
+    <strong>Alda Margherita Olbers</strong>
+    <p>Mutter von Hilde. Alda Margherita Olbers wurde als Tochter des Pfarrers Jonas Olbers geboren und war eine schwedische Dichterin und Übersetzerin. Sie wuchs in einem wohlhabenden un</p>
+  </a><a class="note-card" href="notes/astrid-cleve.html">
+    <span>NSCs</span>
+    <strong>Astrid Cleve</strong>
+    <p>Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin erhielt in 1898. War eine leidenschaftliche Botanikerin. Stephan: Es wäre spannend, sie </p>
+  </a><a class="note-card" href="notes/auslander.html">
+    <span>NSCs</span>
+    <strong>Ausländer</strong>
+    <p>Hilde nimmt dem Ausländer die Beichte ab. Er hat eine tödliche Krankheit. Er will kein langanhaltendes Siechtum. Er will den Menschen nicht zur Last fallen. Er sehnt sich nach eine</p>
+  </a><a class="note-card" href="notes/carl-rosen-von-bangen.html">
+    <span>NSCs</span>
+    <strong>Carl Rosén von Bängen</strong>
+    <p>Jüngerer Bruder von Hilde. Man redet nicht über ihn. Nach Anfällen jung verstorben. Er ist das Dunkle Geheimnis von Sven. Ihren Bruder Carl Rosén von Bängen traf das Unheil wie ein</p>
+  </a><a class="note-card" href="notes/francisco-de-osuna.html">
+    <span>NSCs</span>
+    <strong>Francisco de Osuna</strong>
+    <p>Franziskaner Hat das Drittes geistliches ABC geschrieben.</p>
+  </a><a class="note-card" href="notes/gustaf-von-bangen.html">
+    <span>NSCs</span>
+    <strong>Gustaf von Bängen</strong>
+    <p>Vater von Hilde Gustaf von Bängen wurde als Sohn des Gastwirts Otto von Bängen geboren und wurde längere Zeit auch von seinem Vater unterrichtet. So musste das Kind bereits mit fün</p>
+  </a><a class="note-card" href="notes/hexe.html">
+    <span>NSCs</span>
+    <strong>Hexe</strong>
+    <p>Sie ist eng mit dem Schicksal von Hilde, CarlCarl Rosén von Bängen und Sven verbunden.</p>
+  </a><a class="note-card" href="notes/jonas-olbers.html">
+    <span>NSCs</span>
+    <strong>Jonas Olbers</strong>
+    <p>Großvater von Hilde. Alda Margherita Olbers wurde als Tochter des Pfarrers Jonas Olbers geboren. Sie wuchs in einem wohlhabenden und gebildeten Umfeld auf, das ihr gute Fremdsprach</p>
+  </a><a class="note-card" href="notes/nathan-olof-von-bangen.html">
+    <span>NSCs</span>
+    <strong>Nathan Olof von Bängen</strong>
+    <p>Älterer Bruder von Hilde. Akademiker und Gastwirt, der das Handwerk des Vaters lernt</p>
+  </a><a class="note-card" href="notes/otto-von-bangen.html">
+    <span>NSCs</span>
+    <strong>Otto von Bängen</strong>
+    <p>Großvater von Hilde Gustaf von Bängen wurde als Sohn des Gastwirts Otto von Bängen geboren und wurde längere Zeit auch von seinem Vater unterrichtet. So musste das Kind bereits mit</p>
+  </a><a class="note-card" href="notes/paulus-olbers.html">
+    <span>NSCs</span>
+    <strong>Paulus Olbers</strong>
+    <p>Onkel von Hilde Er hat ihr das Testament eines Onkels hinterlassen.</p>
+  </a><a class="note-card" href="notes/thekla-levinia-von-bangen.html">
+    <span>NSCs</span>
+    <strong>Thekla Levinia von Bängen</strong>
+    <p>Jüngere Schwester von Hilde Sie sollte Medizinerin werden, wurde es leider nicht. Elena: Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin</p>
+  </a><a class="note-card" href="notes/inga-johansson.html">
+    <span>NSCs</span>
+    <strong>Inga Johansson</strong>
+    <p>Jonas Mutter</p>
+  </a><a class="note-card" href="notes/jakob-johansson.html">
+    <span>NSCs</span>
+    <strong>Jakob Johansson</strong>
+    <p>Jonas Bruder</p>
+  </a><a class="note-card" href="notes/johan-erik-johansson-junior.html">
+    <span>NSCs</span>
+    <strong>Johan Erik Johansson Junior</strong>
+    <p>Älterer Bruder von Jona</p>
+  </a><a class="note-card" href="notes/johan-johansson-junior.html">
+    <span>NSCs</span>
+    <strong>Johan Johansson Junior</strong>
+    <p>Ältester Bruder von Jona. Jona schoss ihm in die Schulter. Charlot versorgte die Wunde.</p>
+  </a><a class="note-card" href="notes/johan-johansson-senior.html">
+    <span>NSCs</span>
+    <strong>Johan Johansson Senior</strong>
+    <p>Vater von Jona</p>
+  </a><a class="note-card" href="notes/kille.html">
+    <span>NSCs</span>
+    <strong>Kille</strong>
+    <p>Jagdhund von Jona.</p>
+  </a><a class="note-card" href="notes/elin-jansen.html">
+    <span>NSCs</span>
+    <strong>Elin Jansen</strong>
+    <p>Schwester von Sven Geschlagen von Vater Nils Jansen. Früh verstorben Das hat sich Sven nie verziehen. Und seinen Eltern auch nicht. Motivation: Nähe Trauma: Vernachlässigung Dunkle</p>
+  </a><a class="note-card" href="notes/karin-jansen.html">
+    <span>NSCs</span>
+    <strong>Karin Jansen</strong>
+    <p>Mutter von Sven Zurückhaltend. Duckmäuserisch. Konnte ihrem Ehemann Nils Jansen nie die Stirn bieten. Sie nannte Sven immer &quot;Mein DonnerstagskindDonnerstagskinder&quot; Motivation: Erlö</p>
+  </a><a class="note-card" href="notes/nils-jansen.html">
+    <span>NSCs</span>
+    <strong>Nils Jansen</strong>
+    <p>Vater von Sven Ehemaliger Minenarbeiter, bis es zu einem Unfall kam. Erzog Sven mit dem Ledergürtel. Schlug auch seine Frau Karin Jansen und seine Tochter Elin Jansen Er brachte Sv</p>
+  </a><a class="note-card" href="notes/albert-frisk.html">
+    <span>NSCs</span>
+    <strong>Albert Frisk</strong>
+    <p>Bediensteter von Schloss Gyllenkreuz.</p>
+  </a><a class="note-card" href="notes/albert-wriedenhelm.html">
+    <span>NSCs</span>
+    <strong>Albert Wriedenhelm</strong>
+    <p>DonnerstagskindDonnerstagskinder Mitglied der Gesellschaft Überlebender</p>
+  </a><a class="note-card" href="notes/algot-frisk.html">
+    <span>NSCs</span>
+    <strong>Algot Frisk</strong>
+    <p>Bediensteter von Schloss Gyllenkreuz.</p>
+  </a><a class="note-card" href="notes/hielma-von-thulenstein.html">
+    <span>NSCs</span>
+    <strong>Hielma von Thulenstein</strong>
+    <p>DonnerstagskindDonnerstagskinder Mitglied der Gesellschaft Überlebende</p>
+  </a><a class="note-card" href="notes/katja-kokola.html">
+    <span>NSCs</span>
+    <strong>Katja Kokola</strong>
+    <p>DonnerstagskindDonnerstagskinder Mitglied der Gesellschaft Überlebende</p>
+  </a><a class="note-card" href="notes/linea.html">
+    <span>NSCs</span>
+    <strong>Linea</strong>
+    <p>Sie lebt allein im Hauptquartier</p>
+  </a><a class="note-card" href="notes/linnea.html">
+    <span>NSCs</span>
+    <strong>Linnea</strong>
+    <p>Alte Frau der Gesellschaft Sie lebt allein im HauptquartierSchloss Gyllenkreuz Sie ist jetzt in der Psychiatrischen Klinik von UppsalaPsychiatrische Klinik von Uppsala</p>
+  </a><a class="note-card" href="notes/matz-von-rosenberg.html">
+    <span>NSCs</span>
+    <strong>Matz von Rosenberg</strong>
+    <p>Gründer der Gesellschaft</p>
+  </a><a class="note-card" href="notes/tine-rasmussen.html">
+    <span>NSCs</span>
+    <strong>Tine Rasmussen</strong>
+    <p>Gründerin der Gesellschaft</p>
+  </a><a class="note-card" href="notes/herr-ohlsdorf.html">
+    <span>NSCs</span>
+    <strong>Herr Ohlsdorf</strong>
+    <p>Bischof von Uppsala</p>
+  </a><a class="note-card" href="notes/max.html">
+    <span>NSCs</span>
+    <strong>Max</strong>
+    <p>Junge, der Sven und Jona in Uppsala herumführt.</p>
+  </a><a class="note-card" href="notes/olaf.html">
+    <span>NSCs</span>
+    <strong>Olaf</strong>
+    <p>Schläger, der auf Olaus Klints Haus aufpasst. &quot;Nachbarschaftsschutz&quot; Kein DonnerstagskindDonnerstagskinder. Kennt sie aber. Hat Angst vor diesen.</p>
+  </a><a class="note-card" href="notes/olaus-klint.html">
+    <span>NSCs</span>
+    <strong>Olaus Klint</strong>
+    <p>Ein Privatdetektiv aus Uppsala, der zwar kein DonnerstagskindDonnerstagskinder ist, aber die Mysterien erforscht.</p>
+  </a><a class="note-card" href="notes/richard.html">
+    <span>NSCs</span>
+    <strong>Richard</strong>
+    <p>Mitarbeiter der Post. Gute Verbindung mit einem Polizisten.</p>
+  </a><a class="note-card" href="notes/ingelie.html">
+    <span>NSCs</span>
+    <strong>Ingelie</strong>
+    <p>Köchin vom Gasthaus Hexenkatze Gerettet von Jona</p>
+  </a><a class="note-card" href="notes/jonathan.html">
+    <span>NSCs</span>
+    <strong>Jonathan</strong>
+    <p>Bauer aus dem Gasthaus Hexenkatze Im kalten Feuer verstorben</p>
+  </a><a class="note-card" href="notes/nils-klaed.html">
+    <span>NSCs</span>
+    <strong>Nils Klaed</strong>
+    <p>Priester aus dem Gasthaus Hexenkatze Gerettet von Jona</p>
+  </a><a class="note-card" href="notes/nora.html">
+    <span>NSCs</span>
+    <strong>Nora</strong>
+    <p>Sophias Mutter. Hat die Gasthaus Hexenkatze verlassen Ist ein paar Monate später verstorben.</p>
+  </a><a class="note-card" href="notes/oscar-hjort.html">
+    <span>NSCs</span>
+    <strong>Oscar Hjort</strong>
+    <p>Toter Schriftsteller, der Schattentheater erfunden hat Schriftsteller, der wieder zurück nach Frankreich wollte, wo er Schattentheater mit Uhrwerken verbunden hatte. Ist von Piry e</p>
+  </a><a class="note-card" href="notes/piry.html">
+    <span>NSCs</span>
+    <strong>Piry</strong>
+    <p>Vater von Sami Hat Oscar Hjort getötet. Zusammen mit Katja Kokola, Hielma von Thulenstein und Albert Wriedenhelm.</p>
+  </a><a class="note-card" href="notes/sami.html">
+    <span>NSCs</span>
+    <strong>Sami</strong>
+    <p>Wirt vom Gasthaus Hexenkatze Hat seine Frau Nora und Tochter Sophia geschlagen. Hat sich selbst das Leben genommen</p>
+  </a><a class="note-card" href="notes/sophia.html">
+    <span>NSCs</span>
+    <strong>Sophia</strong>
+    <p>Tochter vom Gasthaus Hexenkatze Tochter von Nora und Sami. Dicke Frau Selbstgebastelter Schmuck, Feder Ist im Traum von Oscar Hjort besessen gewesen und hat ein Schattentheater geb</p>
+  </a><a class="note-card" href="notes/sven2.html">
+    <span>NSCs</span>
+    <strong>Sven2</strong>
+    <p>Stalljunge vom Gasthaus Hexenkatze Ungefähr 20 Jahre alt. Wurde von Sven gerettet.</p>
+  </a><a class="note-card" href="notes/unbekannte-frau.html">
+    <span>NSCs</span>
+    <strong>Unbekannte Frau</strong>
+    <p>War in der Hexenkatze Wurde von Sven gerettet War verschwitzt und nervös</p>
+  </a><a class="note-card" href="notes/witwer-rutgar.html">
+    <span>NSCs</span>
+    <strong>Witwer Rutgar</strong>
+    <p>Wurde im Tagebuch von Nora erwähnt.</p>
+  </a><a class="note-card" href="notes/frederic.html">
+    <span>NSCs</span>
+    <strong>Frederic</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/jons-gustav.html">
+    <span>NSCs</span>
+    <strong>Jons Gustav</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/konrads-lisa.html">
+    <span>NSCs</span>
+    <strong>Konrads Lisa</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/konrads-monika.html">
+    <span>NSCs</span>
+    <strong>Konrads Monika</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/lisbets-boel.html">
+    <span>NSCs</span>
+    <strong>Lisbets Boel</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/mattias-freja.html">
+    <span>NSCs</span>
+    <strong>Mattias Freja</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/nicklas.html">
+    <span>NSCs</span>
+    <strong>Nicklas</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/pers-ida.html">
+    <span>NSCs</span>
+    <strong>Pers Ida</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/swards-jenny.html">
+    <span>NSCs</span>
+    <strong>Swärds Jenny</strong>
+    <p></p>
+  </a>
+          </div>
+        </section>
+      
+        <section class="note-section" id="location">
+          <h2>Orte</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/gasthaus-hexenkatze.html">
+    <span>Orte</span>
+    <strong>Gasthaus Hexenkatze</strong>
+    <p>Ein Gasthaus 2 Tagesreisen entfernt von Uppsala. Eigentum von Sami und seiner Familie Heruntergebrannt</p>
+  </a><a class="note-card" href="notes/mora.html">
+    <span>Orte</span>
+    <strong>Mora</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/svertshof.html">
+    <span>Orte</span>
+    <strong>Svertshof</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/gasthof-von-bangen.html">
+    <span>Orte</span>
+    <strong>Gasthof von Bängen</strong>
+    <p>Zum Hintergrund des Wirtshaus von Bängen Zum Beginn des 17. Jahrhunderts gab es in Mariefred keine Herberge, kein Gasthaus und keine Schenke, da die Bürger der Stadt verpflichtet w</p>
+  </a><a class="note-card" href="notes/kartauserklosters-pax-mariae.html">
+    <span>Orte</span>
+    <strong>Kartäuserklosters Pax Mariae</strong>
+    <p>Gab Mariefred seinen Namen. Wurde bei der Renovierung des Gasthof von Bängen unter dem Kellergeschoss entdeckt.</p>
+  </a><a class="note-card" href="notes/kirche-von-mariefred.html">
+    <span>Orte</span>
+    <strong>Kirche von Mariefred</strong>
+    <p>Hier ist Hilde tätig. Die Kirche liegt direkt nebem dem Gasthof von Bängen.</p>
+  </a><a class="note-card" href="notes/kloster.html">
+    <span>Orte</span>
+    <strong>Kloster</strong>
+    <p>Das Kloster, in dem Hilde war. In Mariefred</p>
+  </a><a class="note-card" href="notes/mariefred.html">
+    <span>Orte</span>
+    <strong>Mariefred</strong>
+    <p>Marias Frieden Mariefred bei Uppsala</p>
+  </a><a class="note-card" href="notes/becker-und-konig.html">
+    <span>Orte</span>
+    <strong>Becker und König</strong>
+    <p>In Uppsala Beim Dom von Uppsala Bei der Königsstraße Dort haben wir Linnea getroffen.</p>
+  </a><a class="note-card" href="notes/dom-von-uppsala.html">
+    <span>Orte</span>
+    <strong>Dom von Uppsala</strong>
+    <p>Bei der Königsstraße Beim Becker und König</p>
+  </a><a class="note-card" href="notes/privatdetektei-olaus-klint.html">
+    <span>Orte</span>
+    <strong>Privatdetektei Olaus Klint</strong>
+    <p>In Uppsala Eigentümer: Olaus Klint Kleines grün gestrichenes Haus. Holzmaske aus Tirol. Schreibtisch. Auf dem Türrahmen eine Münze.</p>
+  </a><a class="note-card" href="notes/psychiatrische-klinik-von-uppsala.html">
+    <span>Orte</span>
+    <strong>Psychiatrische Klinik von Uppsala</strong>
+    <p>Hier hat Hilde gearbeitet.</p>
+  </a><a class="note-card" href="notes/psychiatrische-klinik-von-upsala.html">
+    <span>Orte</span>
+    <strong>Psychiatrische Klinik von Upsala</strong>
+    <p>Hier hat Hilde gearbeitet.</p>
+  </a><a class="note-card" href="notes/schloss-gyllenkreuz.html">
+    <span>Orte</span>
+    <strong>Schloss Gyllenkreuz</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/universitat-uppsala.html">
+    <span>Orte</span>
+    <strong>Universität Uppsala</strong>
+    <p>Hier studierte Hilde</p>
+  </a><a class="note-card" href="notes/uppsala.html">
+    <span>Orte</span>
+    <strong>Uppsala</strong>
+    <p>Viert größte Stadt in Schweden. Geschichte ![https://d3w13n53foase7.cloudfront.net/medium 648341da289cb77ef2fd4acc 1 Sean Biehle 0663ba17a6.jpg?utm source=chatgpt.com](https://d3w1</p>
+  </a><a class="note-card" href="notes/schweden.html">
+    <span>Orte</span>
+    <strong>Schweden</strong>
+    <p></p>
+  </a>
+          </div>
+        </section>
+      
+        <section class="note-section" id="item">
+          <h2>Gegenstände</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/darlahest.html">
+    <span>Gegenstände</span>
+    <strong>Darlahest</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/fingerknochen.html">
+    <span>Gegenstände</span>
+    <strong>Fingerknochen</strong>
+    <p>Charlots Memento</p>
+  </a><a class="note-card" href="notes/tagebuch-von-nora.html">
+    <span>Gegenstände</span>
+    <strong>Tagebuch von Nora</strong>
+    <p>1889 01 15 ... Geist Witwer Rutgar 1889 01 17 Vor 20 Jahren Sami etwas angetan. Er ist anders, wenn wütend Blaue Flecken, ... Angst um Sophia 1889 01 31 Sophia gleicher Traum 1889 </p>
+  </a><a class="note-card" href="notes/harke.html">
+    <span>Gegenstände</span>
+    <strong>Harke</strong>
+    <p>Hat Hilde aus dem Gasthaus Hexenkatze mitgenommen.</p>
+  </a><a class="note-card" href="notes/heiliges-wasser.html">
+    <span>Gegenstände</span>
+    <strong>Heiliges Wasser</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/testament-eines-onkels.html">
+    <span>Gegenstände</span>
+    <strong>Testament eines Onkels</strong>
+    <p>Hildes Memento Ein Testament von Paulus Olbers, ihres Onkels.</p>
+  </a><a class="note-card" href="notes/gewehr.html">
+    <span>Gegenstände</span>
+    <strong>Gewehr</strong>
+    <p>Jonas</p>
+  </a><a class="note-card" href="notes/testament-der-mutter.html">
+    <span>Gegenstände</span>
+    <strong>Testament der Mutter</strong>
+    <p>Jonas Memento Testament von Inga Johansson.</p>
+  </a><a class="note-card" href="notes/die-annalen-der-gesellschaft.html">
+    <span>Gegenstände</span>
+    <strong>Die Annalen Der Gesellschaft</strong>
+    <p>In Schloss Gyllenkreuz</p>
+  </a><a class="note-card" href="notes/bild-der-familie.html">
+    <span>Gegenstände</span>
+    <strong>Bild der Familie</strong>
+    <p>Svens Memento</p>
+  </a><a class="note-card" href="notes/revolver.html">
+    <span>Gegenstände</span>
+    <strong>Revolver</strong>
+    <p>Svens</p>
+  </a><a class="note-card" href="notes/sturmlaterne.html">
+    <span>Gegenstände</span>
+    <strong>Sturmlaterne</strong>
+    <p>Svens</p>
+  </a><a class="note-card" href="notes/taschenuhr.html">
+    <span>Gegenstände</span>
+    <strong>Taschenuhr</strong>
+    <p>Svens Memento Ein Bild der ganzen Familie nach Svens Boxsieg. Er hat es bei seiner Mutter gefunden.</p>
+  </a><a class="note-card" href="notes/drittes-geistliches-abc.html">
+    <span>Gegenstände</span>
+    <strong>Drittes geistliches ABC</strong>
+    <p>Das hat Hilde bei ihrem Onkel Paulus Olbers gesehen. Es wurde von Francisco de Osuna geschrieben.</p>
+  </a>
+          </div>
+        </section>
+      
+        <section class="note-section" id="lore">
+          <h2>Welt</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/artemis.html">
+    <span>Welt</span>
+    <strong>Artemis</strong>
+    <p>Schutzzeilige der Gesellschaft</p>
+  </a><a class="note-card" href="notes/folklore.html">
+    <span>Welt</span>
+    <strong>Folklore</strong>
+    <p>![https://odins hall.de/cdn/shop/articles/Banniere Blog Mythologie.jpg?v=1632306450&amp;width=1500&amp;utm source=chatgpt.com](https://odins hall.de/cdn/shop/articles/Banniere Blog Mytholo</p>
+  </a><a class="note-card" href="notes/thor.html">
+    <span>Welt</span>
+    <strong>Thor</strong>
+    <p>Thor bei den nordgermanischen Völkern, oder Donar bei den kontinentalen germanischen Völkern, ist ein germanischer Gott. Er ist „der Donnerer“ (Nomen Agentis), ursprünglich als Gat</p>
+  </a>
+          </div>
+        </section>
+      
+        <section class="note-section" id="rules">
+          <h2>Regeln</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/aktionen.html">
+    <span>Regeln</span>
+    <strong>Aktionen</strong>
+    <p>Jede Runde hat man 1 Hauptaktion + 1 Nebenaktion Hauptaktionen / Langsame Aktionen Angreifen Fertigkeit einsetzen Waffe ziehen Nebenaktionen / Schnelle Aktionen Etwas sagen Pariere</p>
+  </a><a class="note-card" href="notes/erfolgswurf.html">
+    <span>Regeln</span>
+    <strong>Erfolgswurf</strong>
+    <p>Erfolgswurf &quot;6&quot; ist Erfolg</p>
+  </a><a class="note-card" href="notes/furchtwurf.html">
+    <span>Regeln</span>
+    <strong>Furchtwurf</strong>
+    <p>Wurf auf LOGIK oder EMPATHIE [+] Anzahl von Freunden [ ] Geistiger Zustand Bei Fehlschlag: [+] Mentaler Zustand Und: Erstarren, In Ohnmacht fallen, Fliehen, oder Angreifen Dauer: d</p>
+  </a><a class="note-card" href="notes/steigern.html">
+    <span>Regeln</span>
+    <strong>Steigern</strong>
+    <p>Steigern 5 Erfahrungen = 1 Fertigkeit / 1 Talent</p>
+  </a><a class="note-card" href="notes/vorbereitung.html">
+    <span>Regeln</span>
+    <strong>Vorbereitung</strong>
+    <p>Vorbereitung Vorteile erhalten durch Vorbereitung (Reise): Einmal Skill +2 Würfel</p>
+  </a><a class="note-card" href="notes/wurf-strapazieren.html">
+    <span>Regeln</span>
+    <strong>Wurf strapazieren</strong>
+    <p>Wurf strapazieren Alle nicht 6en neu würfeln, aber Zustand bekommen</p>
+  </a><a class="note-card" href="notes/zustand.html">
+    <span>Regeln</span>
+    <strong>Zustand</strong>
+    <p>Jeder PHYSIS oder PRÄZISION Wurf [ ] Anzahl Körperlicher Zustände Jeder LOGIK oder EMPATHIE Wurf [ ] Anzahl Mentaler Zustände Heilen: [ 2 Zustände] Memento anschauen/benutzen für 1</p>
+  </a><a class="note-card" href="notes/regeln.html">
+    <span>Regeln</span>
+    <strong>Regeln</strong>
+    <p>Wurf strapazieren. Alle nicht 6en neu würfeln, aber Zustand bekommen Vorteile erhalten durch Vorbereitung (Reise) &quot;6&quot; ist Erfolg 5 Erfahrungen = 1 Fertigkeit / 1 Talent</p>
+  </a>
+          </div>
+        </section>
+      
+        <section class="note-section" id="session">
+          <h2>Protokoll</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/jungkirchenbewegung.html">
+    <span>Protokoll</span>
+    <strong>Jungkirchenbewegung</strong>
+    <p>Hilde hatte Einfluss auf die Jungkirchenbewegung.</p>
+  </a><a class="note-card" href="notes/uloh-massaker.html">
+    <span>Protokoll</span>
+    <strong>Uloh-Massaker</strong>
+    <p>1880</p>
+  </a><a class="note-card" href="notes/1828.html">
+    <span>Protokoll</span>
+    <strong>1828</strong>
+    <p>Tod Jonas Olbers.</p>
+  </a><a class="note-card" href="notes/1880.html">
+    <span>Protokoll</span>
+    <strong>1880</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889-01-15.html">
+    <span>Protokoll</span>
+    <strong>1889-01-15</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889-01-17.html">
+    <span>Protokoll</span>
+    <strong>1889-01-17</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889-01-31.html">
+    <span>Protokoll</span>
+    <strong>1889-01-31</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889-02-07.html">
+    <span>Protokoll</span>
+    <strong>1889-02-07</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889-02-08.html">
+    <span>Protokoll</span>
+    <strong>1889-02-08</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889-03-01.html">
+    <span>Protokoll</span>
+    <strong>1889-03-01</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889-03-19.html">
+    <span>Protokoll</span>
+    <strong>1889-03-19</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889-04-03.html">
+    <span>Protokoll</span>
+    <strong>1889-04-03</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1889.html">
+    <span>Protokoll</span>
+    <strong>1889</strong>
+    <p>Oscar Hjort beginnt mit dem Spuk</p>
+  </a><a class="note-card" href="notes/1890-02-04-di.html">
+    <span>Protokoll</span>
+    <strong>1890-02-04 (Di)</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1890-02-05-mi.html">
+    <span>Protokoll</span>
+    <strong>1890-02-05 (Mi)</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1890-02-06-do.html">
+    <span>Protokoll</span>
+    <strong>1890-02-06 (Do)</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1890-02-07-fr.html">
+    <span>Protokoll</span>
+    <strong>1890-02-07 (Fr)</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1890-02-08-sa.html">
+    <span>Protokoll</span>
+    <strong>1890-02-08 (Sa)</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1890-02-09-so.html">
+    <span>Protokoll</span>
+    <strong>1890-02-09 (So)</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/1898.html">
+    <span>Protokoll</span>
+    <strong>1898</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/s00-session-zero.html">
+    <span>Protokoll</span>
+    <strong>S00 - Session Zero</strong>
+    <p>[outgame:: 20.12.2025] Charaktere Charlot VevoirCharlot: Alter Mediziner (Logik) Jona JohanssonJona: Junge Jägerin (Präzision) Hildegard von BaengenHilde: Erwachsene Priesterin (Em</p>
+  </a><a class="note-card" href="notes/s01-ankunft-in-uppsala.html">
+    <span>Protokoll</span>
+    <strong>S01 - Ankunft in Uppsala</strong>
+    <p>[outgame:: 14.02.2026] [ingame:: 1890 02 04 (Di)] ==Winter. Februar. Es ist Kalt. Es schneit. [!dialogue2] Szene 1 Der Brief Gottesdienste sind vorbei. Linnea schreibt Hilde. Es ge</p>
+  </a><a class="note-card" href="notes/s02-die-hexenkatze.html">
+    <span>Protokoll</span>
+    <strong>S02 - Die Hexenkatze</strong>
+    <p>[outgame:: 21.03.2026] [ingame:: 1890 02 08 (Sa)] ==Winter. Graupeliges Regenwetter [!dialogue2] Szene 1 Aufbruch Algot Frisk und Sven machen die Kutsche fertig Er erzählt, dass er</p>
+  </a><a class="note-card" href="notes/s03-abschied-von-mariefred.html">
+    <span>Protokoll</span>
+    <strong>S03 - Abschied von Mariefred</strong>
+    <p>[outgame:: 18.04.2026] [ingame:: 1890 02 09 (So)] Erste Sonnenstrahlen ==Frühling Hauptquartier Entwicklungspunkte: 7 Erfahrungspunkte Erfahrungspunkte: Sven 6, Charlot 5, Jona 5, </p>
+  </a><a class="note-card" href="notes/s04-reise-nach-fudal.html">
+    <span>Protokoll</span>
+    <strong>S04 - Reise nach Fudal</strong>
+    <p>[outgame:: 31.05.2026] [ingame:: April/Mai] ==Frühling To Dos: Charaktere: Hilde Jona mit Kille Sven Charlot [!dialogue2] Szene 1 Recherche Charlots Charlot Elfen. Angst vor Kirche</p>
+  </a>
+          </div>
+        </section>
+      
+        <section class="note-section" id="creature">
+          <h2>Kreaturen</h2>
+          <div class="note-grid">
+            <a class="note-card" href="notes/drauger.html">
+    <span>Kreaturen</span>
+    <strong>Drauger</strong>
+    <p>Ein Vaesen Ein Untoter, der Rache will. Oscar Hjort Erzeugt Albträume wie im Gasthaus Hexenkatze: Alle träumen dasselbe. Auf der Bühne stehen und mit Dolch erdolcht werden. Er hat </p>
+  </a><a class="note-card" href="notes/elfen.html">
+    <span>Kreaturen</span>
+    <strong>Elfen</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/geisterraben.html">
+    <span>Kreaturen</span>
+    <strong>Geisterraben</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/hauswichtel.html">
+    <span>Kreaturen</span>
+    <strong>Hauswichtel</strong>
+    <p>Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt,</p>
+  </a><a class="note-card" href="notes/irrlichter.html">
+    <span>Kreaturen</span>
+    <strong>Irrlichter</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/mehrjungfrauen.html">
+    <span>Kreaturen</span>
+    <strong>Mehrjungfrauen</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/milchhase.html">
+    <span>Kreaturen</span>
+    <strong>Milchhase</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/nachtmar.html">
+    <span>Kreaturen</span>
+    <strong>Nachtmar</strong>
+    <p>Ein Vaesen Besessene Frauen Nachtmar sind Frauen, die an Hexen beten, um die Geburtsschmerzen zu umgehen. Die Mutter oder die Tochter kann zu einem Nachtmar werden.</p>
+  </a><a class="note-card" href="notes/nachtraben.html">
+    <span>Kreaturen</span>
+    <strong>Nachtraben</strong>
+    <p>Vaesen</p>
+  </a><a class="note-card" href="notes/nock.html">
+    <span>Kreaturen</span>
+    <strong>Nöck</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/seekalb.html">
+    <span>Kreaturen</span>
+    <strong>Seekalb</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/seeschlange.html">
+    <span>Kreaturen</span>
+    <strong>Seeschlange</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/vaesen.html">
+    <span>Kreaturen</span>
+    <strong>Vaesen</strong>
+    <p></p>
+  </a><a class="note-card" href="notes/wichtel.html">
+    <span>Kreaturen</span>
+    <strong>Wichtel</strong>
+    <p>Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt,</p>
+  </a>
+          </div>
+        </section>
+      
+    </main>
+</body>
+</html>

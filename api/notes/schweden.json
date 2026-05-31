@@ -1,0 +1,19 @@
+{
+  "title": "Schweden",
+  "slug": "schweden",
+  "category": "location",
+  "relativePath": "3 - Orte/Schweden.md",
+  "url": "notes/schweden.html",
+  "apiUrl": "api/notes/schweden.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

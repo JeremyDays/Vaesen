@@ -1,0 +1,25 @@
+{
+  "title": "Universität Uppsala",
+  "slug": "universitat-uppsala",
+  "category": "location",
+  "relativePath": "3 - Orte/In Uppsala/Universität Uppsala.md",
+  "url": "notes/universitat-uppsala.html",
+  "apiUrl": "api/notes/universitat-uppsala.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Hier studierte Hilde",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    }
+  ],
+  "markdown": "- Hier studierte [[Hilde]]\n- "
+}

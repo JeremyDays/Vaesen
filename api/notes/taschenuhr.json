@@ -1,0 +1,25 @@
+{
+  "title": "Taschenuhr",
+  "slug": "taschenuhr",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Sven/Taschenuhr.md",
+  "url": "notes/taschenuhr.html",
+  "apiUrl": "api/notes/taschenuhr.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Svens Memento Ein Bild der ganzen Familie nach Svens Boxsieg. Er hat es bei seiner Mutter gefunden.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    }
+  ],
+  "markdown": "- [[Sven]]s Memento\n- Ein Bild der ganzen Familie nach [[Sven]]s Boxsieg. Er hat es bei seiner Mutter gefunden."
+}

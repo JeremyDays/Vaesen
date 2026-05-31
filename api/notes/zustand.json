@@ -1,0 +1,19 @@
+{
+  "title": "Zustand",
+  "slug": "zustand",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Zustand.md",
+  "url": "notes/zustand.html",
+  "apiUrl": "api/notes/zustand.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Jeder PHYSIS oder PRÄZISION Wurf [ ] Anzahl Körperlicher Zustände Jeder LOGIK oder EMPATHIE Wurf [ ] Anzahl Mentaler Zustände Heilen: [ 2 Zustände] Memento anschauen/benutzen für 1",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "**Jeder PHYSIS- oder PRÄZISION-Wurf**\n[-] Anzahl Körperlicher Zustände\n\n**Jeder LOGIK- oder EMPATHIE-Wurf**\n[-] Anzahl Mentaler Zustände\n\n**Heilen:**\n- [-2 Zustände] **Memento** anschauen/benutzen für 1 Szene. 1x pro Mysterium möglich. Heilt kein Gebrechen.\n- **Medizin**. Bettruhe. Heilt körperliche Zustände. Kann auch Gebrechen heilen.\n- **Inspiration**. Bettruhe. Heilt mentale Zustände. Kann auch Gebrechen heilen.\n- [-3 Mentale Zustände] **Beichte**\n"
+}

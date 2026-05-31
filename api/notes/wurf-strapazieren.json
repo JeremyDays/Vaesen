@@ -1,0 +1,19 @@
+{
+  "title": "Wurf strapazieren",
+  "slug": "wurf-strapazieren",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Wurf strapazieren.md",
+  "url": "notes/wurf-strapazieren.html",
+  "apiUrl": "api/notes/wurf-strapazieren.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Wurf strapazieren Alle nicht 6en neu würfeln, aber Zustand bekommen",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "**Wurf strapazieren**\nAlle nicht-6en neu würfeln, aber Zustand bekommen\n\n"
+}

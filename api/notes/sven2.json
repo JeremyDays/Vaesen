@@ -1,0 +1,30 @@
+{
+  "title": "Sven2",
+  "slug": "sven2",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Sven2.md",
+  "url": "notes/sven2.html",
+  "apiUrl": "api/notes/sven2.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Stalljunge vom Gasthaus Hexenkatze Ungefähr 20 Jahre alt. Wurde von Sven gerettet.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    }
+  ],
+  "markdown": "- Stalljunge vom [[Gasthaus Hexenkatze]]\n- Ungefähr 20 Jahre alt.\n- Wurde von [[Sven]] gerettet.\n- "
+}

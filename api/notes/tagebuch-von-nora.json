@@ -1,0 +1,90 @@
+{
+  "title": "Tagebuch von Nora",
+  "slug": "tagebuch-von-nora",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Charlot/Tagebuch von Nora.md",
+  "url": "notes/tagebuch-von-nora.html",
+  "apiUrl": "api/notes/tagebuch-von-nora.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "1889 01 15 ... Geist Witwer Rutgar 1889 01 17 Vor 20 Jahren Sami etwas angetan. Er ist anders, wenn wütend Blaue Flecken, ... Angst um Sophia 1889 01 31 Sophia gleicher Traum 1889 ",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "1889-01-15",
+      "label": "1889-01-15",
+      "slug": "1889-01-15"
+    },
+    {
+      "target": "Witwer Rutgar",
+      "label": "Witwer Rutgar",
+      "slug": "witwer-rutgar"
+    },
+    {
+      "target": "1889-01-17",
+      "label": "1889-01-17",
+      "slug": "1889-01-17"
+    },
+    {
+      "target": "Sophia",
+      "label": "Sophia",
+      "slug": "sophia"
+    },
+    {
+      "target": "1889-01-31",
+      "label": "1889-01-31",
+      "slug": "1889-01-31"
+    },
+    {
+      "target": "1889-02-07",
+      "label": "1889-02-07",
+      "slug": "1889-02-07"
+    },
+    {
+      "target": "Piry",
+      "label": "Piry",
+      "slug": "piry"
+    },
+    {
+      "target": "Sami",
+      "label": "Sami",
+      "slug": "sami"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "1889-02-08",
+      "label": "1889-02-08",
+      "slug": "1889-02-08"
+    },
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar Hjort",
+      "slug": "oscar-hjort"
+    },
+    {
+      "target": "1889-03-01",
+      "label": "1889-03-01",
+      "slug": "1889-03-01"
+    },
+    {
+      "target": "1889-03-19",
+      "label": "1889-03-19",
+      "slug": "1889-03-19"
+    },
+    {
+      "target": "1889-04-03",
+      "label": "1889-04-03",
+      "slug": "1889-04-03"
+    }
+  ],
+  "markdown": "\n[[1889-01-15]]\n...\n- Geist\n- [[Witwer Rutgar]]\n\n[[1889-01-17]]\n- Vor 20 Jahren Sami etwas angetan. \n- Er ist anders, wenn wütend\n- Blaue Flecken, ... Angst um [[Sophia]]\n- \n\n[[1889-01-31]]\n- [[Sophia]] gleicher Traum\n\n[[1889-02-07]]\n- Geist sagt: [[Piry]]\n- [[Sami]]s Großvater\n- In Code an [[Uppsala]] geschickt\n- Liest [[Piry]]s Liebesbriefe\n\n[[1889-02-08]]\n- Piry tötete [[Oscar Hjort]]. Mit 3 Personen aus [[Uppsala]]. Albert. \n- Begruben den Körper im Garten.\n- Körper mit Magie entweiht.\n\n[[1889-03-01]]\n- [[Sophia]] will Stücke aufführen. Brilliante Idee.\n- Trollträume-Theatergruppe\n\n[[1889-03-19]]\n- Im Stall versteckt. \n- Schlug mit Schürhaken.\n- Angst.\n\n[[1889-04-03]]\n- Wenn ich hier bleibe, tötet er mich.\n- Ich will [[Sophia]] holen, wenn [[Sami]] gestorben ist."
+}

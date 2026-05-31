@@ -1,0 +1,19 @@
+{
+  "title": "Seekalb",
+  "slug": "seekalb",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Seekalb.md",
+  "url": "notes/seekalb.html",
+  "apiUrl": "api/notes/seekalb.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}
