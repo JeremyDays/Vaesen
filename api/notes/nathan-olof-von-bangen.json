@@ -1,0 +1,28 @@
+{
+  "title": "Nathan Olof von Bängen",
+  "slug": "nathan-olof-von-bangen",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Nathan Olof von Bängen.md",
+  "url": "notes/nathan-olof-von-bangen.html",
+  "apiUrl": "api/notes/nathan-olof-von-bangen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Älterer Bruder von Hilde. Akademiker und Gastwirt, der das Handwerk des Vaters lernt",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Nathan"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    }
+  ],
+  "markdown": "- Älterer Bruder von [[Hilde]].\n- Akademiker und Gastwirt, der das Handwerk des Vaters lernt\n- "
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Revolver",
+  "slug": "revolver",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Sven/Revolver.md",
+  "url": "notes/revolver.html",
+  "apiUrl": "api/notes/revolver.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Svens",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    }
+  ],
+  "markdown": "- [[Sven]]s\n- "
+}

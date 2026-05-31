@@ -1,0 +1,228 @@
+{
+  "title": "S01 - Ankunft in Uppsala",
+  "slug": "s01-ankunft-in-uppsala",
+  "category": "session",
+  "relativePath": "7 - Protokoll/Session Protokolle/S01 - Ankunft in Uppsala.md",
+  "url": "notes/s01-ankunft-in-uppsala.html",
+  "apiUrl": "api/notes/s01-ankunft-in-uppsala.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "[outgame:: 14.02.2026] [ingame:: 1890 02 04 (Di)] ==Winter. Februar. Es ist Kalt. Es schneit. [!dialogue2] Szene 1 Der Brief Gottesdienste sind vorbei. Linnea schreibt Hilde. Es ge",
+  "frontmatter": {
+    "tags": "Protokoll"
+  },
+  "links": [
+    {
+      "target": "1890-02-04 (Di)",
+      "label": "1890-02-04 (Di)",
+      "slug": "1890-02-04-di"
+    },
+    {
+      "target": "Linnea",
+      "label": "Linnea",
+      "slug": "linnea"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Kille",
+      "label": "Kille",
+      "slug": "kille"
+    },
+    {
+      "target": "Nathan Olof von Bängen",
+      "label": "Nathan",
+      "slug": "nathan-olof-von-bangen"
+    },
+    {
+      "target": "1890-02-05 (Mi)",
+      "label": "1890-02-05 (Mi)",
+      "slug": "1890-02-05-mi"
+    },
+    {
+      "target": "1890-02-06 (Do)",
+      "label": "1890-02-06 (Do)",
+      "slug": "1890-02-06-do"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Dom von Uppsala",
+      "label": "Dom",
+      "slug": "dom-von-uppsala"
+    },
+    {
+      "target": "Becker und König",
+      "label": "Becker und König",
+      "slug": "becker-und-konig"
+    },
+    {
+      "target": "Linnea",
+      "label": "alte Frau",
+      "slug": "linnea"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Schloss Gyllenkreuz",
+      "label": "Schloss Gyllenkreuz",
+      "slug": "schloss-gyllenkreuz"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Die Annalen Der Gesellschaft",
+      "label": "Die Annalen Der Gesellschaft",
+      "slug": "die-annalen-der-gesellschaft"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    },
+    {
+      "target": "Tine Rasmussen",
+      "label": "Tine Rasmussen",
+      "slug": "tine-rasmussen"
+    },
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    },
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskinder",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Wichtel",
+      "label": "Wichtel",
+      "slug": "wichtel"
+    },
+    {
+      "target": "Matz von Rosenberg",
+      "label": "Matz von Rosenberg",
+      "slug": "matz-von-rosenberg"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Orden der Artemis",
+      "slug": "gesellschaft"
+    },
+    {
+      "target": "Uloh-Massaker",
+      "label": "Uloh-Massaker",
+      "slug": "uloh-massaker"
+    },
+    {
+      "target": "Katja Kokola",
+      "label": "Katja Kokola",
+      "slug": "katja-kokola"
+    },
+    {
+      "target": "Hielma von Thulenstein",
+      "label": "Hielma von Thulenstein",
+      "slug": "hielma-von-thulenstein"
+    },
+    {
+      "target": "Albert Wriedenhelm",
+      "label": "Albert Wriedenhelm",
+      "slug": "albert-wriedenhelm"
+    },
+    {
+      "target": "Milchhase",
+      "label": "Milchhase",
+      "slug": "milchhase"
+    },
+    {
+      "target": "Geisterraben",
+      "label": "Geisterraben",
+      "slug": "geisterraben"
+    },
+    {
+      "target": "Algot Frisk",
+      "label": "Algot Frisk",
+      "slug": "algot-frisk"
+    },
+    {
+      "target": "Rosenberger",
+      "label": "Rosenberger",
+      "slug": "rosenberger"
+    },
+    {
+      "target": "Olaus Klint",
+      "label": "Olaus Klint",
+      "slug": "olaus-klint"
+    },
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskind",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "1890-02-07 (Fr)",
+      "label": "1890-02-07 (Fr)",
+      "slug": "1890-02-07-fr"
+    },
+    {
+      "target": "Piry",
+      "label": "Piry",
+      "slug": "piry"
+    },
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar Hjort",
+      "slug": "oscar-hjort"
+    },
+    {
+      "target": "Max",
+      "label": "Max",
+      "slug": "max"
+    },
+    {
+      "target": "Richard",
+      "label": "Richard",
+      "slug": "richard"
+    },
+    {
+      "target": "Privatdetektei Olaus Klint",
+      "label": "Privatdetektei Olaus Klint",
+      "slug": "privatdetektei-olaus-klint"
+    },
+    {
+      "target": "Olaf",
+      "label": "Olaf",
+      "slug": "olaf"
+    },
+    {
+      "target": "Artemis",
+      "label": "Artemis",
+      "slug": "artemis"
+    }
+  ],
+  "markdown": "\n[outgame:: 14.02.2026]\n[ingame:: [[1890-02-04 (Di)]]]\n\n==Winter. Februar. Es ist Kalt. Es schneit.\n\n>[!dialogue2] Szene 1 - Der Brief\n- Gottesdienste sind vorbei.\n- [[Linnea]] schreibt [[Hilde]]. Es geht um ein Erbe. Sie braucht Hilfe. Lädt sie ein in den nächsten Tagen.\n- [[Hilde]] will zu [[Sven]]\n\n>[!dialogue2] Szene 2 - In der Hauswirtschaft\n- \"Hör auf zu Kläffen, [[Kille]].\"\n- [[Nathan Olof von Bängen|Nathan]]: 2 Groschen wie immer.\n- Morgen früh los.\n- 2 Tage.\n\n---\n==[[1890-02-05 (Mi)]]==\n>[!dialogue2] Szene 3 - Der verschneite Morgen\n- Es schneit ganz leicht. Grauer Himmel. \n- Schwarzes Skelett an Ästen. \n\n---\n\n==[[1890-02-06 (Do)]]==\n- Aus Schnee wird graupel, matschig grau\n- Mit dem Schlitten kommt man nicht weiter.\n\n>[!dialogue2] Szene 4 - Upsala\n- Ankunft in [[Uppsala]]\n- Elendsviertel\n- Hier sind die Arbeiter\n- Es ist laut, schlechte Luft\n\n>[!dialogue2] Szene 5 - Becker und König\n- ==Morgens==\n- Königsstraße, beim [[Dom von Uppsala|Dom]], [[Becker und König]]\n- Da steht eine [[Linnea|alte Frau]] (60 Jahre). Priesterin oder Jägerin? Brille. Gebildet? Abenteurerin?\n- [[Linnea]] \n- Linea an [[Jona]]: Was trägst du denn da für eine Kette?\n- Fahrt mit der Kutsche zu [[Schloss Gyllenkreuz]]\n- [[Charlot]] holt sich ein Brot, sagt, [[Linnea]]\n- [[Linnea]] schickt die \"Männer\" weg.\n- Meinen Sie, dass in den Büchern alles beschrieben ist? Dieser Schmuck. Schon mal mit einem Wichtel geredet? (Münze auf den Dachbalken für Wichtel)\n- Es geht um ein Erbe, aber ich weiß nicht, \n- [[Hilde]] empfindet Unbehagen\n- [[Jona]] erkennt, [[Linnea]] hat Erfahrung\n- Es gab damals eine Gruppe von Leuten, die diese Wesen und Dinge erforscht haben\n- [[Linnea]] gibt [[Hilde]] \n- \"Ich muss in die Nervenheilanstalt\"\n- [[Hilde]]: \"Ich muss hier etwas lesen...\"\n\n>[!dialogue2] Szene 6 - Ankunft beim Schloss Gyllenkreuz\n- [[Schloss Gyllenkreuz]] ist mitten in der Stadt\n- Bootsanlegerhäuschen, überall \n- Rattenkot, toter Vogel, ehemals botanischer Garten\n- Brunnen im Garten\n- Mehrere Schlösser hier am Fluss\n- [[Sven]] und [[Charlot]] Stallungen rechts\n- Griechische Götter am Springbrunnen. Artemis, Göttin der Jagd, größer als der Rest. Auf der anderen Seite des Gartens ein kleiner Hügel, seltsam.\n- [[Jona]] öffnet die Tür. [[Hilde]] wollte auf [[Sven]] warten.\n\n>[!dialogue2] Szene 7 - Im Schloss (EG)\n- Verstaubt.\n- Vergilbtes Licht. Staubwolke im Licht. In Ecken tappelt etwas weg.\n- Altes Geschirr, Rattennester\n- Küche, Esssaal, Salon, Bibliothekszimmer, 2 weitere abgeschlossene Türen\n\n>[!dialogue2] Szene 8 - Bibliothekszimmer\n- Märchen, Naturwissenschaften, ...\n- [[Charlot]] und [[Hilde]] schauen sich die Bücher an\n- [[Hilde]]: \"[[Die Annalen Der Gesellschaft]]\" = Während Studium Inquisition erforscht, hier liest sie etwas über Die [[Gesellschaft]]\n\t- Gründerin. Anfang 15. Jhd. [[Tine Rasmussen]] hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach wurde sie angeklagt, dass sie [[Vaesen]] sehen könnte. Sie ist mit dem Blick gesegnet worden, eins der [[Donnerstagskinder]]. Vier [[Wichtel]] hätten sie befreit. Danach wäre sie untergetaucht. [[Matz von Rosenberg]] getroffen. [[Gesellschaft|Orden der Artemis]] gegründet.\n\t- Ende: [[Uloh-Massaker]]. Vor 10 Jahren haben sich 50-60 Leute der Gesellschaft dort getroffen, nicht alle. Riesen haben die Gesellschaft angegriffen. Viele Priester sind gestorben. Sie haben sich dort versammelt, um gegen Riesen zu kämpfen. Überlebende: \n\t\t- [[Katja Kokola]]. Ostsee-Kraken. \n\t\t- [[Hielma von Thulenstein]]. \n\t\t- [[Albert Wriedenhelm]]. Polarlichter erforschen.\n\t- Wer hat das Buch geschrieben? [[Hilde]] glaubt das Schriftbild des letzten zu kennen. Sonst mehrere Autoren.\n- [[Charlot]]: Notizen: Gifte durch Spiriti, [[Milchhase]] = Kobold, [[Geisterraben]] im Krieg, Lindwurm \n\t- [[Charlot]] beginnt auf Französisch zu fluchen. Er kann sich zurückhalten. Er hat über [[Geisterraben]] gelesen. \n\t- Er glaubt es nicht.\n- [[Charlot]] beleidigt [[Sven]]s Mutter.\n\n>[!dialogue2] Szene 9 - Albert Frisk\n- [[Algot Frisk]].\n- Über 100 Jahre. \n- Gute [[Linnea]] ist wahnsinnig. \n- [[Algot Frisk]]: \"Sind Sie Rosenberger?\"\n- [[Sven]] macht mit dem [[Algot Frisk]] sauber\n- Das Haus gehört der [[Gesellschaft]].\n- Dunkle [[Vaesen]] sehen und sie töten.\n- Aufgabe: Menschen schützen und [[Vaesen]] erforschen.\n- Sie können kein [[Rosenberger]] werden. Die die [[Vaesen]] abschlachten.\n- [[Charlot]] will mehr über die Raben zu erfahren. Der kann aber nicht lesen.\n\n>[!dialogue2] Szene 10 - Der Brief\n- Wir haben einen Brief erhalten von [[Olaus Klint]]... Einladung zum [[Gasthaus Hexenkatze]]\n\n\n![[Einladung von Olaus.png]]\n\n>[!dialogue2] Szene 11 - Klartext\n- [[Jona]]: Jetzt Klartext. Seht ihr sie? \n- [[Charlot]]: Sie sind eine Gefahr\n- [[Jona]]: Wir müssen sie bekämpfen. Ich muss wissen, wo ihr steht.\n- [[Hilde]]: Es ist eine gottgegebene Gabe. Sie sind Teil der Schöpfung.\n- [[Sven]]: Meine Mutter hat mir immer gesagt, ich sei ihr [[Donnerstagskinder|Donnerstagskind]]\n- [[Algot Frisk]]: Es gibt viel hier zu entdecken\n- Wir gehen schlafen\n\n>[!dialogue2] Szene 12 - Keller\n- [[Charlot]] hat den Wein gefunden...\n- Artemis-Statue\n\n---\n\n==[[1890-02-07 (Fr)]]==\n>[!dialogue2] Szene 12 - Am nächsten Morgen\n- Rote Sonne wegen den Partikeln\n- [[Algot Frisk]] hat Frühstück gemacht\n- [[Sven]] putzt schon morgens\n- [[Charlot]] \n- Von Rosenbergern hält man sich besser fern. \n- [[Gasthaus Hexenkatze]] war kurz nach dem Massaker ein wichtiger Treffpunkt. [[Piry]] war der Ladenbesitzer.\n\n>[!dialogue2] Szene 13 - Vorbereitungen\n- [[Charlot]] und [[Hilde]] lesen\n- [[Jona]] ölt ihr Gewehr\n- [[Sven]]: Salon mit Sitzgruppe. \n\t- [[Oscar Hjort]]. Schriftsteller. Schattentheater. Sehr schön. \n\t- Wünschte sich zurück nach Frankreich.\n\t- Schattentheater kam ursprünglich aus Indien und in Paris beliebt. Ein Uhrwerk sollte damit umgegangen werden. \n\n>[!dialogue2] Szene 14 - Bei der Post\n- [[Max]] Junge, der uns herumführt.\n- [[Gasthaus Hexenkatze]] kleines Gasthaus\n- [[Jona]]: Ich will einen Brief an die Klausens schreiben. Wo wohnen die noch mal?\n- Polizist. [[Richard]] von der Post geschickt\n- [[Olaus Klint]]. Privatdetektiv. Auf Okkultes spezialisiert. \n- Dampfwolke von Bahngleisen.\n\n>[!dialogue2] Szene 15 - Bei Privatdetektei Olaus Klint\n- [[Sven]] und [[Jona]]\n- [[Privatdetektei Olaus Klint]]\n- Kleines grün gestrichenes Haus. Hier ist zu. \n- Holzmaske aus Tirol. Schreibtisch. Auf dem Türrahmen eine Münze. \n- Ein Brief. Nicht überquellend.\n- Zwei Kerle machen stunk. \n- [[Olaf]]\n- Sie passen auf die Gegend auf. \n- [[Jona]] pöbelt zurück. [[Kille]] bellt und knurrt.\n- [[Sven]] erzählt ihnen, dass wir den Blick haben\n- Einkauf von Lebensmitteln\n\n>[!dialogue2] Szene 16 - Im Garten\n- [[Charlot]] und [[Hilde]]\n- 7 Kreuze auf dem Hügel\n- Beim Brunnen die Artemis\n\n>[!dialogue2] Szene 17 - Keller\n- [[Algot Frisk]] \n- Abendessen\n- [[Algot Frisk]] zeigt uns die Kapelle im Keller\n- [[Artemis]] ist Schutzheilige der [[Gesellschaft]]\n- Ohne Segen der Artemis! Wir haben es nicht geschafft, den Schwur nachzusprechen.\n\n- Was ist unsere Mission hier?\n\n\n\n\n\n---\n\n"
+}

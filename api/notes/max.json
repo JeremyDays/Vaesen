@@ -1,0 +1,35 @@
+{
+  "title": "Max",
+  "slug": "max",
+  "category": "npc",
+  "relativePath": "2 - NSCs/03 Uppsala/Max.md",
+  "url": "notes/max.html",
+  "apiUrl": "api/notes/max.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Junge, der Sven und Jona in Uppsala herumführt.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    }
+  ],
+  "markdown": "- Junge, der [[Sven]] und [[Jona]] in [[Uppsala]] herumführt.\n\n"
+}

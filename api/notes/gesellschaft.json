@@ -1,0 +1,28 @@
+{
+  "title": "Gesellschaft",
+  "slug": "gesellschaft",
+  "category": "faction",
+  "relativePath": "0 - Fraktionen/Gesellschaft.md",
+  "url": "notes/gesellschaft.html",
+  "apiUrl": "api/notes/gesellschaft.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Eine Gruppe von Donnerstagskindern.",
+  "frontmatter": {
+    "tags": [
+      "Fraktion"
+    ],
+    "aliases": [
+      "Orden der Artemis"
+    ]
+  },
+  "links": [
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskinder",
+      "slug": "donnerstagskinder"
+    }
+  ],
+  "markdown": "\n- Eine Gruppe von [[Donnerstagskinder]]n.\n- "
+}

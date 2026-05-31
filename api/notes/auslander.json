@@ -1,0 +1,30 @@
+{
+  "title": "Ausländer",
+  "slug": "auslander",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Ausländer.md",
+  "url": "notes/auslander.html",
+  "apiUrl": "api/notes/auslander.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Hilde nimmt dem Ausländer die Beichte ab. Er hat eine tödliche Krankheit. Er will kein langanhaltendes Siechtum. Er will den Menschen nicht zur Last fallen. Er sehnt sich nach eine",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Ausländer",
+      "label": "Ausländer",
+      "slug": "auslander"
+    }
+  ],
+  "markdown": "- [[Hilde]] nimmt dem [[Ausländer]] die Beichte ab. \n- Er hat eine tödliche Krankheit. Er will kein langanhaltendes Siechtum. Er will den Menschen nicht zur Last fallen. Er sehnt sich nach einem Ende.\n- [[Hilde]] bestärkt den [[Ausländer]] in seiner Absicht, sich selbst das Leben zu nehmen.\n- Der [[Ausländer]] verstirbt.\n- [[Hilde]] gibt sich selbst die Schuld.\n\n"
+}

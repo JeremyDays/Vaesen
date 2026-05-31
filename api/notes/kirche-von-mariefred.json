@@ -1,0 +1,33 @@
+{
+  "title": "Kirche von Mariefred",
+  "slug": "kirche-von-mariefred",
+  "category": "location",
+  "relativePath": "3 - Orte/In Mariefred/Kirche von Mariefred.md",
+  "url": "notes/kirche-von-mariefred.html",
+  "apiUrl": "api/notes/kirche-von-mariefred.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Hier ist Hilde tätig. Die Kirche liegt direkt nebem dem Gasthof von Bängen.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ],
+    "aliases": [
+      "Kirche"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Gasthof von Bängen",
+      "label": "Gasthof von Bängen",
+      "slug": "gasthof-von-bangen"
+    }
+  ],
+  "markdown": "- Hier ist [[Hilde]] tätig.\n- Die Kirche liegt direkt nebem dem [[Gasthof von Bängen]].\n\n\n"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Gaul",
+  "slug": "gaul",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Charlot/Gaul.md",
+  "url": "notes/gaul.html",
+  "apiUrl": "api/notes/gaul.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Altes Pferd von Charlot.",
+  "frontmatter": {
+    "tags": "NSC"
+  },
+  "links": [
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    }
+  ],
+  "markdown": "\n- Altes Pferd von [[Charlot]].\n- "
+}

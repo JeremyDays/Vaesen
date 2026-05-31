@@ -1,0 +1,25 @@
+{
+  "title": "Nachtraben",
+  "slug": "nachtraben",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Nachtraben.md",
+  "url": "notes/nachtraben.html",
+  "apiUrl": "api/notes/nachtraben.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "Vaesen",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    }
+  ],
+  "markdown": "- [[Vaesen]]"
+}

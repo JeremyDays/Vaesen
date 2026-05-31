@@ -1,0 +1,35 @@
+{
+  "title": "Rosenberger",
+  "slug": "rosenberger",
+  "category": "faction",
+  "relativePath": "0 - Fraktionen/Rosenberger.md",
+  "url": "notes/rosenberger.html",
+  "apiUrl": "api/notes/rosenberger.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Fraktion der Donnerstagskinder, die im Gegensatz zur Gesellschaft nicht daran interessiert ist, Vaesen zu verstehen und sie zu schützen, sondern sie zu vernichten.",
+  "frontmatter": {
+    "tags": [
+      "Fraktion"
+    ]
+  },
+  "links": [
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskinder",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    },
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    }
+  ],
+  "markdown": "- Fraktion der [[Donnerstagskinder]], die im Gegensatz zur [[Gesellschaft]] nicht daran interessiert ist, [[Vaesen]] zu verstehen und sie zu schützen, sondern sie zu vernichten.\n\n"
+}

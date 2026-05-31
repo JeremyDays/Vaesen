@@ -1,0 +1,19 @@
+{
+  "title": "Milchhase",
+  "slug": "milchhase",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Milchhase.md",
+  "url": "notes/milchhase.html",
+  "apiUrl": "api/notes/milchhase.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Bruder Charlots",
+  "slug": "bruder-charlots",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Charlot/Bruder Charlots.md",
+  "url": "notes/bruder-charlots.html",
+  "apiUrl": "api/notes/bruder-charlots.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ist im Krieg gefallen.",
+  "frontmatter": {
+    "tags": "NSC"
+  },
+  "links": [],
+  "markdown": "\n- Ist im Krieg gefallen."
+}

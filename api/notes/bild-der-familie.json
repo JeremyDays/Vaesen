@@ -1,0 +1,25 @@
+{
+  "title": "Bild der Familie",
+  "slug": "bild-der-familie",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Sven/Bild der Familie.md",
+  "url": "notes/bild-der-familie.html",
+  "apiUrl": "api/notes/bild-der-familie.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Svens Memento",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    }
+  ],
+  "markdown": "- [[Sven]]s Memento\n- "
+}

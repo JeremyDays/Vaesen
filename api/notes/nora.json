@@ -1,0 +1,30 @@
+{
+  "title": "Nora",
+  "slug": "nora",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Nora.md",
+  "url": "notes/nora.html",
+  "apiUrl": "api/notes/nora.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Sophias Mutter. Hat die Gasthaus Hexenkatze verlassen Ist ein paar Monate später verstorben.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sophia",
+      "label": "Sophia",
+      "slug": "sophia"
+    },
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    }
+  ],
+  "markdown": "\n- [[Sophia]]s Mutter. \n- Hat die [[Gasthaus Hexenkatze]] verlassen\n- Ist ein paar Monate später verstorben."
+}

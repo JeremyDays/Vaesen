@@ -1,0 +1,19 @@
+{
+  "title": "Furchtwurf",
+  "slug": "furchtwurf",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Furchtwurf.md",
+  "url": "notes/furchtwurf.html",
+  "apiUrl": "api/notes/furchtwurf.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Wurf auf LOGIK oder EMPATHIE [+] Anzahl von Freunden [ ] Geistiger Zustand Bei Fehlschlag: [+] Mentaler Zustand Und: Erstarren, In Ohnmacht fallen, Fliehen, oder Angreifen Dauer: d",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "**Wurf auf LOGIK oder EMPATHIE**\n[+] Anzahl von Freunden\n[-] Geistiger Zustand\n\n**Bei Fehlschlag:**\n[+] Mentaler Zustand\nUnd:\n- Erstarren, \n- In Ohnmacht fallen, \n- Fliehen, oder \n- Angreifen\n\n**Dauer:** d6 x 10s bzw. Runden\n\n"
+}

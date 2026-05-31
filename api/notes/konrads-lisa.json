@@ -1,0 +1,20 @@
+{
+  "title": "Konrads Lisa",
+  "slug": "konrads-lisa",
+  "category": "npc",
+  "relativePath": "2 - NSCs/05 Fudal/Konrads Lisa.md",
+  "url": "notes/konrads-lisa.html",
+  "apiUrl": "api/notes/konrads-lisa.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "alias": "Lisa",
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

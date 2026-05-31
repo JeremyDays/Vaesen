@@ -1,0 +1,73 @@
+{
+  "title": "Donnerstagskinder",
+  "slug": "donnerstagskinder",
+  "category": "faction",
+  "relativePath": "0 - Fraktionen/Donnerstagskinder.md",
+  "url": "notes/donnerstagskinder.html",
+  "apiUrl": "api/notes/donnerstagskinder.json",
+  "tags": [
+    "Fraktion"
+  ],
+  "excerpt": "Kinder, die von Thor gesegnet sind und Vaesen sehen können. Mitglieder: Linnea Charlot Hilde Jona Sven Katja Kokola Hielma von Thulenstein Albert Wriedenhelm",
+  "frontmatter": {
+    "tags": [
+      "Fraktion"
+    ],
+    "aliases": [
+      "Donnerstagskind"
+    ]
+  },
+  "links": [
+    {
+      "target": "Thor",
+      "label": "Thor",
+      "slug": "thor"
+    },
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    },
+    {
+      "target": "Linnea",
+      "label": "Linnea",
+      "slug": "linnea"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Katja Kokola",
+      "label": "Katja Kokola",
+      "slug": "katja-kokola"
+    },
+    {
+      "target": "Hielma von Thulenstein",
+      "label": "Hielma von Thulenstein",
+      "slug": "hielma-von-thulenstein"
+    },
+    {
+      "target": "Albert Wriedenhelm",
+      "label": "Albert Wriedenhelm",
+      "slug": "albert-wriedenhelm"
+    }
+  ],
+  "markdown": "\n- Kinder, die von [[Thor]] gesegnet sind und [[Vaesen]] sehen können.\n\n\n**Mitglieder:**\n- [[Linnea]]\n- [[Charlot]]\n- [[Hilde]]\n- [[Jona]]\n- [[Sven]]\n- [[Katja Kokola]]\n- [[Hielma von Thulenstein]]\n- [[Albert Wriedenhelm]]\n\n"
+}

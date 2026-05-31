@@ -1,0 +1,35 @@
+{
+  "title": "Drauger",
+  "slug": "drauger",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Drauger.md",
+  "url": "notes/drauger.html",
+  "apiUrl": "api/notes/drauger.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "Ein Vaesen Ein Untoter, der Rache will. Oscar Hjort Erzeugt Albträume wie im Gasthaus Hexenkatze: Alle träumen dasselbe. Auf der Bühne stehen und mit Dolch erdolcht werden. Er hat ",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    },
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar Hjort",
+      "slug": "oscar-hjort"
+    },
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    }
+  ],
+  "markdown": "- Ein [[Vaesen]]\n- Ein Untoter, der Rache will.\n- [[Oscar Hjort]]\n- Erzeugt Albträume wie im [[Gasthaus Hexenkatze]]: \n\t- Alle träumen dasselbe. Auf der Bühne stehen und mit Dolch erdolcht werden. Er hat es auch schon geträumt. Die Freunde sind der Teufel. Das Blut läuft runter, und das Publikum klatscht."
+}

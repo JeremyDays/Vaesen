@@ -1,0 +1,33 @@
+{
+  "title": "Elin Jansen",
+  "slug": "elin-jansen",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Sven/Elin Jansen.md",
+  "url": "notes/elin-jansen.html",
+  "apiUrl": "api/notes/elin-jansen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Schwester von Sven Geschlagen von Vater Nils Jansen. Früh verstorben Das hat sich Sven nie verziehen. Und seinen Eltern auch nicht. Motivation: Nähe Trauma: Vernachlässigung Dunkle",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Elin"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Nils Jansen",
+      "label": "Nils Jansen",
+      "slug": "nils-jansen"
+    }
+  ],
+  "markdown": "- Schwester von [[Sven]]\n\n- Geschlagen von Vater [[Nils Jansen]].\n- Früh verstorben\n- Das hat sich [[Sven]] nie verziehen. Und seinen Eltern auch nicht.\n\n **Motivation:** Nähe\n- **Trauma:** Vernachlässigung\n- **Dunkles Geheimnis:** Nie ausgesprochen\n- Weich, ruhig, emotional\n- Verlust und Verdrängung\n- [[Sven]]s Schwester starb früh – vermutlich an:\n\t- Krankheit (Lungenentzündung, Tuberkulose)  \n\t- oder Unterversorgung\n- Sie war das einzige Wesen, bei dem [[Sven]] Schwäche zeigen durfte\n- Ihr Tod zerschlug die letzte emotionale Brücke im Haus\n- Sven lernte: Nähe bedeutet Verlust.\n- Er reagierte mit emotionalem Rückzug und körperlicher Härte."
+}

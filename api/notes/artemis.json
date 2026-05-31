@@ -1,0 +1,19 @@
+{
+  "title": "Artemis",
+  "slug": "artemis",
+  "category": "lore",
+  "relativePath": "5 - Welt/Artemis.md",
+  "url": "notes/artemis.html",
+  "apiUrl": "api/notes/artemis.json",
+  "tags": [],
+  "excerpt": "Schutzzeilige der Gesellschaft",
+  "frontmatter": {},
+  "links": [
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    }
+  ],
+  "markdown": "\n\n- Schutzzeilige der [[Gesellschaft]]\n"
+}

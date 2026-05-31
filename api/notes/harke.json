@@ -1,0 +1,30 @@
+{
+  "title": "Harke",
+  "slug": "harke",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Hilde/Harke.md",
+  "url": "notes/harke.html",
+  "apiUrl": "api/notes/harke.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Hat Hilde aus dem Gasthaus Hexenkatze mitgenommen.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    }
+  ],
+  "markdown": "- Hat [[Hilde]] aus dem [[Gasthaus Hexenkatze]] mitgenommen."
+}

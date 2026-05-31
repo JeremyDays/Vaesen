@@ -1,0 +1,23 @@
+{
+  "title": "Herr Ohlsdorf",
+  "slug": "herr-ohlsdorf",
+  "category": "npc",
+  "relativePath": "2 - NSCs/03 Uppsala/Herr Ohlsdorf.md",
+  "url": "notes/herr-ohlsdorf.html",
+  "apiUrl": "api/notes/herr-ohlsdorf.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Bischof von Uppsala",
+  "frontmatter": {
+    "tags": "NSC"
+  },
+  "links": [
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    }
+  ],
+  "markdown": "\n- Bischof von [[Uppsala]]\n\n\n"
+}

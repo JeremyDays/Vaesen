@@ -1,0 +1,25 @@
+{
+  "title": "Albert Frisk",
+  "slug": "albert-frisk",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Albert Frisk.md",
+  "url": "notes/albert-frisk.html",
+  "apiUrl": "api/notes/albert-frisk.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Bediensteter von Schloss Gyllenkreuz.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Schloss Gyllenkreuz",
+      "label": "Schloss Gyllenkreuz",
+      "slug": "schloss-gyllenkreuz"
+    }
+  ],
+  "markdown": "Bediensteter von [[Schloss Gyllenkreuz]].\n"
+}

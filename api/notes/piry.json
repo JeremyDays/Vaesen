@@ -1,0 +1,45 @@
+{
+  "title": "Piry",
+  "slug": "piry",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Piry.md",
+  "url": "notes/piry.html",
+  "apiUrl": "api/notes/piry.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Vater von Sami Hat Oscar Hjort getötet. Zusammen mit Katja Kokola, Hielma von Thulenstein und Albert Wriedenhelm.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sami",
+      "label": "Sami",
+      "slug": "sami"
+    },
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar Hjort",
+      "slug": "oscar-hjort"
+    },
+    {
+      "target": "Katja Kokola",
+      "label": "Katja Kokola",
+      "slug": "katja-kokola"
+    },
+    {
+      "target": "Hielma von Thulenstein",
+      "label": "Hielma von Thulenstein",
+      "slug": "hielma-von-thulenstein"
+    },
+    {
+      "target": "Albert Wriedenhelm",
+      "label": "Albert Wriedenhelm",
+      "slug": "albert-wriedenhelm"
+    }
+  ],
+  "markdown": "\n- Vater von [[Sami]]\n- Hat [[Oscar Hjort]] getötet. Zusammen mit [[Katja Kokola]], [[Hielma von Thulenstein]] und [[Albert Wriedenhelm]]."
+}

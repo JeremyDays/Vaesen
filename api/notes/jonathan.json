@@ -1,0 +1,25 @@
+{
+  "title": "Jonathan",
+  "slug": "jonathan",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Jonathan.md",
+  "url": "notes/jonathan.html",
+  "apiUrl": "api/notes/jonathan.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Bauer aus dem Gasthaus Hexenkatze Im kalten Feuer verstorben",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    }
+  ],
+  "markdown": "- Bauer aus dem [[Gasthaus Hexenkatze]]\n- Im kalten Feuer verstorben\n\n"
+}

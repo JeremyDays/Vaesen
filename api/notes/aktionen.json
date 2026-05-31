@@ -1,0 +1,19 @@
+{
+  "title": "Aktionen",
+  "slug": "aktionen",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Aktionen.md",
+  "url": "notes/aktionen.html",
+  "apiUrl": "api/notes/aktionen.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Jede Runde hat man 1 Hauptaktion + 1 Nebenaktion Hauptaktionen / Langsame Aktionen Angreifen Fertigkeit einsetzen Waffe ziehen Nebenaktionen / Schnelle Aktionen Etwas sagen Pariere",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\nJede Runde hat man 1 Hauptaktion + 1 Nebenaktion\n\n**Hauptaktionen / Langsame Aktionen**\n- Angreifen\n- Fertigkeit einsetzen\n- Waffe ziehen\n\n**Nebenaktionen / Schnelle Aktionen**\n- Etwas sagen\n- Parieren / Ausweichen\n- "
+}

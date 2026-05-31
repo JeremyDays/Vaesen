@@ -1,0 +1,28 @@
+{
+  "title": "Johan Erik Johansson Junior",
+  "slug": "johan-erik-johansson-junior",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Jona/Johan Erik Johansson Junior.md",
+  "url": "notes/johan-erik-johansson-junior.html",
+  "apiUrl": "api/notes/johan-erik-johansson-junior.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Älterer Bruder von Jona",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Erik"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    }
+  ],
+  "markdown": "- Älterer Bruder von [[Jona]]\n\n"
+}

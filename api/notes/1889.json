@@ -1,0 +1,23 @@
+{
+  "title": "1889",
+  "slug": "1889",
+  "category": "session",
+  "relativePath": "7 - Protokoll/Kalender/1889.md",
+  "url": "notes/1889.html",
+  "apiUrl": "api/notes/1889.json",
+  "tags": [
+    "Kalender"
+  ],
+  "excerpt": "Oscar Hjort beginnt mit dem Spuk",
+  "frontmatter": {
+    "tags": "Kalender"
+  },
+  "links": [
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar Hjort",
+      "slug": "oscar-hjort"
+    }
+  ],
+  "markdown": "\n- [[Oscar Hjort]] beginnt mit dem Spuk\n- "
+}

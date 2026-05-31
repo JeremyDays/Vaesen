@@ -1,0 +1,30 @@
+{
+  "title": "Olaf",
+  "slug": "olaf",
+  "category": "npc",
+  "relativePath": "2 - NSCs/03 Uppsala/Olaf.md",
+  "url": "notes/olaf.html",
+  "apiUrl": "api/notes/olaf.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Schläger, der auf Olaus Klints Haus aufpasst. \"Nachbarschaftsschutz\" Kein DonnerstagskindDonnerstagskinder. Kennt sie aber. Hat Angst vor diesen.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Olaus Klint",
+      "label": "Olaus Klint",
+      "slug": "olaus-klint"
+    },
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskind",
+      "slug": "donnerstagskinder"
+    }
+  ],
+  "markdown": "- Schläger, der auf [[Olaus Klint]]s Haus aufpasst.\n- \"Nachbarschaftsschutz\"\n- Kein [[Donnerstagskinder|Donnerstagskind]]. Kennt sie aber. Hat Angst vor diesen."
+}

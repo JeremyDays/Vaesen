@@ -1,0 +1,19 @@
+{
+  "title": "Elfen",
+  "slug": "elfen",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Elfen.md",
+  "url": "notes/elfen.html",
+  "apiUrl": "api/notes/elfen.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

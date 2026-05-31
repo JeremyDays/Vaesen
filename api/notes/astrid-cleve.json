@@ -1,0 +1,23 @@
+{
+  "title": "Astrid Cleve",
+  "slug": "astrid-cleve",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Astrid Cleve.md",
+  "url": "notes/astrid-cleve.html",
+  "apiUrl": "api/notes/astrid-cleve.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin erhielt in 1898. War eine leidenschaftliche Botanikerin. Stephan: Es wäre spannend, sie ",
+  "frontmatter": {
+    "tags": "NSC"
+  },
+  "links": [
+    {
+      "target": "1898",
+      "label": "1898",
+      "slug": "1898"
+    }
+  ],
+  "markdown": "\n- Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin erhielt in [[1898]]. \n- War eine leidenschaftliche Botanikerin.\n>**Stephan:** Es wäre spannend, sie im Spiel zu treffen."
+}

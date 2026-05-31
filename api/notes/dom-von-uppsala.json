@@ -1,0 +1,25 @@
+{
+  "title": "Dom von Uppsala",
+  "slug": "dom-von-uppsala",
+  "category": "location",
+  "relativePath": "3 - Orte/In Uppsala/Dom von Uppsala.md",
+  "url": "notes/dom-von-uppsala.html",
+  "apiUrl": "api/notes/dom-von-uppsala.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Bei der Königsstraße Beim Becker und König",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Becker und König",
+      "label": "Becker und König",
+      "slug": "becker-und-konig"
+    }
+  ],
+  "markdown": "- Bei der Königsstraße\n- Beim [[Becker und König]]\n- "
+}

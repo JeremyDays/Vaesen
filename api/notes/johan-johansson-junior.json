@@ -1,0 +1,33 @@
+{
+  "title": "Johan Johansson Junior",
+  "slug": "johan-johansson-junior",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Jona/Johan Johansson Junior.md",
+  "url": "notes/johan-johansson-junior.html",
+  "apiUrl": "api/notes/johan-johansson-junior.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ältester Bruder von Jona. Jona schoss ihm in die Schulter. Charlot versorgte die Wunde.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Jon"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    }
+  ],
+  "markdown": "- Ältester Bruder von [[Jona]].\n- [[Jona]] schoss ihm in die Schulter.\n- [[Charlot]] versorgte die Wunde.\n\n"
+}

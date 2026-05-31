@@ -1,0 +1,33 @@
+{
+  "title": "Hielma von Thulenstein",
+  "slug": "hielma-von-thulenstein",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Hielma von Thulenstein.md",
+  "url": "notes/hielma-von-thulenstein.html",
+  "apiUrl": "api/notes/hielma-von-thulenstein.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "DonnerstagskindDonnerstagskinder Mitglied der Gesellschaft Überlebende",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Gräfin Hielma von Thulenstein"
+    ]
+  },
+  "links": [
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskind",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    }
+  ],
+  "markdown": "\n- [[Donnerstagskinder|Donnerstagskind]]\n- Mitglied der [[Gesellschaft]]\n- Überlebende"
+}

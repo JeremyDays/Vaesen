@@ -1,0 +1,48 @@
+{
+  "title": "Nils Jansen",
+  "slug": "nils-jansen",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Sven/Nils Jansen.md",
+  "url": "notes/nils-jansen.html",
+  "apiUrl": "api/notes/nils-jansen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Vater von Sven Ehemaliger Minenarbeiter, bis es zu einem Unfall kam. Erzog Sven mit dem Ledergürtel. Schlug auch seine Frau Karin Jansen und seine Tochter Elin Jansen Er brachte Sv",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Nils"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Karin Jansen",
+      "label": "Karin Jansen",
+      "slug": "karin-jansen"
+    },
+    {
+      "target": "Elin Jansen",
+      "label": "Elin Jansen",
+      "slug": "elin-jansen"
+    },
+    {
+      "target": "Revolver",
+      "label": "Revolver",
+      "slug": "revolver"
+    },
+    {
+      "target": "Nils Jansen",
+      "label": "Nils Jansen",
+      "slug": "nils-jansen"
+    }
+  ],
+  "markdown": "\n- Vater von [[Sven]]\n- Ehemaliger Minenarbeiter, bis es zu einem Unfall kam.\n- Erzog [[Sven]] mit dem Ledergürtel.\n- Schlug auch seine Frau [[Karin Jansen]] und seine Tochter [[Elin Jansen]]\n- Er brachte [[Sven]] das Boxen bei.\n- Körperliche Tüchtigkeit war ihm sehr wichtig. \n- Er hatte einen Napoleon-Komplex.\n- Er führte [[Sven]] in Boxkämpfe für Geld ein und presste den Jungen um jedes Geld, auch wenn sein Sohn verprügelt wurde.\n- [[Sven]] wollte ihn damals mit einem [[Revolver]] umbringen, aber [[Nils Jansen]] verstarb bereits vorher.\n\n\n- **Motivation:** Kontrolle\n- **Trauma:** Ohnmacht\n- **Dunkles Geheimnis:** Eigene Gewaltfantasien\n- Herkunft Dänemark.\n- Disziplin, Gewalt und gescheiterte Männlichkeit\n- [[Sven]]s Vater war Bergarbeiter, körperlich stark, früh verschlissen.\n- Er erwartete, dass sein Sohn \"funktioniert\".\n- Warum Gewalt?\n\t- Körperliche Züchtigung war gesellschaftlich akzeptiert, besonders gegen Kinder\n    - Der Ledergürtel steht symbolisch für:\n        - Disziplin\n        - patriarchale Ordnung\n        - „Schwäche austreiben“    \n- Alkohol diente als:\n\t- Selbstmedikation gegen Schmerzen\n    - Ventil für Ohnmacht gegenüber Arbeitgebern, Staat, Kirche    \n- Er war kein sadistischer Monster, sondern ein Mann, der:\n\t- nur Kraft als Wert kannte\n    - emotionale Sprache nie gelernt hatte\n    - sich selbst als gescheitert empfand\n- Religion des Vaters:  \n\t- Formal lutherisch, praktisch moralistisch:\n\t- Gott = Richter\n\t- Sünde = Schwäche\n\t- Erlösung = Arbeit + Gehorsam  \n\t- Keine Gnade, keine Mystik, keine Wärme."
+}

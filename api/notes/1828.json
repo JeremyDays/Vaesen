@@ -1,0 +1,25 @@
+{
+  "title": "1828",
+  "slug": "1828",
+  "category": "session",
+  "relativePath": "7 - Protokoll/Kalender/1828.md",
+  "url": "notes/1828.html",
+  "apiUrl": "api/notes/1828.json",
+  "tags": [
+    "Kalender"
+  ],
+  "excerpt": "Tod Jonas Olbers.",
+  "frontmatter": {
+    "tags": [
+      "Kalender"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jonas Olbers",
+      "label": "Jonas Olbers",
+      "slug": "jonas-olbers"
+    }
+  ],
+  "markdown": "\n\nTod [[Jonas Olbers]].\n"
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Alda Margherita Olbers",
+  "slug": "alda-margherita-olbers",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Alda Margherita Olbers.md",
+  "url": "notes/alda-margherita-olbers.html",
+  "apiUrl": "api/notes/alda-margherita-olbers.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mutter von Hilde. Alda Margherita Olbers wurde als Tochter des Pfarrers Jonas Olbers geboren und war eine schwedische Dichterin und Übersetzerin. Sie wuchs in einem wohlhabenden un",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Alda"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Alda Margherita Olbers",
+      "label": "Alda Margherita Olbers",
+      "slug": "alda-margherita-olbers"
+    },
+    {
+      "target": "Jonas Olbers",
+      "label": "Jonas Olbers",
+      "slug": "jonas-olbers"
+    },
+    {
+      "target": "Jonas Olbers",
+      "label": "ihres Vaters",
+      "slug": "jonas-olbers"
+    },
+    {
+      "target": "1828",
+      "label": "1828",
+      "slug": "1828"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Alda Margherita Olbers",
+      "label": "Alda",
+      "slug": "alda-margherita-olbers"
+    },
+    {
+      "target": "Gustaf von Bängen",
+      "label": "Gustaf von Bängen",
+      "slug": "gustaf-von-bangen"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    }
+  ],
+  "markdown": "- Mutter von [[Hilde]].\n\n >[[Alda Margherita Olbers]] wurde als Tochter des Pfarrers [[Jonas Olbers]] geboren und war eine schwedische Dichterin und Übersetzerin. Sie wuchs in einem wohlhabenden und gebildeten Umfeld auf, das ihr gute Fremdsprachenkenntnisse und literarische Bildung vermittelte. Sie beherrschte Englisch, Deutsch und Französisch, in gewissem Maße auch Spanisch, und verdiente sich so ihr Geld durch Übersetzungen. \n >Nach dem Tod [[Jonas Olbers|ihres Vaters]] [[1828]] zogen Mutter und Tochter nach [[Uppsala]]. Sie lebten unter schlechten finanziellen Bedingungen und waren auf Spenden angewiesen. Dennoch unterhielten sie einen literarischen Salon, in dem [[Alda Margherita Olbers|Alda]] ihre Ausbildung fortsetzte. Zu den Besuchern des Salons gehörte unter anderem [[Gustaf von Bängen]]  der später ihr Ehemann wurde. Zusammen zogen sie zum Dorf [[Mariefred]], wo sie die Gastwirtschaft und das Weingut der Familie von Bängen übernahmen. "
+}

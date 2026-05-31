@@ -1,0 +1,28 @@
+{
+  "title": "Algot Frisk",
+  "slug": "algot-frisk",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Algot Frisk.md",
+  "url": "notes/algot-frisk.html",
+  "apiUrl": "api/notes/algot-frisk.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Bediensteter von Schloss Gyllenkreuz.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Frisk"
+    ]
+  },
+  "links": [
+    {
+      "target": "Schloss Gyllenkreuz",
+      "label": "Schloss Gyllenkreuz",
+      "slug": "schloss-gyllenkreuz"
+    }
+  ],
+  "markdown": "\n*Bediensteter von [[Schloss Gyllenkreuz]].*\n\n"
+}

@@ -1,0 +1,184 @@
+{
+  "title": "Hilde",
+  "slug": "hilde",
+  "category": "sc",
+  "relativePath": "1 - SCs/Hilde.md",
+  "url": "notes/hilde.html",
+  "apiUrl": "api/notes/hilde.json",
+  "tags": [
+    "SC"
+  ],
+  "excerpt": "Priesterin, 40 Jahre. Lernte vom Mutter viele Sprachen und die Inspiration in Gott, vom Papa die gesellschaftliche Ordnung und Prinzipien. Beschreibung Sie ist 40 Jahre alt, 175 cm",
+  "frontmatter": {
+    "tags": [
+      "SC"
+    ],
+    "aliases": [
+      "Hildegard von Bängen",
+      "Hilde Andrietta von Bängen"
+    ]
+  },
+  "links": [
+    {
+      "target": "S02 - Die Hexenkatze",
+      "label": "S02 - Die Hexenkatze",
+      "slug": "s02-die-hexenkatze"
+    },
+    {
+      "target": "Gustaf von Bängen",
+      "label": "Gustaf von Bängen",
+      "slug": "gustaf-von-bangen"
+    },
+    {
+      "target": "Alda Margherita Olbers",
+      "label": "Alda Margherita Olbers",
+      "slug": "alda-margherita-olbers"
+    },
+    {
+      "target": "Nathan Olof von Bängen",
+      "label": "Nathan Olof von Bängen",
+      "slug": "nathan-olof-von-bangen"
+    },
+    {
+      "target": "Vaesen/1 - SCs/Hilde",
+      "label": "Hilde Andrietta von Bängen",
+      "slug": null
+    },
+    {
+      "target": "Thekla Levinia von Bängen",
+      "label": "Thekla Levinia von Bängen",
+      "slug": "thekla-levinia-von-bangen"
+    },
+    {
+      "target": "Astrid Cleve",
+      "label": "Astrid Cleve",
+      "slug": "astrid-cleve"
+    },
+    {
+      "target": "1898",
+      "label": "1898",
+      "slug": "1898"
+    },
+    {
+      "target": "Carl Rosén von Bängen",
+      "label": "Carl Rosén von Bängen",
+      "slug": "carl-rosen-von-bangen"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Universität Uppsala",
+      "label": "Universität Uppsala",
+      "slug": "universitat-uppsala"
+    },
+    {
+      "target": "Psychiatrische Klinik von Uppsala",
+      "label": "Psychiatrischen Klinik von Upsala",
+      "slug": "psychiatrische-klinik-von-uppsala"
+    },
+    {
+      "target": "Jungkirchenbewegung",
+      "label": "Jungkirchenbewegung",
+      "slug": "jungkirchenbewegung"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Paulus Olbers",
+      "label": "Paulus Olbers",
+      "slug": "paulus-olbers"
+    },
+    {
+      "target": "Drittes geistliches ABC",
+      "label": "Drittes geistliches ABC",
+      "slug": "drittes-geistliches-abc"
+    },
+    {
+      "target": "Francisco de Osuna",
+      "label": "Francisco de Osuna",
+      "slug": "francisco-de-osuna"
+    },
+    {
+      "target": "Drittes geistliches ABC",
+      "label": "Das Buch",
+      "slug": "drittes-geistliches-abc"
+    },
+    {
+      "target": "Kloster",
+      "label": "Kloster",
+      "slug": "kloster"
+    },
+    {
+      "target": "Carl Rosén von Bängen",
+      "label": "Carl",
+      "slug": "carl-rosen-von-bangen"
+    },
+    {
+      "target": "Hexe",
+      "label": "Heilerin",
+      "slug": "hexe"
+    },
+    {
+      "target": "Carl Rosén von Bängen",
+      "label": "seinem",
+      "slug": "carl-rosen-von-bangen"
+    },
+    {
+      "target": "Carl Rosén von Bängen",
+      "label": "Bruder",
+      "slug": "carl-rosen-von-bangen"
+    },
+    {
+      "target": "Paulus Olbers",
+      "label": "Onkel",
+      "slug": "paulus-olbers"
+    },
+    {
+      "target": "Ausländer",
+      "label": "Ein ausländischer Mann",
+      "slug": "auslander"
+    },
+    {
+      "target": "Ausländer",
+      "label": "Sein",
+      "slug": "auslander"
+    },
+    {
+      "target": "Ausländer",
+      "label": "seinem",
+      "slug": "auslander"
+    },
+    {
+      "target": "Ausländer",
+      "label": "ausländischen Mannes",
+      "slug": "auslander"
+    },
+    {
+      "target": "Ausländer",
+      "label": "Ausländer",
+      "slug": "auslander"
+    },
+    {
+      "target": "Hexe",
+      "label": "Hexe",
+      "slug": "hexe"
+    }
+  ],
+  "markdown": "\n![[Hilde Bild.png|250]]\n\nPriesterin, 40 Jahre. Lernte vom Mutter viele Sprachen und die Inspiration in Gott, vom Papa die gesellschaftliche Ordnung und Prinzipien.\n\n**Beschreibung**\n- Sie ist 40 Jahre alt, 175 cm groß\n- Sie strahlt zugleich Würde und Wärme aus\n- Sie ist von kräftiger, wohlgenährter Statur –  mit einer gesunden Fülle, wie sie auf eine wohlhabende Herkunft schließen lässt. \n- Ihr Gesicht ist weich gezeichnet, mit vollen Wangen und klaren, hellen Augen in einem kühlen Blau-Grün, die aufmerksam und durchdringend wirken, ohne jemals hart zu sein. \n- Ihr blondes Haar trägt sie meist zu einem schlichten, aber gepflegten Knoten oder locker zurückgesteckt, sodass einzelne Strähnen ihr Gesicht umrahmen.\n- Beherrscht Latein, Englisch, Deutsch und Spanisch\n>**Stephan:** Gemäß [[S02 - Die Hexenkatze]] beherrscht sie auch Französisch (wie ihre Mutter). Vielleicht Spanisch durch Französisch ersetzen?\n\n**Verhalten**\n- Sie hört mehr zu, als sie spricht, und wenn sie spricht, dann ruhig und bedacht. \n- Ihr Blick verweilt auf dem Gegenüber, als wolle sie nicht nur die Worte, sondern auch das Ungesagte erfassen. \n- Sie kniet sich ohne Zögern neben ein krankes Kind, reicht einem Verzweifelten die Hand oder bleibt lange im Gespräch mit jenen, die von Schuld oder Furcht geplagt sind.\n\n\n#### **Hintergrund**\n\n###### Familie\nSie wurde als erste Tochter des Gastwirte [[Gustaf von Bängen]] und [[Alda Margherita Olbers]] geboren. Sie ist die zweite von 4 Geschwistern:\n\t\t1. [[Nathan Olof von Bängen]], Akademiker und Gastwirt, der das Handwerk des Vaters lernt\n\t\t2. [[Vaesen/1 - SCs/Hilde|Hilde Andrietta von Bängen]]. Priesterin, 40 Jahre. Lernte vom Mutter viele Sprachen und die Inspiration in Gott, vom Papa die gesellschaftliche Ordnung und Prinzipien.\n\t\t3. [[Thekla Levinia von Bängen]]. Sie sollte Medizinerin werden, wurde es leider nicht. (Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin erhielt war **[[Astrid Cleve]]** in [[1898]].) War eine leidenschaftliche Botanikerin.\n\t\t4. [[Carl Rosén von Bängen]]. Man redet nicht über ihn. Nach Anfällen jung verstorben.\n\n###### Universität und Kirche\n- Erst mit neun Jahren kam sie zuerst auf die Mittelschule, dann auf das Gymnasium in [[Mariefred]]. Anschließend studierte sie Evangelische Theologie an der [[Universität Uppsala]].\n- Nach dem Examen begann Hilde mit einer Dissertation zur Religionsgeschichte, die sie aber zugunsten der Ordination und der Arbeit als Seelsorgerin in der [[Psychiatrische Klinik von Uppsala|Psychiatrischen Klinik von Upsala]] zurückstellte.\n- Als geschätzte akademische Lehrerin hatte sie großen Einfluss auf die [[Jungkirchenbewegung]].\n- Sie ist in [[Uppsala]] vor allem durch ihren Einsatz für die christliche Einheit und den Weltfrieden bekannt.\n- Sie bekämpft die Bestrebungen der radikalen sozialdemokratischen Bewegungen der Epoche, eine Trennung von Kirche und Staat durchzusetzen.\n\n\n- ==(Hexerei Geschichte): noch im Aufbau==\n>**Stephan:** Was soll hier noch kommen?\n\n###### Carls Unfall\n- Ihren Bruder [[Carl Rosén von Bängen]] traf das Unheil wie ein jäher Schlag. Nach einem Ausflug mit seinem Freund [[Sven]] kehrte er verändert zurück; noch am selben Abend erlitt er seinen ersten schweren epileptischen Anfall. Die Anfälle wiederholten sich, unberechenbar und erschreckend. Kein Arzt im Umkreis wusste Rat. Manche sprachen von einem Nervenleiden, andere flüsterten von dunkleren Ursachen.\n\n###### Hildes Krankheit\n- Im darauffolgenden Jahr wurde [[Hilde]] selbst ernsthaft krank. Was als Schwäche begann, verwandelte sich in eine lähmende, zehrende Erkrankung. Auf dem Weg zu einer Heilerin in Upsala – ohne zu wissen, dass diese im Verborgenen als Hexe galt – fiel ihr im Hause ihres Onkels [[Paulus Olbers]] das _„[[Drittes geistliches ABC]]“_ des Franziskaners [[Francisco de Osuna]] in die Hände. [[Drittes geistliches ABC|Das Buch]] bestärkte sie in dem inneren Gebet, das sie schon lange übte: einem stillen „Verweilen bei einem Freund“, wie sie es nannte.\n- Doch ihre Krankheit verschlimmerte sich. Im Sommer kehrte sie todkrank ins [[Kloster]] zurück. Im Herbst verfiel sie in eine dreitägige todesähnliche Starre. Man hielt sie für tot, betete bereits die Totengebete und hob ihr Grab aus. Erst am dritten Tag regte sich ihr Atem wieder. Ein ganzes Jahr blieb sie mehr oder minder gelähmt, angewiesen auf die Pflege der Schwestern.\n- Allmählich besserte sich ihr Zustand. Sie lernte wieder zu stehen, zu gehen, zu schreiben. \n\n###### Carls Tod\n- Doch im selben Jahr starb ihr Bruder [[Carl Rosén von Bängen|Carl]] überraschend an einem besonders schweren Anfall.\n\n###### Hildes Sehnsucht nach Gott / Tod\n- Sein Tod traf [[Hilde]] wie ein Urteil. Nicht weil sie sich von Gott verfolgt glaubte, sondern weil sie die unerträgliche Tatsache nicht begreifen konnte, dass sie genesen war – und er nicht. Sie selbst war dem Tod so nahe gewesen, dass man bereits ihr Grab ausgehoben hatte. Und doch lebte sie. [[Carl Rosén von Bängen|Carl]] hingegen war dahin.\n- In ihrer inneren Zerrüttung begann sie nach einem Zusammenhang zu suchen. War ihre Genesung mit seinem Tod erkauft worden? Hatte die [[Hexe|Heilerin]] einen Preis verlangt, den sie nicht erkannt hatte? War zwischen ihrer wundersamen Besserung und [[Carl Rosén von Bängen|seinem]] jähen Ende ein verborgenes Band?\n- Diese Gedanken entsprangen nicht der Auflehnung, sondern dem verzweifelten Bedürfnis nach Sinn. Zufall erschien ihr grausamer als jede dunkle Ordnung. Lieber glaubte sie an einen schrecklichen Zusammenhang, als an eine Welt ohne Bedeutung.\n- Hinzu kam ein Gedanke, für den sie sich schämte: In den dunkelsten Stunden ihrer Krankheit hatte sie den Tod nicht aus Verzweiflung herbeigesehnt, sondern als Vereinigung mit Gott. Der Tod war ihr nicht als Flucht erschienen, sondern als Heimkehr — als Einswerden mit dem, nach dem sie sich in ihren mystischen Gebeten gesehnt hatte.\n- Und nun war es ihr [[Carl Rosén von Bängen|Bruder]] gewesen, der gegangen war.\n- Wenn der Tod Einigung mit Gott bedeutete, dann war [[Carl Rosén von Bängen|Carl]] nun dort, wohin auch sie sich in ihren innersten Stunden gesehnt hatte. Doch warum war sie zurückgekehrt? Warum war sie aus der Starre erwacht — beinahe wider Willen?\n- Aus dieser Mischung aus Trauer, metaphysischer Überforderung und schuldhafter Sehnsucht geriet sie in eine religiöse Krise. Sie gab das innere Gebet auf, das ihr einst Trost gewesen war, weil sie sich seiner nicht mehr würdig fühlte. \n\n###### Hildes Heilung\n- Erst ihr [[Paulus Olbers|Onkel]] konnte sie langsam davon überzeugen, dass Sehnsucht nach Gott kein Vergehen sei und Zweifel den Glauben nicht aufheben.\n- Nach ihrer teilweisen Genesung nahm sie wieder am regen Umgang mit den Besuchern des [[Kloster]]s in den Sprechzimmern teil — meist auf Anordnung ihrer Oberen. Doch diese Gespräche quälten sie. Sie fühlte sich zerrissen zwischen alltäglichen Anliegen und ihrem Wunsch nach tiefer, geistlicher Wahrheit.\n\n###### Der Ausländer\n- In der Fastenzeit kam es zu einer folgenschweren Begegnung. [[Ausländer|Ein ausländischer Mann]] suchte das [[Kloster]] auf. Er litt an einer schweren, fortschreitenden Krankheit, die ihm kaum noch Schlaf ließ. Er sprach von Schmerzen, von der Angst vor langem Siechtum, von der Furcht, dem Dorf zur Last zu fallen.\n- [[Ausländer|Sein]] Leid traf Hilde mit besonderer Wucht. In seinen Worten hörte sie nicht nur Verzweiflung, sondern auch eine Sehnsucht nach Erlösung. Und in ihrem Innersten regte sich jene alte Vorstellung: Vielleicht ist der Tod nicht nur Ende, sondern Einigung. Vielleicht ist er nicht nur Verlust, sondern Vollendung. Hier begann ihre Verirrung.\n- Sie übertrug ihre persönliche mystische Sehnsucht auf das Leben eines anderen. Was für sie eine innere, geistliche Bewegung gewesen war, deutete sie nun als mögliche Lösung für fremdes Leid. In einem Moment fehlgeleiteter Barmherzigkeit bestärkte sie den Mann in dem Gedanken, sein Leben selbst zu beenden, um Frieden zu finden — und das Dorf von seiner Last zu befreien.\n- Als sie von [[Ausländer|seinem]] Tod erfuhr, zerbrach etwas in ihr.\n\n###### Hildes Zweite Bekehrung\n- Doch gerade in dieser Erschütterung geschah ihre sogenannte „Zweite Bekehrung“. Mit schmerzhafter Klarheit erkannte sie den Unterschied zwischen der persönlichen Sehnsucht nach Gott und der Verantwortung für das Leben eines anderen Menschen. Sie begriff, dass niemand das Recht hat, den Tod als Abkürzung zur Ewigkeit zu empfehlen — selbst wenn er ihn als heilige Vereinigung versteht.\n- Sie sprach später von einem „neuen Leben“, das in ihr begonnen habe. In den folgenden Jahren erlebte sie tiefe Gebetserfahrungen und Visionen. Unkundige Beichtväter verunsicherten sie und nannten ihre Erfahrungen Einbildung oder Versuchung, was sie erneut in Angst stürzte. Erst kundige Evangelisten halfen ihr, zwischen mystischer Erfahrung, Gewissensqual und seelischer Erschütterung zu unterscheiden.\n\n###### Rationalisierung vs. Fundament des Glaubens\n- Jahre später geriet sie abermals in eine Krise — diesmal durch Gespräche mit Kollegen, die sich zunehmend mit wissenschaftlichen Erkenntnissen auseinandersetzten. Sie begann zu verstehen, dass die Krankheit ihres Bruders vermutlich eine natürliche Ursache gehabt hatte. Ebenso konnte sie nicht beweisen, dass die Krankheit des [[Ausländer|ausländischen Mannes]] eine Gefahr für das Dorf gewesen wäre.\n- Diese Einsicht war bitter. Sie erkannte, dass sie in ihrer Suche nach Sinn und in falsch verstandener Frömmigkeit eine moralische Grenze überschritten hatte.\n- Doch anstatt daran zu zerbrechen, machte sie ihre Schuld zum Fundament eines neuen Dienstes. Fortan widmete sie sich besonders den Kranken und Verzweifelten — nicht um ihr Leiden zu verkürzen, sondern um es mitzutragen.\n- So wurde aus der Frau, die einst meinte, Erlösung könne im Tod liegen, eine Priesterin, die selbst im tiefsten Leid nach Hoffnung suchte — nicht als Flucht, sondern als treue, geduldige Begleitung.\n\n\n\n**Motivation:**\n- Hilde möchte ihre befleckte Seele bereinigen\n\n**Trauma:**\n- Sie war verhext, als sie jemanden bei der Beichte zum Selbstmord gebracht hat. Aber das war gut für das Dorf.\n>**Stephan:** War sie nun wirklich verhext? Oder hatte sie dem [[Ausländer]] nur wegen der Ähnlichkeit zu ihrem eigenen Schicksal den Selbstmord nahegelegt? Wenn verhext, dann durch die [[Hexe]]?\n\n**Dunkles Geheimnis:**\n- Trotz Gotteswille denkt sie, es sei das beste fürs Dorf gewesen, um eine Pandemie zu verhindern (Wissenschaftliche Erkenntnisse zugrunde)\n- Gewissensbisse durch Trauma\n\n"
+}

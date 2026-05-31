@@ -1,0 +1,28 @@
+{
+  "title": "Inga Johansson",
+  "slug": "inga-johansson",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Jona/Inga Johansson.md",
+  "url": "notes/inga-johansson.html",
+  "apiUrl": "api/notes/inga-johansson.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Jonas Mutter",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Inga"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    }
+  ],
+  "markdown": "- [[Jona]]s Mutter\n\n"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Johan Johansson Senior",
+  "slug": "johan-johansson-senior",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Jona/Johan Johansson Senior.md",
+  "url": "notes/johan-johansson-senior.html",
+  "apiUrl": "api/notes/johan-johansson-senior.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Vater von Jona",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Johan"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    }
+  ],
+  "markdown": "- Vater von [[Jona]]\n\n"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Olaus Klint",
+  "slug": "olaus-klint",
+  "category": "npc",
+  "relativePath": "2 - NSCs/03 Uppsala/Olaus Klint.md",
+  "url": "notes/olaus-klint.html",
+  "apiUrl": "api/notes/olaus-klint.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Ein Privatdetektiv aus Uppsala, der zwar kein DonnerstagskindDonnerstagskinder ist, aber die Mysterien erforscht.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskind",
+      "slug": "donnerstagskinder"
+    }
+  ],
+  "markdown": "\n- Ein Privatdetektiv aus [[Uppsala]], der zwar kein [[Donnerstagskinder|Donnerstagskind]] ist, aber die Mysterien erforscht.\n"
+}

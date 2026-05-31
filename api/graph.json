@@ -1,0 +1,2877 @@
+{
+  "nodes": [
+    {
+      "id": "donnerstagskinder",
+      "title": "Donnerstagskinder",
+      "category": "faction",
+      "url": "notes/donnerstagskinder.html"
+    },
+    {
+      "id": "gesellschaft",
+      "title": "Gesellschaft",
+      "category": "faction",
+      "url": "notes/gesellschaft.html"
+    },
+    {
+      "id": "rosenberger",
+      "title": "Rosenberger",
+      "category": "faction",
+      "url": "notes/rosenberger.html"
+    },
+    {
+      "id": "charlot",
+      "title": "Charlot",
+      "category": "sc",
+      "url": "notes/charlot.html"
+    },
+    {
+      "id": "die-gruppe",
+      "title": "Die Gruppe",
+      "category": "sc",
+      "url": "notes/die-gruppe.html"
+    },
+    {
+      "id": "hilde",
+      "title": "Hilde",
+      "category": "sc",
+      "url": "notes/hilde.html"
+    },
+    {
+      "id": "jona",
+      "title": "Jona",
+      "category": "sc",
+      "url": "notes/jona.html"
+    },
+    {
+      "id": "sven",
+      "title": "Sven",
+      "category": "sc",
+      "url": "notes/sven.html"
+    },
+    {
+      "id": "bruder-charlots",
+      "title": "Bruder Charlots",
+      "category": "npc",
+      "url": "notes/bruder-charlots.html"
+    },
+    {
+      "id": "gaul",
+      "title": "Gaul",
+      "category": "npc",
+      "url": "notes/gaul.html"
+    },
+    {
+      "id": "alda-margherita-olbers",
+      "title": "Alda Margherita Olbers",
+      "category": "npc",
+      "url": "notes/alda-margherita-olbers.html"
+    },
+    {
+      "id": "astrid-cleve",
+      "title": "Astrid Cleve",
+      "category": "npc",
+      "url": "notes/astrid-cleve.html"
+    },
+    {
+      "id": "auslander",
+      "title": "Ausländer",
+      "category": "npc",
+      "url": "notes/auslander.html"
+    },
+    {
+      "id": "carl-rosen-von-bangen",
+      "title": "Carl Rosén von Bängen",
+      "category": "npc",
+      "url": "notes/carl-rosen-von-bangen.html"
+    },
+    {
+      "id": "francisco-de-osuna",
+      "title": "Francisco de Osuna",
+      "category": "npc",
+      "url": "notes/francisco-de-osuna.html"
+    },
+    {
+      "id": "gustaf-von-bangen",
+      "title": "Gustaf von Bängen",
+      "category": "npc",
+      "url": "notes/gustaf-von-bangen.html"
+    },
+    {
+      "id": "hexe",
+      "title": "Hexe",
+      "category": "npc",
+      "url": "notes/hexe.html"
+    },
+    {
+      "id": "jonas-olbers",
+      "title": "Jonas Olbers",
+      "category": "npc",
+      "url": "notes/jonas-olbers.html"
+    },
+    {
+      "id": "nathan-olof-von-bangen",
+      "title": "Nathan Olof von Bängen",
+      "category": "npc",
+      "url": "notes/nathan-olof-von-bangen.html"
+    },
+    {
+      "id": "otto-von-bangen",
+      "title": "Otto von Bängen",
+      "category": "npc",
+      "url": "notes/otto-von-bangen.html"
+    },
+    {
+      "id": "paulus-olbers",
+      "title": "Paulus Olbers",
+      "category": "npc",
+      "url": "notes/paulus-olbers.html"
+    },
+    {
+      "id": "thekla-levinia-von-bangen",
+      "title": "Thekla Levinia von Bängen",
+      "category": "npc",
+      "url": "notes/thekla-levinia-von-bangen.html"
+    },
+    {
+      "id": "inga-johansson",
+      "title": "Inga Johansson",
+      "category": "npc",
+      "url": "notes/inga-johansson.html"
+    },
+    {
+      "id": "jakob-johansson",
+      "title": "Jakob Johansson",
+      "category": "npc",
+      "url": "notes/jakob-johansson.html"
+    },
+    {
+      "id": "johan-erik-johansson-junior",
+      "title": "Johan Erik Johansson Junior",
+      "category": "npc",
+      "url": "notes/johan-erik-johansson-junior.html"
+    },
+    {
+      "id": "johan-johansson-junior",
+      "title": "Johan Johansson Junior",
+      "category": "npc",
+      "url": "notes/johan-johansson-junior.html"
+    },
+    {
+      "id": "johan-johansson-senior",
+      "title": "Johan Johansson Senior",
+      "category": "npc",
+      "url": "notes/johan-johansson-senior.html"
+    },
+    {
+      "id": "kille",
+      "title": "Kille",
+      "category": "npc",
+      "url": "notes/kille.html"
+    },
+    {
+      "id": "elin-jansen",
+      "title": "Elin Jansen",
+      "category": "npc",
+      "url": "notes/elin-jansen.html"
+    },
+    {
+      "id": "karin-jansen",
+      "title": "Karin Jansen",
+      "category": "npc",
+      "url": "notes/karin-jansen.html"
+    },
+    {
+      "id": "nils-jansen",
+      "title": "Nils Jansen",
+      "category": "npc",
+      "url": "notes/nils-jansen.html"
+    },
+    {
+      "id": "albert-frisk",
+      "title": "Albert Frisk",
+      "category": "npc",
+      "url": "notes/albert-frisk.html"
+    },
+    {
+      "id": "albert-wriedenhelm",
+      "title": "Albert Wriedenhelm",
+      "category": "npc",
+      "url": "notes/albert-wriedenhelm.html"
+    },
+    {
+      "id": "algot-frisk",
+      "title": "Algot Frisk",
+      "category": "npc",
+      "url": "notes/algot-frisk.html"
+    },
+    {
+      "id": "hielma-von-thulenstein",
+      "title": "Hielma von Thulenstein",
+      "category": "npc",
+      "url": "notes/hielma-von-thulenstein.html"
+    },
+    {
+      "id": "katja-kokola",
+      "title": "Katja Kokola",
+      "category": "npc",
+      "url": "notes/katja-kokola.html"
+    },
+    {
+      "id": "linea",
+      "title": "Linea",
+      "category": "npc",
+      "url": "notes/linea.html"
+    },
+    {
+      "id": "linnea",
+      "title": "Linnea",
+      "category": "npc",
+      "url": "notes/linnea.html"
+    },
+    {
+      "id": "matz-von-rosenberg",
+      "title": "Matz von Rosenberg",
+      "category": "npc",
+      "url": "notes/matz-von-rosenberg.html"
+    },
+    {
+      "id": "tine-rasmussen",
+      "title": "Tine Rasmussen",
+      "category": "npc",
+      "url": "notes/tine-rasmussen.html"
+    },
+    {
+      "id": "herr-ohlsdorf",
+      "title": "Herr Ohlsdorf",
+      "category": "npc",
+      "url": "notes/herr-ohlsdorf.html"
+    },
+    {
+      "id": "max",
+      "title": "Max",
+      "category": "npc",
+      "url": "notes/max.html"
+    },
+    {
+      "id": "olaf",
+      "title": "Olaf",
+      "category": "npc",
+      "url": "notes/olaf.html"
+    },
+    {
+      "id": "olaus-klint",
+      "title": "Olaus Klint",
+      "category": "npc",
+      "url": "notes/olaus-klint.html"
+    },
+    {
+      "id": "richard",
+      "title": "Richard",
+      "category": "npc",
+      "url": "notes/richard.html"
+    },
+    {
+      "id": "ingelie",
+      "title": "Ingelie",
+      "category": "npc",
+      "url": "notes/ingelie.html"
+    },
+    {
+      "id": "jonathan",
+      "title": "Jonathan",
+      "category": "npc",
+      "url": "notes/jonathan.html"
+    },
+    {
+      "id": "nils-klaed",
+      "title": "Nils Klaed",
+      "category": "npc",
+      "url": "notes/nils-klaed.html"
+    },
+    {
+      "id": "nora",
+      "title": "Nora",
+      "category": "npc",
+      "url": "notes/nora.html"
+    },
+    {
+      "id": "oscar-hjort",
+      "title": "Oscar Hjort",
+      "category": "npc",
+      "url": "notes/oscar-hjort.html"
+    },
+    {
+      "id": "piry",
+      "title": "Piry",
+      "category": "npc",
+      "url": "notes/piry.html"
+    },
+    {
+      "id": "sami",
+      "title": "Sami",
+      "category": "npc",
+      "url": "notes/sami.html"
+    },
+    {
+      "id": "sophia",
+      "title": "Sophia",
+      "category": "npc",
+      "url": "notes/sophia.html"
+    },
+    {
+      "id": "sven2",
+      "title": "Sven2",
+      "category": "npc",
+      "url": "notes/sven2.html"
+    },
+    {
+      "id": "unbekannte-frau",
+      "title": "Unbekannte Frau",
+      "category": "npc",
+      "url": "notes/unbekannte-frau.html"
+    },
+    {
+      "id": "witwer-rutgar",
+      "title": "Witwer Rutgar",
+      "category": "npc",
+      "url": "notes/witwer-rutgar.html"
+    },
+    {
+      "id": "frederic",
+      "title": "Frederic",
+      "category": "npc",
+      "url": "notes/frederic.html"
+    },
+    {
+      "id": "jons-gustav",
+      "title": "Jons Gustav",
+      "category": "npc",
+      "url": "notes/jons-gustav.html"
+    },
+    {
+      "id": "konrads-lisa",
+      "title": "Konrads Lisa",
+      "category": "npc",
+      "url": "notes/konrads-lisa.html"
+    },
+    {
+      "id": "konrads-monika",
+      "title": "Konrads Monika",
+      "category": "npc",
+      "url": "notes/konrads-monika.html"
+    },
+    {
+      "id": "lisbets-boel",
+      "title": "Lisbets Boel",
+      "category": "npc",
+      "url": "notes/lisbets-boel.html"
+    },
+    {
+      "id": "mattias-freja",
+      "title": "Mattias Freja",
+      "category": "npc",
+      "url": "notes/mattias-freja.html"
+    },
+    {
+      "id": "nicklas",
+      "title": "Nicklas",
+      "category": "npc",
+      "url": "notes/nicklas.html"
+    },
+    {
+      "id": "pers-ida",
+      "title": "Pers Ida",
+      "category": "npc",
+      "url": "notes/pers-ida.html"
+    },
+    {
+      "id": "swards-jenny",
+      "title": "Swärds Jenny",
+      "category": "npc",
+      "url": "notes/swards-jenny.html"
+    },
+    {
+      "id": "gasthaus-hexenkatze",
+      "title": "Gasthaus Hexenkatze",
+      "category": "location",
+      "url": "notes/gasthaus-hexenkatze.html"
+    },
+    {
+      "id": "mora",
+      "title": "Mora",
+      "category": "location",
+      "url": "notes/mora.html"
+    },
+    {
+      "id": "svertshof",
+      "title": "Svertshof",
+      "category": "location",
+      "url": "notes/svertshof.html"
+    },
+    {
+      "id": "gasthof-von-bangen",
+      "title": "Gasthof von Bängen",
+      "category": "location",
+      "url": "notes/gasthof-von-bangen.html"
+    },
+    {
+      "id": "kartauserklosters-pax-mariae",
+      "title": "Kartäuserklosters Pax Mariae",
+      "category": "location",
+      "url": "notes/kartauserklosters-pax-mariae.html"
+    },
+    {
+      "id": "kirche-von-mariefred",
+      "title": "Kirche von Mariefred",
+      "category": "location",
+      "url": "notes/kirche-von-mariefred.html"
+    },
+    {
+      "id": "kloster",
+      "title": "Kloster",
+      "category": "location",
+      "url": "notes/kloster.html"
+    },
+    {
+      "id": "mariefred",
+      "title": "Mariefred",
+      "category": "location",
+      "url": "notes/mariefred.html"
+    },
+    {
+      "id": "becker-und-konig",
+      "title": "Becker und König",
+      "category": "location",
+      "url": "notes/becker-und-konig.html"
+    },
+    {
+      "id": "dom-von-uppsala",
+      "title": "Dom von Uppsala",
+      "category": "location",
+      "url": "notes/dom-von-uppsala.html"
+    },
+    {
+      "id": "privatdetektei-olaus-klint",
+      "title": "Privatdetektei Olaus Klint",
+      "category": "location",
+      "url": "notes/privatdetektei-olaus-klint.html"
+    },
+    {
+      "id": "psychiatrische-klinik-von-uppsala",
+      "title": "Psychiatrische Klinik von Uppsala",
+      "category": "location",
+      "url": "notes/psychiatrische-klinik-von-uppsala.html"
+    },
+    {
+      "id": "psychiatrische-klinik-von-upsala",
+      "title": "Psychiatrische Klinik von Upsala",
+      "category": "location",
+      "url": "notes/psychiatrische-klinik-von-upsala.html"
+    },
+    {
+      "id": "schloss-gyllenkreuz",
+      "title": "Schloss Gyllenkreuz",
+      "category": "location",
+      "url": "notes/schloss-gyllenkreuz.html"
+    },
+    {
+      "id": "universitat-uppsala",
+      "title": "Universität Uppsala",
+      "category": "location",
+      "url": "notes/universitat-uppsala.html"
+    },
+    {
+      "id": "uppsala",
+      "title": "Uppsala",
+      "category": "location",
+      "url": "notes/uppsala.html"
+    },
+    {
+      "id": "schweden",
+      "title": "Schweden",
+      "category": "location",
+      "url": "notes/schweden.html"
+    },
+    {
+      "id": "darlahest",
+      "title": "Darlahest",
+      "category": "item",
+      "url": "notes/darlahest.html"
+    },
+    {
+      "id": "fingerknochen",
+      "title": "Fingerknochen",
+      "category": "item",
+      "url": "notes/fingerknochen.html"
+    },
+    {
+      "id": "tagebuch-von-nora",
+      "title": "Tagebuch von Nora",
+      "category": "item",
+      "url": "notes/tagebuch-von-nora.html"
+    },
+    {
+      "id": "harke",
+      "title": "Harke",
+      "category": "item",
+      "url": "notes/harke.html"
+    },
+    {
+      "id": "heiliges-wasser",
+      "title": "Heiliges Wasser",
+      "category": "item",
+      "url": "notes/heiliges-wasser.html"
+    },
+    {
+      "id": "testament-eines-onkels",
+      "title": "Testament eines Onkels",
+      "category": "item",
+      "url": "notes/testament-eines-onkels.html"
+    },
+    {
+      "id": "gewehr",
+      "title": "Gewehr",
+      "category": "item",
+      "url": "notes/gewehr.html"
+    },
+    {
+      "id": "testament-der-mutter",
+      "title": "Testament der Mutter",
+      "category": "item",
+      "url": "notes/testament-der-mutter.html"
+    },
+    {
+      "id": "die-annalen-der-gesellschaft",
+      "title": "Die Annalen Der Gesellschaft",
+      "category": "item",
+      "url": "notes/die-annalen-der-gesellschaft.html"
+    },
+    {
+      "id": "bild-der-familie",
+      "title": "Bild der Familie",
+      "category": "item",
+      "url": "notes/bild-der-familie.html"
+    },
+    {
+      "id": "revolver",
+      "title": "Revolver",
+      "category": "item",
+      "url": "notes/revolver.html"
+    },
+    {
+      "id": "sturmlaterne",
+      "title": "Sturmlaterne",
+      "category": "item",
+      "url": "notes/sturmlaterne.html"
+    },
+    {
+      "id": "taschenuhr",
+      "title": "Taschenuhr",
+      "category": "item",
+      "url": "notes/taschenuhr.html"
+    },
+    {
+      "id": "drittes-geistliches-abc",
+      "title": "Drittes geistliches ABC",
+      "category": "item",
+      "url": "notes/drittes-geistliches-abc.html"
+    },
+    {
+      "id": "artemis",
+      "title": "Artemis",
+      "category": "lore",
+      "url": "notes/artemis.html"
+    },
+    {
+      "id": "folklore",
+      "title": "Folklore",
+      "category": "lore",
+      "url": "notes/folklore.html"
+    },
+    {
+      "id": "thor",
+      "title": "Thor",
+      "category": "lore",
+      "url": "notes/thor.html"
+    },
+    {
+      "id": "aktionen",
+      "title": "Aktionen",
+      "category": "rules",
+      "url": "notes/aktionen.html"
+    },
+    {
+      "id": "erfolgswurf",
+      "title": "Erfolgswurf",
+      "category": "rules",
+      "url": "notes/erfolgswurf.html"
+    },
+    {
+      "id": "furchtwurf",
+      "title": "Furchtwurf",
+      "category": "rules",
+      "url": "notes/furchtwurf.html"
+    },
+    {
+      "id": "steigern",
+      "title": "Steigern",
+      "category": "rules",
+      "url": "notes/steigern.html"
+    },
+    {
+      "id": "vorbereitung",
+      "title": "Vorbereitung",
+      "category": "rules",
+      "url": "notes/vorbereitung.html"
+    },
+    {
+      "id": "wurf-strapazieren",
+      "title": "Wurf strapazieren",
+      "category": "rules",
+      "url": "notes/wurf-strapazieren.html"
+    },
+    {
+      "id": "zustand",
+      "title": "Zustand",
+      "category": "rules",
+      "url": "notes/zustand.html"
+    },
+    {
+      "id": "regeln",
+      "title": "Regeln",
+      "category": "rules",
+      "url": "notes/regeln.html"
+    },
+    {
+      "id": "jungkirchenbewegung",
+      "title": "Jungkirchenbewegung",
+      "category": "session",
+      "url": "notes/jungkirchenbewegung.html"
+    },
+    {
+      "id": "uloh-massaker",
+      "title": "Uloh-Massaker",
+      "category": "session",
+      "url": "notes/uloh-massaker.html"
+    },
+    {
+      "id": "1828",
+      "title": "1828",
+      "category": "session",
+      "url": "notes/1828.html"
+    },
+    {
+      "id": "1880",
+      "title": "1880",
+      "category": "session",
+      "url": "notes/1880.html"
+    },
+    {
+      "id": "1889-01-15",
+      "title": "1889-01-15",
+      "category": "session",
+      "url": "notes/1889-01-15.html"
+    },
+    {
+      "id": "1889-01-17",
+      "title": "1889-01-17",
+      "category": "session",
+      "url": "notes/1889-01-17.html"
+    },
+    {
+      "id": "1889-01-31",
+      "title": "1889-01-31",
+      "category": "session",
+      "url": "notes/1889-01-31.html"
+    },
+    {
+      "id": "1889-02-07",
+      "title": "1889-02-07",
+      "category": "session",
+      "url": "notes/1889-02-07.html"
+    },
+    {
+      "id": "1889-02-08",
+      "title": "1889-02-08",
+      "category": "session",
+      "url": "notes/1889-02-08.html"
+    },
+    {
+      "id": "1889-03-01",
+      "title": "1889-03-01",
+      "category": "session",
+      "url": "notes/1889-03-01.html"
+    },
+    {
+      "id": "1889-03-19",
+      "title": "1889-03-19",
+      "category": "session",
+      "url": "notes/1889-03-19.html"
+    },
+    {
+      "id": "1889-04-03",
+      "title": "1889-04-03",
+      "category": "session",
+      "url": "notes/1889-04-03.html"
+    },
+    {
+      "id": "1889",
+      "title": "1889",
+      "category": "session",
+      "url": "notes/1889.html"
+    },
+    {
+      "id": "1890-02-04-di",
+      "title": "1890-02-04 (Di)",
+      "category": "session",
+      "url": "notes/1890-02-04-di.html"
+    },
+    {
+      "id": "1890-02-05-mi",
+      "title": "1890-02-05 (Mi)",
+      "category": "session",
+      "url": "notes/1890-02-05-mi.html"
+    },
+    {
+      "id": "1890-02-06-do",
+      "title": "1890-02-06 (Do)",
+      "category": "session",
+      "url": "notes/1890-02-06-do.html"
+    },
+    {
+      "id": "1890-02-07-fr",
+      "title": "1890-02-07 (Fr)",
+      "category": "session",
+      "url": "notes/1890-02-07-fr.html"
+    },
+    {
+      "id": "1890-02-08-sa",
+      "title": "1890-02-08 (Sa)",
+      "category": "session",
+      "url": "notes/1890-02-08-sa.html"
+    },
+    {
+      "id": "1890-02-09-so",
+      "title": "1890-02-09 (So)",
+      "category": "session",
+      "url": "notes/1890-02-09-so.html"
+    },
+    {
+      "id": "1898",
+      "title": "1898",
+      "category": "session",
+      "url": "notes/1898.html"
+    },
+    {
+      "id": "s00-session-zero",
+      "title": "S00 - Session Zero",
+      "category": "session",
+      "url": "notes/s00-session-zero.html"
+    },
+    {
+      "id": "s01-ankunft-in-uppsala",
+      "title": "S01 - Ankunft in Uppsala",
+      "category": "session",
+      "url": "notes/s01-ankunft-in-uppsala.html"
+    },
+    {
+      "id": "s02-die-hexenkatze",
+      "title": "S02 - Die Hexenkatze",
+      "category": "session",
+      "url": "notes/s02-die-hexenkatze.html"
+    },
+    {
+      "id": "s03-abschied-von-mariefred",
+      "title": "S03 - Abschied von Mariefred",
+      "category": "session",
+      "url": "notes/s03-abschied-von-mariefred.html"
+    },
+    {
+      "id": "s04-reise-nach-fudal",
+      "title": "S04 - Reise nach Fudal",
+      "category": "session",
+      "url": "notes/s04-reise-nach-fudal.html"
+    },
+    {
+      "id": "drauger",
+      "title": "Drauger",
+      "category": "creature",
+      "url": "notes/drauger.html"
+    },
+    {
+      "id": "elfen",
+      "title": "Elfen",
+      "category": "creature",
+      "url": "notes/elfen.html"
+    },
+    {
+      "id": "geisterraben",
+      "title": "Geisterraben",
+      "category": "creature",
+      "url": "notes/geisterraben.html"
+    },
+    {
+      "id": "hauswichtel",
+      "title": "Hauswichtel",
+      "category": "creature",
+      "url": "notes/hauswichtel.html"
+    },
+    {
+      "id": "irrlichter",
+      "title": "Irrlichter",
+      "category": "creature",
+      "url": "notes/irrlichter.html"
+    },
+    {
+      "id": "mehrjungfrauen",
+      "title": "Mehrjungfrauen",
+      "category": "creature",
+      "url": "notes/mehrjungfrauen.html"
+    },
+    {
+      "id": "milchhase",
+      "title": "Milchhase",
+      "category": "creature",
+      "url": "notes/milchhase.html"
+    },
+    {
+      "id": "nachtmar",
+      "title": "Nachtmar",
+      "category": "creature",
+      "url": "notes/nachtmar.html"
+    },
+    {
+      "id": "nachtraben",
+      "title": "Nachtraben",
+      "category": "creature",
+      "url": "notes/nachtraben.html"
+    },
+    {
+      "id": "nock",
+      "title": "Nöck",
+      "category": "creature",
+      "url": "notes/nock.html"
+    },
+    {
+      "id": "seekalb",
+      "title": "Seekalb",
+      "category": "creature",
+      "url": "notes/seekalb.html"
+    },
+    {
+      "id": "seeschlange",
+      "title": "Seeschlange",
+      "category": "creature",
+      "url": "notes/seeschlange.html"
+    },
+    {
+      "id": "vaesen",
+      "title": "Vaesen",
+      "category": "creature",
+      "url": "notes/vaesen.html"
+    },
+    {
+      "id": "wichtel",
+      "title": "Wichtel",
+      "category": "creature",
+      "url": "notes/wichtel.html"
+    }
+  ],
+  "edges": [
+    {
+      "source": "donnerstagskinder",
+      "target": "thor",
+      "label": "Thor"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "linnea",
+      "label": "Linnea"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "katja-kokola",
+      "label": "Katja Kokola"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "hielma-von-thulenstein",
+      "label": "Hielma von Thulenstein"
+    },
+    {
+      "source": "donnerstagskinder",
+      "target": "albert-wriedenhelm",
+      "label": "Albert Wriedenhelm"
+    },
+    {
+      "source": "gesellschaft",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskinder"
+    },
+    {
+      "source": "rosenberger",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskinder"
+    },
+    {
+      "source": "rosenberger",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "rosenberger",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "charlot",
+      "target": "nachtraben",
+      "label": "Nachtraben"
+    },
+    {
+      "source": "charlot",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "charlot",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "charlot",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "charlot",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "charlot",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "charlot",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "hilde",
+      "target": "s02-die-hexenkatze",
+      "label": "S02 - Die Hexenkatze"
+    },
+    {
+      "source": "hilde",
+      "target": "gustaf-von-bangen",
+      "label": "Gustaf von Bängen"
+    },
+    {
+      "source": "hilde",
+      "target": "alda-margherita-olbers",
+      "label": "Alda Margherita Olbers"
+    },
+    {
+      "source": "hilde",
+      "target": "nathan-olof-von-bangen",
+      "label": "Nathan Olof von Bängen"
+    },
+    {
+      "source": "hilde",
+      "target": "thekla-levinia-von-bangen",
+      "label": "Thekla Levinia von Bängen"
+    },
+    {
+      "source": "hilde",
+      "target": "astrid-cleve",
+      "label": "Astrid Cleve"
+    },
+    {
+      "source": "hilde",
+      "target": "1898",
+      "label": "1898"
+    },
+    {
+      "source": "hilde",
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl Rosén von Bängen"
+    },
+    {
+      "source": "hilde",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "hilde",
+      "target": "universitat-uppsala",
+      "label": "Universität Uppsala"
+    },
+    {
+      "source": "hilde",
+      "target": "psychiatrische-klinik-von-uppsala",
+      "label": "Psychiatrischen Klinik von Upsala"
+    },
+    {
+      "source": "hilde",
+      "target": "jungkirchenbewegung",
+      "label": "Jungkirchenbewegung"
+    },
+    {
+      "source": "hilde",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "hilde",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "hilde",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "hilde",
+      "target": "paulus-olbers",
+      "label": "Paulus Olbers"
+    },
+    {
+      "source": "hilde",
+      "target": "drittes-geistliches-abc",
+      "label": "Drittes geistliches ABC"
+    },
+    {
+      "source": "hilde",
+      "target": "francisco-de-osuna",
+      "label": "Francisco de Osuna"
+    },
+    {
+      "source": "hilde",
+      "target": "drittes-geistliches-abc",
+      "label": "Das Buch"
+    },
+    {
+      "source": "hilde",
+      "target": "kloster",
+      "label": "Kloster"
+    },
+    {
+      "source": "hilde",
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl"
+    },
+    {
+      "source": "hilde",
+      "target": "hexe",
+      "label": "Heilerin"
+    },
+    {
+      "source": "hilde",
+      "target": "carl-rosen-von-bangen",
+      "label": "seinem"
+    },
+    {
+      "source": "hilde",
+      "target": "carl-rosen-von-bangen",
+      "label": "Bruder"
+    },
+    {
+      "source": "hilde",
+      "target": "paulus-olbers",
+      "label": "Onkel"
+    },
+    {
+      "source": "hilde",
+      "target": "auslander",
+      "label": "Ein ausländischer Mann"
+    },
+    {
+      "source": "hilde",
+      "target": "auslander",
+      "label": "Sein"
+    },
+    {
+      "source": "hilde",
+      "target": "auslander",
+      "label": "seinem"
+    },
+    {
+      "source": "hilde",
+      "target": "auslander",
+      "label": "ausländischen Mannes"
+    },
+    {
+      "source": "hilde",
+      "target": "auslander",
+      "label": "Ausländer"
+    },
+    {
+      "source": "hilde",
+      "target": "hexe",
+      "label": "Hexe"
+    },
+    {
+      "source": "jona",
+      "target": "inga-johansson",
+      "label": "Inga Johansson"
+    },
+    {
+      "source": "jona",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "jona",
+      "target": "johan-johansson-senior",
+      "label": "Ihr Vater"
+    },
+    {
+      "source": "jona",
+      "target": "johan-johansson-senior",
+      "label": "Johan"
+    },
+    {
+      "source": "jona",
+      "target": "inga-johansson",
+      "label": "Inga"
+    },
+    {
+      "source": "jona",
+      "target": "johan-johansson-senior",
+      "label": "Vater"
+    },
+    {
+      "source": "jona",
+      "target": "inga-johansson",
+      "label": "die Mutter"
+    },
+    {
+      "source": "jona",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "jona",
+      "target": "johan-johansson-junior",
+      "label": "Johan Johansson Junior"
+    },
+    {
+      "source": "jona",
+      "target": "johan-erik-johansson-junior",
+      "label": "Johan Erik Johansson Junior"
+    },
+    {
+      "source": "jona",
+      "target": "johan-johansson-senior",
+      "label": "Johan Johansson Senior"
+    },
+    {
+      "source": "jona",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "jona",
+      "target": "inga-johansson",
+      "label": "Mutter"
+    },
+    {
+      "source": "jona",
+      "target": "johan-johansson-junior",
+      "label": "Jon"
+    },
+    {
+      "source": "jona",
+      "target": "johan-johansson-senior",
+      "label": "Der Vater"
+    },
+    {
+      "source": "jona",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "jona",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "jona",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "jona",
+      "target": "kille",
+      "label": "Kille"
+    },
+    {
+      "source": "jona",
+      "target": "testament-der-mutter",
+      "label": "Testament der Mutter"
+    },
+    {
+      "source": "sven",
+      "target": "nils-jansen",
+      "label": "Nils Jansen"
+    },
+    {
+      "source": "sven",
+      "target": "karin-jansen",
+      "label": "Karin Jansen"
+    },
+    {
+      "source": "sven",
+      "target": "elin-jansen",
+      "label": "Elin Jansen"
+    },
+    {
+      "source": "sven",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "sven",
+      "target": "karin-jansen",
+      "label": "Karin Jansen, geb. Andersdotter"
+    },
+    {
+      "source": "sven",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "sven",
+      "target": "nils-jansen",
+      "label": "Svens Vater"
+    },
+    {
+      "source": "sven",
+      "target": "karin-jansen",
+      "label": "Seine Mutter"
+    },
+    {
+      "source": "sven",
+      "target": "nils-jansen",
+      "label": "Vater"
+    },
+    {
+      "source": "sven",
+      "target": "elin-jansen",
+      "label": "Seine Schwester"
+    },
+    {
+      "source": "sven",
+      "target": "karin-jansen",
+      "label": "Mutter"
+    },
+    {
+      "source": "sven",
+      "target": "gasthof-von-bangen",
+      "label": "Gasthof von Bängen"
+    },
+    {
+      "source": "sven",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "sven",
+      "target": "carl-rosen-von-bangen",
+      "label": "Der junge Herr"
+    },
+    {
+      "source": "sven",
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl"
+    },
+    {
+      "source": "sven",
+      "target": "hexe",
+      "label": "Hexe"
+    },
+    {
+      "source": "sven",
+      "target": "hilde",
+      "label": "junge Dame"
+    },
+    {
+      "source": "gaul",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "alda-margherita-olbers",
+      "label": "Alda Margherita Olbers"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "jonas-olbers",
+      "label": "Jonas Olbers"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "jonas-olbers",
+      "label": "ihres Vaters"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "1828",
+      "label": "1828"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "alda-margherita-olbers",
+      "label": "Alda"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "gustaf-von-bangen",
+      "label": "Gustaf von Bängen"
+    },
+    {
+      "source": "alda-margherita-olbers",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "astrid-cleve",
+      "target": "1898",
+      "label": "1898"
+    },
+    {
+      "source": "auslander",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "auslander",
+      "target": "auslander",
+      "label": "Ausländer"
+    },
+    {
+      "source": "carl-rosen-von-bangen",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "carl-rosen-von-bangen",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "carl-rosen-von-bangen",
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl Rosén von Bängen"
+    },
+    {
+      "source": "francisco-de-osuna",
+      "target": "drittes-geistliches-abc",
+      "label": "Drittes geistliches ABC"
+    },
+    {
+      "source": "gustaf-von-bangen",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "gustaf-von-bangen",
+      "target": "gustaf-von-bangen",
+      "label": "Gustaf von Bängen"
+    },
+    {
+      "source": "gustaf-von-bangen",
+      "target": "otto-von-bangen",
+      "label": "Otto von Bängen"
+    },
+    {
+      "source": "hexe",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "hexe",
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl"
+    },
+    {
+      "source": "hexe",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "jonas-olbers",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "jonas-olbers",
+      "target": "alda-margherita-olbers",
+      "label": "Alda Margherita Olbers"
+    },
+    {
+      "source": "jonas-olbers",
+      "target": "jonas-olbers",
+      "label": "Jonas Olbers"
+    },
+    {
+      "source": "jonas-olbers",
+      "target": "1828",
+      "label": "1828"
+    },
+    {
+      "source": "nathan-olof-von-bangen",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "otto-von-bangen",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "otto-von-bangen",
+      "target": "gustaf-von-bangen",
+      "label": "Gustaf von Bängen"
+    },
+    {
+      "source": "otto-von-bangen",
+      "target": "otto-von-bangen",
+      "label": "Otto von Bängen"
+    },
+    {
+      "source": "paulus-olbers",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "paulus-olbers",
+      "target": "testament-eines-onkels",
+      "label": "Testament eines Onkels"
+    },
+    {
+      "source": "thekla-levinia-von-bangen",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "thekla-levinia-von-bangen",
+      "target": "astrid-cleve",
+      "label": "Astrid Cleve"
+    },
+    {
+      "source": "inga-johansson",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "jakob-johansson",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "johan-erik-johansson-junior",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "johan-johansson-junior",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "johan-johansson-junior",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "johan-johansson-senior",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "kille",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "elin-jansen",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "elin-jansen",
+      "target": "nils-jansen",
+      "label": "Nils Jansen"
+    },
+    {
+      "source": "karin-jansen",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "karin-jansen",
+      "target": "nils-jansen",
+      "label": "Nils Jansen"
+    },
+    {
+      "source": "karin-jansen",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskind"
+    },
+    {
+      "source": "nils-jansen",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "nils-jansen",
+      "target": "karin-jansen",
+      "label": "Karin Jansen"
+    },
+    {
+      "source": "nils-jansen",
+      "target": "elin-jansen",
+      "label": "Elin Jansen"
+    },
+    {
+      "source": "nils-jansen",
+      "target": "revolver",
+      "label": "Revolver"
+    },
+    {
+      "source": "nils-jansen",
+      "target": "nils-jansen",
+      "label": "Nils Jansen"
+    },
+    {
+      "source": "albert-frisk",
+      "target": "schloss-gyllenkreuz",
+      "label": "Schloss Gyllenkreuz"
+    },
+    {
+      "source": "albert-wriedenhelm",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskind"
+    },
+    {
+      "source": "albert-wriedenhelm",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "algot-frisk",
+      "target": "schloss-gyllenkreuz",
+      "label": "Schloss Gyllenkreuz"
+    },
+    {
+      "source": "hielma-von-thulenstein",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskind"
+    },
+    {
+      "source": "hielma-von-thulenstein",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "katja-kokola",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskind"
+    },
+    {
+      "source": "katja-kokola",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "linnea",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "linnea",
+      "target": "schloss-gyllenkreuz",
+      "label": "Hauptquartier"
+    },
+    {
+      "source": "linnea",
+      "target": "psychiatrische-klinik-von-uppsala",
+      "label": "Psychiatrischen Klinik von Uppsala"
+    },
+    {
+      "source": "matz-von-rosenberg",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "tine-rasmussen",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "herr-ohlsdorf",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "max",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "max",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "max",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "olaf",
+      "target": "olaus-klint",
+      "label": "Olaus Klint"
+    },
+    {
+      "source": "olaf",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskind"
+    },
+    {
+      "source": "olaus-klint",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "olaus-klint",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskind"
+    },
+    {
+      "source": "ingelie",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "ingelie",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "jonathan",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "nils-klaed",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "nils-klaed",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "nora",
+      "target": "sophia",
+      "label": "Sophia"
+    },
+    {
+      "source": "nora",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "oscar-hjort",
+      "target": "piry",
+      "label": "Piry"
+    },
+    {
+      "source": "oscar-hjort",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "oscar-hjort",
+      "target": "sophia",
+      "label": "Sophia"
+    },
+    {
+      "source": "oscar-hjort",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "oscar-hjort",
+      "target": "katja-kokola",
+      "label": "Katja Kokola"
+    },
+    {
+      "source": "oscar-hjort",
+      "target": "hielma-von-thulenstein",
+      "label": "Hielma von Thulenstein"
+    },
+    {
+      "source": "oscar-hjort",
+      "target": "albert-wriedenhelm",
+      "label": "Albert Wriedenhelm"
+    },
+    {
+      "source": "piry",
+      "target": "sami",
+      "label": "Sami"
+    },
+    {
+      "source": "piry",
+      "target": "oscar-hjort",
+      "label": "Oscar Hjort"
+    },
+    {
+      "source": "piry",
+      "target": "katja-kokola",
+      "label": "Katja Kokola"
+    },
+    {
+      "source": "piry",
+      "target": "hielma-von-thulenstein",
+      "label": "Hielma von Thulenstein"
+    },
+    {
+      "source": "piry",
+      "target": "albert-wriedenhelm",
+      "label": "Albert Wriedenhelm"
+    },
+    {
+      "source": "sami",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "sami",
+      "target": "nora",
+      "label": "Nora"
+    },
+    {
+      "source": "sami",
+      "target": "sophia",
+      "label": "Sophia"
+    },
+    {
+      "source": "sophia",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "sophia",
+      "target": "nora",
+      "label": "Nora"
+    },
+    {
+      "source": "sophia",
+      "target": "sami",
+      "label": "Sami"
+    },
+    {
+      "source": "sophia",
+      "target": "oscar-hjort",
+      "label": "Oscar Hjort"
+    },
+    {
+      "source": "sven2",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "sven2",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "unbekannte-frau",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "witwer-rutgar",
+      "target": "nora",
+      "label": "Nora"
+    },
+    {
+      "source": "gasthaus-hexenkatze",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "gasthaus-hexenkatze",
+      "target": "sami",
+      "label": "Sami"
+    },
+    {
+      "source": "gasthof-von-bangen",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "gasthof-von-bangen",
+      "target": "kartauserklosters-pax-mariae",
+      "label": "Kartäuserklosters Pax Mariae"
+    },
+    {
+      "source": "gasthof-von-bangen",
+      "target": "kirche-von-mariefred",
+      "label": "Kirche"
+    },
+    {
+      "source": "gasthof-von-bangen",
+      "target": "gasthof-von-bangen",
+      "label": "Gasthaus"
+    },
+    {
+      "source": "kartauserklosters-pax-mariae",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "kartauserklosters-pax-mariae",
+      "target": "gasthof-von-bangen",
+      "label": "Gasthof von Bängen"
+    },
+    {
+      "source": "kirche-von-mariefred",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "kirche-von-mariefred",
+      "target": "gasthof-von-bangen",
+      "label": "Gasthof von Bängen"
+    },
+    {
+      "source": "kloster",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "kloster",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "mariefred",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "mariefred",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "becker-und-konig",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "becker-und-konig",
+      "target": "dom-von-uppsala",
+      "label": "Dom von Uppsala"
+    },
+    {
+      "source": "becker-und-konig",
+      "target": "linnea",
+      "label": "Linnea"
+    },
+    {
+      "source": "dom-von-uppsala",
+      "target": "becker-und-konig",
+      "label": "Becker und König"
+    },
+    {
+      "source": "privatdetektei-olaus-klint",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "privatdetektei-olaus-klint",
+      "target": "olaus-klint",
+      "label": "Olaus Klint"
+    },
+    {
+      "source": "psychiatrische-klinik-von-uppsala",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "psychiatrische-klinik-von-upsala",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "universitat-uppsala",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "uppsala",
+      "target": "schweden",
+      "label": "Schweden"
+    },
+    {
+      "source": "fingerknochen",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "1889-01-15",
+      "label": "1889-01-15"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "witwer-rutgar",
+      "label": "Witwer Rutgar"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "1889-01-17",
+      "label": "1889-01-17"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "sophia",
+      "label": "Sophia"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "1889-01-31",
+      "label": "1889-01-31"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "1889-02-07",
+      "label": "1889-02-07"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "piry",
+      "label": "Piry"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "sami",
+      "label": "Sami"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "1889-02-08",
+      "label": "1889-02-08"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "oscar-hjort",
+      "label": "Oscar Hjort"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "1889-03-01",
+      "label": "1889-03-01"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "1889-03-19",
+      "label": "1889-03-19"
+    },
+    {
+      "source": "tagebuch-von-nora",
+      "target": "1889-04-03",
+      "label": "1889-04-03"
+    },
+    {
+      "source": "harke",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "harke",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "testament-eines-onkels",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "testament-eines-onkels",
+      "target": "paulus-olbers",
+      "label": "Paulus Olbers"
+    },
+    {
+      "source": "gewehr",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "testament-der-mutter",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "testament-der-mutter",
+      "target": "inga-johansson",
+      "label": "Inga Johansson"
+    },
+    {
+      "source": "die-annalen-der-gesellschaft",
+      "target": "schloss-gyllenkreuz",
+      "label": "Schloss Gyllenkreuz"
+    },
+    {
+      "source": "bild-der-familie",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "revolver",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "sturmlaterne",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "taschenuhr",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "drittes-geistliches-abc",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "drittes-geistliches-abc",
+      "target": "paulus-olbers",
+      "label": "Paulus Olbers"
+    },
+    {
+      "source": "drittes-geistliches-abc",
+      "target": "francisco-de-osuna",
+      "label": "Francisco de Osuna"
+    },
+    {
+      "source": "artemis",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "jungkirchenbewegung",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "jungkirchenbewegung",
+      "target": "jungkirchenbewegung",
+      "label": "Jungkirchenbewegung"
+    },
+    {
+      "source": "uloh-massaker",
+      "target": "1880",
+      "label": "1880"
+    },
+    {
+      "source": "1828",
+      "target": "jonas-olbers",
+      "label": "Jonas Olbers"
+    },
+    {
+      "source": "1889",
+      "target": "oscar-hjort",
+      "label": "Oscar Hjort"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "charlot",
+      "label": "Charlot Vevoir"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "jona",
+      "label": "Jona Johansson"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "hilde",
+      "label": "Hildegard von Baengen"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "sven",
+      "label": "Sven Jansen"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "mariefred",
+      "label": "Dorfes XYZ"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "gasthof-von-bangen",
+      "label": "Gasthof von Bängen"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "schweden",
+      "label": "Schweden"
+    },
+    {
+      "source": "s00-session-zero",
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl Rosén von Bängen"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "1890-02-04-di",
+      "label": "1890-02-04 (Di)"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "linnea",
+      "label": "Linnea"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "kille",
+      "label": "Kille"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "nathan-olof-von-bangen",
+      "label": "Nathan"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "1890-02-05-mi",
+      "label": "1890-02-05 (Mi)"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "1890-02-06-do",
+      "label": "1890-02-06 (Do)"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "dom-von-uppsala",
+      "label": "Dom"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "becker-und-konig",
+      "label": "Becker und König"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "linnea",
+      "label": "alte Frau"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "schloss-gyllenkreuz",
+      "label": "Schloss Gyllenkreuz"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "die-annalen-der-gesellschaft",
+      "label": "Die Annalen Der Gesellschaft"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "tine-rasmussen",
+      "label": "Tine Rasmussen"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskinder"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "wichtel",
+      "label": "Wichtel"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "matz-von-rosenberg",
+      "label": "Matz von Rosenberg"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "gesellschaft",
+      "label": "Orden der Artemis"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "uloh-massaker",
+      "label": "Uloh-Massaker"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "katja-kokola",
+      "label": "Katja Kokola"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "hielma-von-thulenstein",
+      "label": "Hielma von Thulenstein"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "albert-wriedenhelm",
+      "label": "Albert Wriedenhelm"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "milchhase",
+      "label": "Milchhase"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "geisterraben",
+      "label": "Geisterraben"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "algot-frisk",
+      "label": "Algot Frisk"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "rosenberger",
+      "label": "Rosenberger"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "olaus-klint",
+      "label": "Olaus Klint"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "donnerstagskinder",
+      "label": "Donnerstagskind"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "1890-02-07-fr",
+      "label": "1890-02-07 (Fr)"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "piry",
+      "label": "Piry"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "oscar-hjort",
+      "label": "Oscar Hjort"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "max",
+      "label": "Max"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "richard",
+      "label": "Richard"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "privatdetektei-olaus-klint",
+      "label": "Privatdetektei Olaus Klint"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "olaf",
+      "label": "Olaf"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "artemis",
+      "label": "Artemis"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "1890-02-08-sa",
+      "label": "1890-02-08 (Sa)"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "algot-frisk",
+      "label": "Algot Frisk"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "olaus-klint",
+      "label": "Olaus Klint"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "nora",
+      "label": "Nora"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "sophia",
+      "label": "Sophia"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "unbekannte-frau",
+      "label": "Unbekannte Frau"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "nils-klaed",
+      "label": "Nils Klaed"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "jonathan",
+      "label": "Jonathan"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "sami",
+      "label": "Sami"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "gasthof-von-bangen",
+      "label": "Gasthof von Bängen"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "ingelie",
+      "label": "Ingelie"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "piry",
+      "label": "Piry"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "sven2",
+      "label": "Sven2"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "hauswichtel",
+      "label": "Hauswichtel"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "nachtmar",
+      "label": "Nachtmar"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "1889",
+      "label": "1889"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "furchtwurf",
+      "label": "Furchtwurf"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "oscar-hjort",
+      "label": "Oscar Hjort"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "harke",
+      "label": "Harke"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "oscar-hjort",
+      "label": "Oscar"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "katja-kokola",
+      "label": "Katja Kokola"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "hielma-von-thulenstein",
+      "label": "Hielma von Thulenstein"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "albert-wriedenhelm",
+      "label": "Albert Wriedenhelm"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "tagebuch-von-nora",
+      "label": "Tagebuch von Nora"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "drauger",
+      "label": "Drauger"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "sturmlaterne",
+      "label": "Sturmlaterne"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "kille",
+      "label": "Kille"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "schloss-gyllenkreuz",
+      "label": "Schloss Gyllenkreuz"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "1890-02-09-so",
+      "label": "1890-02-09 (So)"
+    },
+    {
+      "source": "s02-die-hexenkatze",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "1890-02-09-so",
+      "label": "1890-02-09 (So)"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "olaus-klint",
+      "label": "Olaus Klint"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "algot-frisk",
+      "label": "Algot Frisk"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "schloss-gyllenkreuz",
+      "label": "Schloss Gyllenkreuz"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "mariefred",
+      "label": "Mariefred"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "uppsala",
+      "label": "Uppsala"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "kille",
+      "label": "Kille"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "die-annalen-der-gesellschaft",
+      "label": "Die Annalen Der Gesellschaft"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "oscar-hjort",
+      "label": "Oscar Hjort"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "zustand",
+      "label": "Zustand"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "thekla-levinia-von-bangen",
+      "label": "Thekla Levinia von Bängen"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "nathan-olof-von-bangen",
+      "label": "Nathan Olof von Bängen"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl Rosén von Bängen"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "nils-klaed",
+      "label": "Nils Klaed"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "sami",
+      "label": "Sami"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "herr-ohlsdorf",
+      "label": "Herr Ohlsdorf"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "linnea",
+      "label": "Linnea"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "swards-jenny",
+      "label": "Swärds Jenny"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "svertshof",
+      "label": "Svertshof"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "mora",
+      "label": "Mora"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "pers-ida",
+      "label": "Pers Ida"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "hilde",
+      "label": "Hilde"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "jona",
+      "label": "Jona"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "kille",
+      "label": "Kille"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "sven",
+      "label": "Sven"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "charlot",
+      "label": "Charlot"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "elfen",
+      "label": "Elfen"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "mehrjungfrauen",
+      "label": "Mehrjungfrauen"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "nock",
+      "label": "Nöck"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "seeschlange",
+      "label": "Seeschlange"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "irrlichter",
+      "label": "Irrlichter"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "mora",
+      "label": "Mora"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "frederic",
+      "label": "Frederic"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "swards-jenny",
+      "label": "Swärds Jenny"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "gesellschaft",
+      "label": "Gesellschaft"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "konrads-monika",
+      "label": "Konrads Monika"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "konrads-lisa",
+      "label": "Konrads Lisa"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "mattias-freja",
+      "label": "Mattias Freja"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "lisbets-boel",
+      "label": "Lisbets Boel"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "pers-ida",
+      "label": "Pers Ida"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "jons-gustav",
+      "label": "Jons Gustav"
+    },
+    {
+      "source": "s04-reise-nach-fudal",
+      "target": "nicklas",
+      "label": "Nicklas"
+    },
+    {
+      "source": "drauger",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "drauger",
+      "target": "oscar-hjort",
+      "label": "Oscar Hjort"
+    },
+    {
+      "source": "drauger",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "hauswichtel",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "nachtmar",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "nachtraben",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "wichtel",
+      "target": "vaesen",
+      "label": "Vaesen"
+    }
+  ]
+}

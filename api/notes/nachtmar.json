@@ -1,0 +1,25 @@
+{
+  "title": "Nachtmar",
+  "slug": "nachtmar",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Nachtmar.md",
+  "url": "notes/nachtmar.html",
+  "apiUrl": "api/notes/nachtmar.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "Ein Vaesen Besessene Frauen Nachtmar sind Frauen, die an Hexen beten, um die Geburtsschmerzen zu umgehen. Die Mutter oder die Tochter kann zu einem Nachtmar werden.",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    }
+  ],
+  "markdown": "- Ein [[Vaesen]]\n- Besessene Frauen\n- Nachtmar sind Frauen, die an Hexen beten, um die Geburtsschmerzen zu umgehen.\n- Die Mutter oder die Tochter kann zu einem Nachtmar werden.\n"
+}

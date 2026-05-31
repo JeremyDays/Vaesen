@@ -1,0 +1,19 @@
+{
+  "title": "Richard",
+  "slug": "richard",
+  "category": "npc",
+  "relativePath": "2 - NSCs/03 Uppsala/Richard.md",
+  "url": "notes/richard.html",
+  "apiUrl": "api/notes/richard.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mitarbeiter der Post. Gute Verbindung mit einem Polizisten.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "- Mitarbeiter der Post.\n- Gute Verbindung mit einem Polizisten.\n- "
+}

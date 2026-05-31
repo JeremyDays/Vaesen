@@ -1,0 +1,22 @@
+{
+  "title": "Jons Gustav",
+  "slug": "jons-gustav",
+  "category": "npc",
+  "relativePath": "2 - NSCs/05 Fudal/Jons Gustav.md",
+  "url": "notes/jons-gustav.html",
+  "apiUrl": "api/notes/jons-gustav.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "aliases": [
+      "Gustav"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "\n![[Jons Gustav.jpg]]\n\n\n"
+}

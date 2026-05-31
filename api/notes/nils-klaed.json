@@ -1,0 +1,30 @@
+{
+  "title": "Nils Klaed",
+  "slug": "nils-klaed",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Nils Klaed.md",
+  "url": "notes/nils-klaed.html",
+  "apiUrl": "api/notes/nils-klaed.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Priester aus dem Gasthaus Hexenkatze Gerettet von Jona",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    }
+  ],
+  "markdown": "- Priester aus dem [[Gasthaus Hexenkatze]]\n- Gerettet von [[Jona]]\n- "
+}

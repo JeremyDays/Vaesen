@@ -1,0 +1,28 @@
+{
+  "title": "Jakob Johansson",
+  "slug": "jakob-johansson",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Jona/Jakob Johansson.md",
+  "url": "notes/jakob-johansson.html",
+  "apiUrl": "api/notes/jakob-johansson.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Jonas Bruder",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Jakob"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    }
+  ],
+  "markdown": "- [[Jona]]s Bruder\n\n"
+}

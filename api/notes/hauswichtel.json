@@ -1,0 +1,25 @@
+{
+  "title": "Hauswichtel",
+  "slug": "hauswichtel",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Hauswichtel.md",
+  "url": "notes/hauswichtel.html",
+  "apiUrl": "api/notes/hauswichtel.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt,",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    }
+  ],
+  "markdown": "- Ein [[Vaesen]]\n- Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus\n- Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt, und dieser dann die Frau/den Mann loswerden will.\n- "
+}

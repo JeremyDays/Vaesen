@@ -1,0 +1,19 @@
+{
+  "title": "Nöck",
+  "slug": "nock",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Nöck.md",
+  "url": "notes/nock.html",
+  "apiUrl": "api/notes/nock.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

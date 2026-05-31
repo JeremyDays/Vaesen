@@ -1,0 +1,39 @@
+{
+  "title": "Karin Jansen",
+  "slug": "karin-jansen",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Sven/Karin Jansen.md",
+  "url": "notes/karin-jansen.html",
+  "apiUrl": "api/notes/karin-jansen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Mutter von Sven Zurückhaltend. Duckmäuserisch. Konnte ihrem Ehemann Nils Jansen nie die Stirn bieten. Sie nannte Sven immer \"Mein DonnerstagskindDonnerstagskinder\" Motivation: Erlö",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Karin Andersdotter",
+      "Karin"
+    ]
+  },
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Nils Jansen",
+      "label": "Nils Jansen",
+      "slug": "nils-jansen"
+    },
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskind",
+      "slug": "donnerstagskinder"
+    }
+  ],
+  "markdown": "- Mutter von [[Sven]]\n- Zurückhaltend. Duckmäuserisch. Konnte ihrem Ehemann [[Nils Jansen]] nie die Stirn bieten.\n- Sie nannte [[Sven]] immer \"Mein [[Donnerstagskinder|Donnerstagskind]]\"\n\n\n- **Motivation:** Erlösung\n- **Trauma:** Passivität\n- **Dunkles Geheimnis:** Wegsehen\n- Ländliche Herkunft (Bauernsippe)\n- Still, gläubig, pflichtbewusst - Ein Leben getragen von Hoffnung, nicht von Handlungsmacht \n- Glaube als Überleben\n- [[Sven]]s Mutter war das emotionale Zentrum, aber machtlos.\n- Rolle: Haushalt, Kinder, vielleicht Heimarbeit (Nähen, Waschen)\n- Trauma: eigene Misshandlungen, ökonomische Abhängigkeit\n- Schuldgefühl: Versagen im Schutz der Kinder\n- Religion der Mutter:\n\t- Tief pietistisch-lutherisch\n    - Gebet, Psalmen, Bibel als innerer Zufluchtsort\n    - Glaube an Leid als Prüfung\n\t- Sie glaubte: „Gott sieht alles – aber greift nicht immer ein.“\n- Das prägt Sven bis heute."
+}

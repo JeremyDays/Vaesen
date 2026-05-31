@@ -1,0 +1,43 @@
+{
+  "title": "Jonas Olbers",
+  "slug": "jonas-olbers",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Jonas Olbers.md",
+  "url": "notes/jonas-olbers.html",
+  "apiUrl": "api/notes/jonas-olbers.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Großvater von Hilde. Alda Margherita Olbers wurde als Tochter des Pfarrers Jonas Olbers geboren. Sie wuchs in einem wohlhabenden und gebildeten Umfeld auf, das ihr gute Fremdsprach",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Jonas"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Alda Margherita Olbers",
+      "label": "Alda Margherita Olbers",
+      "slug": "alda-margherita-olbers"
+    },
+    {
+      "target": "Jonas Olbers",
+      "label": "Jonas Olbers",
+      "slug": "jonas-olbers"
+    },
+    {
+      "target": "1828",
+      "label": "1828",
+      "slug": "1828"
+    }
+  ],
+  "markdown": "- Großvater von [[Hilde]].\n\n >[[Alda Margherita Olbers]] wurde als Tochter des Pfarrers [[Jonas Olbers]] geboren. Sie wuchs in einem wohlhabenden und gebildeten Umfeld auf, das ihr gute Fremdsprachenkenntnisse und literarische Bildung vermittelte. \n >Er verstarb im Jahr [[1828]] "
+}

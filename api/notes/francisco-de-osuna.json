@@ -1,0 +1,25 @@
+{
+  "title": "Francisco de Osuna",
+  "slug": "francisco-de-osuna",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Francisco de Osuna.md",
+  "url": "notes/francisco-de-osuna.html",
+  "apiUrl": "api/notes/francisco-de-osuna.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Franziskaner Hat das Drittes geistliches ABC geschrieben.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Drittes geistliches ABC",
+      "label": "Drittes geistliches ABC",
+      "slug": "drittes-geistliches-abc"
+    }
+  ],
+  "markdown": "- Franziskaner\n- Hat das [[Drittes geistliches ABC]] geschrieben.\n- "
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Pers Ida",
+  "slug": "pers-ida",
+  "category": "npc",
+  "relativePath": "2 - NSCs/05 Fudal/Pers Ida.md",
+  "url": "notes/pers-ida.html",
+  "apiUrl": "api/notes/pers-ida.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "aliases": [
+      "Ida"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "\n![[Pers Ida.jpg]]\n\n"
+}

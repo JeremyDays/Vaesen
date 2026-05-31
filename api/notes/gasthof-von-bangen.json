@@ -1,0 +1,49 @@
+{
+  "title": "Gasthof von Bängen",
+  "slug": "gasthof-von-bangen",
+  "category": "location",
+  "relativePath": "3 - Orte/In Mariefred/Gasthof von Bängen.md",
+  "url": "notes/gasthof-von-bangen.html",
+  "apiUrl": "api/notes/gasthof-von-bangen.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Zum Hintergrund des Wirtshaus von Bängen Zum Beginn des 17. Jahrhunderts gab es in Mariefred keine Herberge, kein Gasthaus und keine Schenke, da die Bürger der Stadt verpflichtet w",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ],
+    "aliases": [
+      "Nathans Gasthof",
+      "Hauswirtschaft Bängen"
+    ]
+  },
+  "links": [
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Kartäuserklosters Pax Mariae",
+      "label": "Kartäuserklosters Pax Mariae",
+      "slug": "kartauserklosters-pax-mariae"
+    },
+    {
+      "target": "Marias Frieden",
+      "label": "Marias Frieden",
+      "slug": null
+    },
+    {
+      "target": "Kirche von Mariefred",
+      "label": "Kirche",
+      "slug": "kirche-von-mariefred"
+    },
+    {
+      "target": "Gasthof von Bängen",
+      "label": "Gasthaus",
+      "slug": "gasthof-von-bangen"
+    }
+  ],
+  "markdown": "###### Zum Hintergrund des Wirtshaus von Bängen\n- Zum Beginn des 17. Jahrhunderts gab es in [[Mariefred]] keine Herberge, kein Gasthaus und keine Schenke, da die Bürger der Stadt verpflichtet waren, Reisenden Unterkunft und Verpflegung zu gewähren. Wenn der Reisende im Auftrag des Hofes unterwegs war, wurden die Bürger nicht für ihre Gastfreundschaft bezahlt, sondern die Dienste wurden als eine Art Steuer betrachtet. \n - Das Restaurantwesen in Schweden war in ungewöhnlich hohem Maße von detaillierten politischen Regelungen geprägt. Herrscher, Regierungen und Behörden wollten Restaurants und ihre Vorgänger bis ins Detail regulieren. Das Restaurant war schon immer der Ort, an dem die Normen des „guten Geschmacks“ verändert und zum Ausdruck gebracht wurden. Seine kommerzielle Funktion macht es auch zu einem der ältesten Arbeitsplätze Schwedens.\n - Im 19. und 20. Jahrhundert gehörte die Mehrheit der Bevölkerung der Arbeiterklasse an, und diese müsse erzogen werden, so das Ansinnen der Oberschicht. Diese Erziehung beinhaltete, dass die Ideale der Sauberkeit und der Inneneinrichtung der Bourgeoisie auch in der Kneipe galten. Außerdem legten die Behörden die Öffnungszeiten fest und wann Alkohol und Essen ausgeschenkt werden durften. Alkohol musste zusammen mit Essen serviert werden.\n - Im 18. und einem Großteil des 19. Jahrhunderts waren ländliche Kneipen gesellschaftliche Treffpunkte für die lokale Bevölkerung. Doch große strukturelle Veränderungen durch die Einführung der Eisenbahn und das Systembolaget verdrängten zunehmend diese Dorfkneipen.\n- 1887 wurde mit einer umfassenden Renovierung des Gasthauses begonnen. Bei den Ausgrabungen wurden unter dem Kellergeschoss die Fundamente des [[Kartäuserklosters Pax Mariae]], [[Marias Frieden]], gefunden, das dem Dorf Mariefred seinen Namen gab. Dies galt als Sensation, da man bisher davon ausging, dass die [[Kirche von Mariefred|Kirche]], die sich heute neben dem [[Gasthof von Bängen|Gasthaus]] befindet, auf den Mauern des Klosters errichtet wurde.\n \n"
+}

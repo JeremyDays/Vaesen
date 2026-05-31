@@ -1,0 +1,34 @@
+{
+  "title": "Paulus Olbers",
+  "slug": "paulus-olbers",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Paulus Olbers.md",
+  "url": "notes/paulus-olbers.html",
+  "apiUrl": "api/notes/paulus-olbers.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Onkel von Hilde Er hat ihr das Testament eines Onkels hinterlassen.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Paulus",
+      "Onkel"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Testament eines Onkels",
+      "label": "Testament eines Onkels",
+      "slug": "testament-eines-onkels"
+    }
+  ],
+  "markdown": "- Onkel von [[Hilde]]\n- Er hat ihr das [[Testament eines Onkels]] hinterlassen.\n- "
+}

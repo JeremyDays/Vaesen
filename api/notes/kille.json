@@ -1,0 +1,23 @@
+{
+  "title": "Kille",
+  "slug": "kille",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Jona/Kille.md",
+  "url": "notes/kille.html",
+  "apiUrl": "api/notes/kille.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Jagdhund von Jona.",
+  "frontmatter": {
+    "tags": "NSC"
+  },
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    }
+  ],
+  "markdown": "\n- Jagdhund von [[Jona]].\n- "
+}

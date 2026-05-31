@@ -1,0 +1,30 @@
+{
+  "title": "Kloster",
+  "slug": "kloster",
+  "category": "location",
+  "relativePath": "3 - Orte/In Mariefred/Kloster.md",
+  "url": "notes/kloster.html",
+  "apiUrl": "api/notes/kloster.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Das Kloster, in dem Hilde war. In Mariefred",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    }
+  ],
+  "markdown": "- Das Kloster, in dem [[Hilde]] war.\n- In [[Mariefred]]\n- \n\n"
+}

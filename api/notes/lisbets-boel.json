@@ -1,0 +1,22 @@
+{
+  "title": "Lisbets Boel",
+  "slug": "lisbets-boel",
+  "category": "npc",
+  "relativePath": "2 - NSCs/05 Fudal/Lisbets Boel.md",
+  "url": "notes/lisbets-boel.html",
+  "apiUrl": "api/notes/lisbets-boel.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "aliases": [
+      "Boel"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "\n![[Lisbets Boel.jpg]]\n\n"
+}

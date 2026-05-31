@@ -1,0 +1,25 @@
+{
+  "title": "Fingerknochen",
+  "slug": "fingerknochen",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Charlot/Fingerknochen.md",
+  "url": "notes/fingerknochen.html",
+  "apiUrl": "api/notes/fingerknochen.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Charlots Memento",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    }
+  ],
+  "markdown": "- [[Charlot]]s Memento\n- "
+}

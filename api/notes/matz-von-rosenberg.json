@@ -1,0 +1,28 @@
+{
+  "title": "Matz von Rosenberg",
+  "slug": "matz-von-rosenberg",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Matz von Rosenberg.md",
+  "url": "notes/matz-von-rosenberg.html",
+  "apiUrl": "api/notes/matz-von-rosenberg.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Gründer der Gesellschaft",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Matz"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    }
+  ],
+  "markdown": "- Gründer der [[Gesellschaft]]\n\n"
+}

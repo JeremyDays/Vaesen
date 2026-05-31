@@ -1,0 +1,40 @@
+{
+  "title": "Carl Rosén von Bängen",
+  "slug": "carl-rosen-von-bangen",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Carl Rosén von Bängen.md",
+  "url": "notes/carl-rosen-von-bangen.html",
+  "apiUrl": "api/notes/carl-rosen-von-bangen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Jüngerer Bruder von Hilde. Man redet nicht über ihn. Nach Anfällen jung verstorben. Er ist das Dunkle Geheimnis von Sven. Ihren Bruder Carl Rosén von Bängen traf das Unheil wie ein",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "des jungen Herren",
+      "der junge Herr",
+      "Carl"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Carl Rosén von Bängen",
+      "label": "Carl Rosén von Bängen",
+      "slug": "carl-rosen-von-bangen"
+    }
+  ],
+  "markdown": "- Jüngerer Bruder von [[Hilde]].\n- Man redet nicht über ihn. Nach Anfällen jung verstorben.\n- Er ist das Dunkle Geheimnis von [[Sven]].\n- Ihren Bruder [[Carl Rosén von Bängen]] traf das Unheil wie ein jäher Schlag. Nach einem Ausflug mit seinem Freund [[Sven]] kehrte er verändert zurück; noch am selben Abend erlitt er seinen ersten schweren epileptischen Anfall. Die Anfälle wiederholten sich, unberechenbar und erschreckend. Kein Arzt im Umkreis wusste Rat. Manche sprachen von einem Nervenleiden, andere flüsterten von dunkleren Ursachen.\n"
+}

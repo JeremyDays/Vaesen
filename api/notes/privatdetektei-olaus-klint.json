@@ -1,0 +1,30 @@
+{
+  "title": "Privatdetektei Olaus Klint",
+  "slug": "privatdetektei-olaus-klint",
+  "category": "location",
+  "relativePath": "3 - Orte/In Uppsala/Privatdetektei Olaus Klint.md",
+  "url": "notes/privatdetektei-olaus-klint.html",
+  "apiUrl": "api/notes/privatdetektei-olaus-klint.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In Uppsala Eigentümer: Olaus Klint Kleines grün gestrichenes Haus. Holzmaske aus Tirol. Schreibtisch. Auf dem Türrahmen eine Münze.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Olaus Klint",
+      "label": "Olaus Klint",
+      "slug": "olaus-klint"
+    }
+  ],
+  "markdown": "- In [[Uppsala]]\n- Eigentümer: [[Olaus Klint]]\n- Kleines grün gestrichenes Haus.\n- Holzmaske aus Tirol. Schreibtisch. Auf dem Türrahmen eine Münze. "
+}

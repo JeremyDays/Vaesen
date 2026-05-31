@@ -1,0 +1,33 @@
+{
+  "title": "Mariefred",
+  "slug": "mariefred",
+  "category": "location",
+  "relativePath": "3 - Orte/In Mariefred/Mariefred.md",
+  "url": "notes/mariefred.html",
+  "apiUrl": "api/notes/mariefred.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Marias Frieden Mariefred bei Uppsala",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ],
+    "aliases": [
+      "Dorfes XYZ"
+    ]
+  },
+  "links": [
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    }
+  ],
+  "markdown": "Marias Frieden\n[[Mariefred]] bei [[Uppsala]]"
+}

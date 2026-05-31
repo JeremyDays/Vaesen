@@ -1,0 +1,38 @@
+{
+  "title": "Otto von Bängen",
+  "slug": "otto-von-bangen",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Otto von Bängen.md",
+  "url": "notes/otto-von-bangen.html",
+  "apiUrl": "api/notes/otto-von-bangen.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Großvater von Hilde Gustaf von Bängen wurde als Sohn des Gastwirts Otto von Bängen geboren und wurde längere Zeit auch von seinem Vater unterrichtet. So musste das Kind bereits mit",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Otto"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Gustaf von Bängen",
+      "label": "Gustaf von Bängen",
+      "slug": "gustaf-von-bangen"
+    },
+    {
+      "target": "Otto von Bängen",
+      "label": "Otto von Bängen",
+      "slug": "otto-von-bangen"
+    }
+  ],
+  "markdown": "- Großvater von [[Hilde]]\n\n> [[Gustaf von Bängen]] wurde als Sohn des Gastwirts [[Otto von Bängen]] geboren und wurde längere Zeit auch von seinem Vater unterrichtet. So musste das Kind bereits mit fünf Jahren in der \"Gästgiveri\" (Wirtshaus/Gaststätte) arbeiten und wurde sehr streng erzogen.\n"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Geisterraben",
+  "slug": "geisterraben",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Geisterraben.md",
+  "url": "notes/geisterraben.html",
+  "apiUrl": "api/notes/geisterraben.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

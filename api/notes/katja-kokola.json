@@ -1,0 +1,33 @@
+{
+  "title": "Katja Kokola",
+  "slug": "katja-kokola",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Katja Kokola.md",
+  "url": "notes/katja-kokola.html",
+  "apiUrl": "api/notes/katja-kokola.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "DonnerstagskindDonnerstagskinder Mitglied der Gesellschaft Überlebende",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Baronin Katja Kokola"
+    ]
+  },
+  "links": [
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskind",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    }
+  ],
+  "markdown": "\n- [[Donnerstagskinder|Donnerstagskind]]\n- Mitglied der [[Gesellschaft]]\n- Überlebende"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Kartäuserklosters Pax Mariae",
+  "slug": "kartauserklosters-pax-mariae",
+  "category": "location",
+  "relativePath": "3 - Orte/In Mariefred/Kartäuserklosters Pax Mariae.md",
+  "url": "notes/kartauserklosters-pax-mariae.html",
+  "apiUrl": "api/notes/kartauserklosters-pax-mariae.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Gab Mariefred seinen Namen. Wurde bei der Renovierung des Gasthof von Bängen unter dem Kellergeschoss entdeckt.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ],
+    "aliases": [
+      "Marias Frieden"
+    ]
+  },
+  "links": [
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Gasthof von Bängen",
+      "label": "Gasthof von Bängen",
+      "slug": "gasthof-von-bangen"
+    }
+  ],
+  "markdown": "- Gab [[Mariefred]] seinen Namen.\n- Wurde bei der Renovierung des [[Gasthof von Bängen]] unter dem Kellergeschoss entdeckt.\n\n"
+}

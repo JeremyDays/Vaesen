@@ -1,0 +1,208 @@
+{
+  "title": "S02 - Die Hexenkatze",
+  "slug": "s02-die-hexenkatze",
+  "category": "session",
+  "relativePath": "7 - Protokoll/Session Protokolle/S02 - Die Hexenkatze.md",
+  "url": "notes/s02-die-hexenkatze.html",
+  "apiUrl": "api/notes/s02-die-hexenkatze.json",
+  "tags": [
+    "Protokoll"
+  ],
+  "excerpt": "[outgame:: 21.03.2026] [ingame:: 1890 02 08 (Sa)] ==Winter. Graupeliges Regenwetter [!dialogue2] Szene 1 Aufbruch Algot Frisk und Sven machen die Kutsche fertig Er erzählt, dass er",
+  "frontmatter": {
+    "tags": "Protokoll"
+  },
+  "links": [
+    {
+      "target": "1890-02-08 (Sa)",
+      "label": "1890-02-08 (Sa)",
+      "slug": "1890-02-08-sa"
+    },
+    {
+      "target": "Algot Frisk",
+      "label": "Algot Frisk",
+      "slug": "algot-frisk"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Olaus Klint",
+      "label": "Olaus Klint",
+      "slug": "olaus-klint"
+    },
+    {
+      "target": "Nora",
+      "label": "Nora",
+      "slug": "nora"
+    },
+    {
+      "target": "Sophia",
+      "label": "Sophia",
+      "slug": "sophia"
+    },
+    {
+      "target": "Unbekannte Frau",
+      "label": "Unbekannte Frau",
+      "slug": "unbekannte-frau"
+    },
+    {
+      "target": "Nils Klaed",
+      "label": "Nils Klaed",
+      "slug": "nils-klaed"
+    },
+    {
+      "target": "Jonathan",
+      "label": "Jonathan",
+      "slug": "jonathan"
+    },
+    {
+      "target": "Sami",
+      "label": "Sami",
+      "slug": "sami"
+    },
+    {
+      "target": "Gasthof von Bängen",
+      "label": "Gasthof von Bängen",
+      "slug": "gasthof-von-bangen"
+    },
+    {
+      "target": "Ingelie",
+      "label": "Ingelie",
+      "slug": "ingelie"
+    },
+    {
+      "target": "Piry",
+      "label": "Piry",
+      "slug": "piry"
+    },
+    {
+      "target": "Sven2",
+      "label": "Sven2",
+      "slug": "sven2"
+    },
+    {
+      "target": "Hauswichtel",
+      "label": "Hauswichtel",
+      "slug": "hauswichtel"
+    },
+    {
+      "target": "Nachtmar",
+      "label": "Nachtmar",
+      "slug": "nachtmar"
+    },
+    {
+      "target": "1889",
+      "label": "1889",
+      "slug": "1889"
+    },
+    {
+      "target": "Furchtwurf",
+      "label": "Furchtwurf",
+      "slug": "furchtwurf"
+    },
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar Hjort",
+      "slug": "oscar-hjort"
+    },
+    {
+      "target": "Harke",
+      "label": "Harke",
+      "slug": "harke"
+    },
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar",
+      "slug": "oscar-hjort"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Katja Kokola",
+      "label": "Katja Kokola",
+      "slug": "katja-kokola"
+    },
+    {
+      "target": "Hielma von Thulenstein",
+      "label": "Hielma von Thulenstein",
+      "slug": "hielma-von-thulenstein"
+    },
+    {
+      "target": "Albert Wriedenhelm",
+      "label": "Albert Wriedenhelm",
+      "slug": "albert-wriedenhelm"
+    },
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    },
+    {
+      "target": "Tagebuch von Nora",
+      "label": "Tagebuch von Nora",
+      "slug": "tagebuch-von-nora"
+    },
+    {
+      "target": "Drauger",
+      "label": "Drauger",
+      "slug": "drauger"
+    },
+    {
+      "target": "Sturmlaterne",
+      "label": "Sturmlaterne",
+      "slug": "sturmlaterne"
+    },
+    {
+      "target": "Kille",
+      "label": "Kille",
+      "slug": "kille"
+    },
+    {
+      "target": "Schloss Gyllenkreuz",
+      "label": "Schloss Gyllenkreuz",
+      "slug": "schloss-gyllenkreuz"
+    },
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Pyri",
+      "label": "Pyri",
+      "slug": null
+    },
+    {
+      "target": "1890-02-09 (So)",
+      "label": "1890-02-09 (So)",
+      "slug": "1890-02-09-so"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    }
+  ],
+  "markdown": "\n[outgame:: 21.03.2026]\n[ingame:: [[1890-02-08 (Sa)]]]\n\n==Winter. Graupeliges Regenwetter\n\n>[!dialogue2] Szene 1 - Aufbruch\n- [[Algot Frisk]] und [[Sven]] machen die Kutsche fertig\n- Er erzählt, dass er wieder einziehen möchte\n- Hausarzt, Koch, Stalljunge\n- [[Sven]] bereitet vor: Tee, Vesper für den Weg, warme Decken, etc.\n\n\n>[!dialogue2] Szene 2 - Auf dem Weg\n- VORBEREITUNGEN\n\t- [[Hilde]] inspiriert sich mit Kastagnetten\n\t- [[Charlot]] versuchte zu schlafen, dann liest er weiter auf dem Kutschbock das Buch über Heilungsmethoden und Kreaturen\n\t- [[Sven]] achtet auf die Gesundheit der anderen, bereitet ein Geheimnis im Kutschbock vor (Tee, Vesper mit Fleisch, warme Handtücher auf Kohlebecken, Eintopf von gestern)\n\t- [[Jona]] joggt sich warm\n\n>[!dialogue2] Szene 3 - Warme Pause\n- ==17:00==\n- Ein einsames Haus, verlassene Landschaft\n- Es plätschert viel\n- [[Sven]] bringt allen Essen, etc., während sie im Warmen weiterfahren\n\n>[!dialogue2] Szene 4 - Achsenbruch\n- ==19:00==\n- Die Achse des Wagens bricht, [[Sven]] kann es nicht reparieren.\n- Wir sehen ein Licht nicht weit entfernt.\n- Berg hoch, schlammig, dunkel\n\n>[!dialogue2] Szene 5 - Ankunft bei der Hexenkatze \n- [[Hilde]] spricht mit [[Olaus Klint]]\n- [[Nora]], [[Sophia]]s Mutter ist verschwunden\n- Der Gasthof ist verwahrlost\n- Er hat Albträume gehabt, als er das letzte Mal da war\n\n>[!dialogue2] Szene 6 - In der Hexenkatze\n- Herberge\n- An 3 Tischen sitzen Menschen.\n\t- Frau, verschwitzt, nervös ([[Unbekannte Frau]])\n\t- Mann, Priester ([[Nils Klaed]])\n\t- Mann, Tresen, unterhält sich, Bauer ([[Jonathan]])\n- Wäschezuber in der Ecke, Eimer an der anderen, Läden klappern, es wurde nicht geputzt\n- 2 Leute hinter dem Tresen\n\n\n>[!dialogue2] Szene 7 - Im Außenbereich\n- Wintergarten, Gespann in Stall\n- Es wurde versucht, hier auszubessern.\n- [[Sven]] redet mit [[Charlot]] über \n\n>[!dialogue2] Szene 8 - Hilde und Sami\n- [[Hilde]] redet mit dem Gastwirt [[Sami]]: Über den [[Gasthof von Bängen]], über Spinner, Schausteller, die Qual des Putzens\n- Teekanne zerspringt ihm. \n- [[Sami]] ist herzlich zu [[Hilde]], aber schnauzt die Köchin [[Ingelie]] an.\n- Hilde fragt, ob [[Sami]] mit [[Piry]] verwandt ist. Sein Vater.\n- [[Piry]] ist tot. [[Nils Klaed]], der Priester, betet. Er wurde im Nachbardorf bestattet.\n\n>[!dialogue2] Szene 9 - Jona spricht mit der Köchin\n- Ob es Futter für den Hund gibt.\n- [[Ingelie]] hat den Stalljungen [[Sven2]] dazu gebracht, den Hund zu füttern\n\n>[!dialogue2] Szene 10 - Erziehung der Tochter \n- [[Sophia]]\n- Dicke Frau\n- Selbstgebastelter Schmuck, Feder\n- Tochter des [[Sami]]\n- Der Mann klopft auf den Tisch\n- Tochter [[Sophia]] hat Schramme \n- \"Ich habe meine Tochter erzogen!\"\n- [[Charlot]] überzeugt [[Sami]], dass Kunst wichtig ist. Aber es bleibt erst einmal ein Gasthaus.\n\n>[!dialogue2] Szene 11 - Vermutungen von Olaus\n- [[Olaus Klint]] Entweder [[Hauswichtel]]n oder [[Nachtmar]] (Besessene Frauen)\n- Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus\n- Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt\n- [[Nachtmar]] sind Frauen, die an Hexen beten, um die Geburtsschmerzen zu umgehen. Das kann dazu führen, dass die Tochter zur [[Nachtmar]] wird.\n- \"Auch wenn sich die Windmühle schnell dreht, heißt das nicht, dass viel Mehl herauskommt.\"\n\n>[!dialogue2] Szene 12 - Hilde spricht mit Nils Klaed\n- [[Nils Klaed]] kennt keine Riesen\n- [[Ingelie]] macht den besten Eintopf.\n- [[Jonathan]]: [[Sami]] ist die Frau weggerannt. Mit einer Theatertruppe.\n\n>[!dialogue2] Szene 13 - Jona im Obergeschoss\n- [[Jona]] bringt die Sachen hoch mit dem Bediensteten [[Sven2]]\n- Sie reden. \n- \"Ist ein komischer Mann\"\n- Er erzählt, dass es vor einem Jahr losging ([[1889]]).\n- Das Dach ist kaputt\n- [[Ingelie]] und Nora haben geputzt, aber es bringt nichts.\n- Nora hat das Weite gesucht mit Künstlern. Ihre Tochter [[Sophia]] hat sie nicht mitgenommen.\n- Alle Albträume. Alle träumen dasselbe. Auf der Bühne stehen und mit Dolch erdolcht werden. Er hat es auch schon geträumt. Die Freunde sind der Teufel. Das Blut läuft runter, und das Publikum klatscht.\n\n>[!dialogue2] Szene 14 - Im Erdgeschoss\n- [[Jonathan]] erzählt dasselbe, wie [[Sven2]]\n- Das Zimmer der [[Nora]] ist abgeschlossen. Darf keiner betreten.\n\n>[!dialogue2] Szene 15 - Kälte\n- Kaltes bläulicher Schimmer. Das Zimmer wird kälter. Knarzen.\n- Oben auch deutlich kälter. \n- Alle Leute scheinen langsam einzuschlafen. Nur [[Sami]] steht bedröppelt an der Theke.\n- [[Furchtwurf]]\n\t- [[Hilde]] glaubt Gott, [[Sven]] und [[Charlot]] sind angsterfüllt. \n\t\t- Erstarren, \n\t\t- In Ohnmacht fallen, \n\t\t- Fliehen, \n\t\t- Angreifen\n\n>[!dialogue2] Szene 16 - Im Obergeschoss\n- [[Jona]] bleibt ruhig, als [[Sven2]] einschläft.\n- [[Sophia]]s Zimmer ist da, aber es reagiert keiner\n- [[Sami]] sagt, [[Oscar Hjort]] hätte Gastrecht gehabt.\n- Hund unter das Bett\n- [[Hilde]] sagt, wir gehen auf das Dachgeschoss\n\n>[!dialogue2] Szene 17 - Dachgeschoss\n- Viele Koffer, Harken, ... ([[Hilde]] nimmt eine [[Harke]])\n- Viel Staub\n- Klicken, Wolldecke auf der Hälfte der \n- [[Hilde]]: \"[[Oscar Hjort|Oscar]] wo bist du?\"\n- [[Sophia]]: \"Meine Geschichte wird hier erzählt.\"\n- \"Ich habe ein Schauspiel vorbereitet.\"\n- [[Hilde]] nimmt sich eine [[Harke]].\n- [[Sven]] und [[Charlot]] klatschen. Keine Reaktion.\n- Das Mädchen [[Sophia]] sitzt neben einer Kurbel und Figuren erscheinen vor einem Spanntuch.\n\n>[!dialogue2] Szene 18 - Theaterstück\n- [[Sophia]]: \"Ein junger Mann wandert durch Europa und sieht die Höfe. In Frankreich. Gefeiert für sein Schattentheater. Er tanzte auf den schönsten Bällen. Er genoss den Wein. Sein Name wurde gerufen. Doch dann kam die Guillotine. Die Revolution fraß die Guten. Er floh. Er wurde vergessen. Arm wie ein Bettler kam er in seiner Heimat in [[Uppsala]] an. Er sieht plötzlich kriechende Wesen, fliegende Wesen, Dinge die Kinder nehmen, und er will sie erforschen. Und dann lernt er sie kennen. Albert lernt er kennen. Namen lernt er kennen. [[Katja Kokola]], [[Hielma von Thulenstein]]. [[Albert Wriedenhelm]]. Sie luden mich ein. Sie sagten, ich dürfte mitentscheiden. Ich ging. Und [[Piry]] mordete mich.\"\n- Eine Gestalt. Ein [[Vaesen]]. Sie gleitet durch uns durch.\n- Alle Angsterfüllt außer [[Charlot]].\n- [[Hilde]] erstarrt, [[Jona]] geht auf [[Sophia]] los, [[Sven]] greift [[Hilde]] und rennt weg.\n- [[Sophia]] kommt zu sich. \"Was ist passiert?\"\n- Was hast du mit dem Schattentheater hier gemacht. \n- Meine Hände wurden durch meine Träume geleitet.\n- [[Sophia]] war in ihren Träumen besessen!\n- Sie ist so drauf wie ihr Vater.\n\n>[!dialogue2] Szene 19 - Aufwecken von Hilde\n- [[Sven]] schüttelt [[Hilde]]\n- Sven weist auf die Tür von [[Nora]]\n- Hilde hört dort nichts, aber sagt dann, dass Sven die Tür zerstören soll\n\n>[!dialogue2] Szene 20 - Das Tagebuch\n- Mama ist in Stockholm angekommen, dort verstorben\n- [[Oscar Hjort]] ist ein Schauspieler gewesen. \n- [[Sophia]] kommt mit.\n- [[Charlot]] schaut sich das Schattentheater noch einmal genauer an.\n- Die Person, die das gebaut hat, konnte das - mit den Hilfsmitteln\n\n\n- Alte Kammer, Schrank, Sitzgelegenheit, Schreibtisch\n- \"Tagebuch meiner Mutter\"\n- Wir lesen das [[Tagebuch von Nora]], sie fühlte sich verfolgt und bedroht\n\n\n\n>[!dialogue2] Szene 21 - Charlot greift uns an\n- [[Charlot]] greift uns an, verpasst [[Hilde]], gibt [[Sven]] einen Haken.\n- [[Sven]] hämmert [[Charlot]] seine Stirn gegen den Kopf\n- Rachegedanken sind weg.\n- [[Charlot]] erinnert sich aus dem Buch: Ein [[Drauger]]. Ein Untoter, der Rache will.\n\n>[!dialogue2] Szene 22 - Besessene\n- Die Leute sind wieder wach, sie skandieren: \"Albert, Katja, ... Verräter...\"\n- [[Hilde]]: \"Wir sind gesandt worden, um [[Oscar Hjort|Oscar]] Frieden zu bringen\" (strapaziert 3 Erfolge)\n- Alle anderen fallen in sich zusammen.\n\n>[!dialogue2] Szene 23 - Im Regen\n- Verbarrikadieren die Tür\n- Schauen zum klappernden Stall\n\n>[!dialogue2] Szene 24 - Aufgehängt\n- [[Sami]] hat sich aufgehängt\n- \"[[Piry]] der Verräter\" steht mit Blut geschrieben\n- [[Hilde]] und [[Sophia]] sind verängstigt.\n- [[Hilde]] beruhigt sich im Garten. \n- [[Sven]] hält [[Hilde]] im Blick.\n- [[Charlot]] untersucht ihn. Schon lange tot. Er ist wütend.\n- [[Charlot]]: \"Das nächste Mal, wenn jemand stirbt, helft mir.\"\n- [[Sven]]: \"Der war schon tot.\"\n- [[Sven]]: \"Ja, aber man muss Prioritäten bedenken.\"\n- [[Sven]]: \"Sei froh. Er war ein Schläger. Das ist keine Erziehung.\"\n\n>[!dialogue2] Szene 25 - Sophia flieht\n- [[Sophia]]: \"Vater hat nur andere zum Vorratskeller geschickt\"\n- [[Hilde]]: \"Bleib bei uns. Hier ist Gott.\"\n\n>[!dialogue2] Szene 26 - Sven erzählt von seinem Vater\n- [[Sven]] erzählt [[Charlot]] von der Erziehung seines \n\n>[!dialogue2] Szene 27 - Vorratskeller\n- Dunkel, \n- [[Sven]] holt seine [[Sturmlaterne]], sieht dass das Haus \n\n>[!dialogue2] Szene 28 - Frost-Brand\n- Jona holt den Priester raus, [[Sven]] das Mädchen.\n- [[Sven]] rennt hoch zu [[Kille]]\n- Sven rettet [[Sven2]] und [[Kille]], [[Jona]] [[Olaus Klint]]\n- Das Haus brennt runter. [[Ingelie]] und [[Jonathan]] sind gestorben.\n\n>[!dialogue2] Szene 29 - Ein Moment der Ruhe\n- [[Charlot]] weckt Kille. [[Kille]] wird wach.\n- Memento von [[Sven]]: Bild der Familie.\n- Memento von [[Jona]]: Testament von Mutter. Adresse von [[Schloss Gyllenkreuz]]\n- Memento von [[Hilde]]: Testament von Onkel. Adresse von [[Schloss Gyllenkreuz]]\nAuch [[Gasthaus Hexenkatze]] und 2 weitere Orte aufgeführt. Nicht belästigen.\n- Memento von [[Charlot]]: Knochen\n\n>[!dialogue2] Szene 30 - Vorratskeller\n- Es riecht nach Verwesung\n- Profane Vorratskammer\n- Hinten eine kleine Tür\n- [[Charlot]] nimmt die Laterne ab.\n\n>[!dialogue2] Szene 31 - Oscar\n- Kleine Kammer. Eiskalter Luftzug.\n- \"Verräter ist tot. Aber ihr seid der Anstifter. \"\n- Feinster Zwirn. Gesicht verwest.\n\n- 4. [[Furchtwurf]]\n- [[Jona]] will angreifen\n\n- [[Sven]]: \"Oscar? Du Armer. Du wolltest nur nach Frankreich. Wir sind noch keine Gesellschaft. Wir wollen dir helfen.\"\n- [[Oscar Hjort]]: (frz.) \"Segnet meine Überreste\"\n- [[Jona]]: Schuss!\n- [[Hilde]]: \"Ich bin nicht Katja, ich bin Hildegard von Baengen. Ich bin hier um dich zu beerdigen.\" \n- Sind sie tot? [[Pyri]] und die anderen? \n- Ich will dich befreien.\n- Danke.\n- Er zieht sich in den Boden zurück.\n\n>[!dialogue2] Szene 32 - Epilog\n- Elternhaus ist abgebrannt.\n[Nächster Tag:: [[1890-02-09 (So)]]]\n- Erste Sonnenstrahlen.\n- Die Leute erklären es sich.\n- Wo ist [[Sami]].\n- [[Sami]] hat sich das Leben genommen.\n- Der Priester will \n\n- Wir lassen begraben \n\n- [[Sven]] und [[Sven2]] reparieren die Kutsche. \n- [[Drauger]] hat behauptet, dass die [[Gesellschaft]] ihn betrogen hat. \n- Hat der Buttler ([[Algot Frisk]]) wirklich soviel Gutes im Sinn?\n\n\n\n\n---\n**Hauptquartier Entwicklungspunkte:** 7 Erfahrungspunkte\n**Erfahrungspunkte:** [[Sven]] 6, [[Charlot]] 5, [[Jona]] 5, [[Hilde]] 6\n\n**To Dos:**\n- [[Jona]] darauf ansprechen, warum sie so viel Hass auf [[Vaesen]] hat und warum sie dann dennoch nicht [[Olaus Klint]] versucht hat zu töten.\n- Erfahren, worum es in den Konflikt zwischen der [[Gesellschaft]] und [[Oscar Hjort]] ging"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Hexe",
+  "slug": "hexe",
+  "category": "npc",
+  "relativePath": "2 - NSCs/01 Hintergrund Hilde/Hexe.md",
+  "url": "notes/hexe.html",
+  "apiUrl": "api/notes/hexe.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Sie ist eng mit dem Schicksal von Hilde, CarlCarl Rosén von Bängen und Sven verbunden.",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Heilerin"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Carl Rosén von Bängen",
+      "label": "Carl",
+      "slug": "carl-rosen-von-bangen"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    }
+  ],
+  "markdown": "- Sie ist eng mit dem Schicksal von [[Hilde]], [[Carl Rosén von Bängen|Carl]] und [[Sven]] verbunden."
+}

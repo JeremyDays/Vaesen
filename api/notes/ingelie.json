@@ -1,0 +1,30 @@
+{
+  "title": "Ingelie",
+  "slug": "ingelie",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Ingelie.md",
+  "url": "notes/ingelie.html",
+  "apiUrl": "api/notes/ingelie.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Köchin vom Gasthaus Hexenkatze Gerettet von Jona",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    }
+  ],
+  "markdown": "- Köchin vom [[Gasthaus Hexenkatze]]\n- Gerettet von [[Jona]]\n- "
+}

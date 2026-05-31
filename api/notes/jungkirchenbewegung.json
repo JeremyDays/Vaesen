@@ -1,0 +1,30 @@
+{
+  "title": "Jungkirchenbewegung",
+  "slug": "jungkirchenbewegung",
+  "category": "session",
+  "relativePath": "7 - Protokoll/Events/Jungkirchenbewegung.md",
+  "url": "notes/jungkirchenbewegung.html",
+  "apiUrl": "api/notes/jungkirchenbewegung.json",
+  "tags": [
+    "Event"
+  ],
+  "excerpt": "Hilde hatte Einfluss auf die Jungkirchenbewegung.",
+  "frontmatter": {
+    "tags": [
+      "Event"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Jungkirchenbewegung",
+      "label": "Jungkirchenbewegung",
+      "slug": "jungkirchenbewegung"
+    }
+  ],
+  "markdown": "- [[Hilde]] hatte Einfluss auf die [[Jungkirchenbewegung]].\n- "
+}

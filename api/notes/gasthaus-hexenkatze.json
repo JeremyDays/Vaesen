@@ -1,0 +1,30 @@
+{
+  "title": "Gasthaus Hexenkatze",
+  "slug": "gasthaus-hexenkatze",
+  "category": "location",
+  "relativePath": "3 - Orte/Gasthaus Hexenkatze.md",
+  "url": "notes/gasthaus-hexenkatze.html",
+  "apiUrl": "api/notes/gasthaus-hexenkatze.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Ein Gasthaus 2 Tagesreisen entfernt von Uppsala. Eigentum von Sami und seiner Familie Heruntergebrannt",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Sami",
+      "label": "Sami",
+      "slug": "sami"
+    }
+  ],
+  "markdown": "\n![[Karte Uppsala Hexenkatze Bild.png]]\n- Ein Gasthaus 2 Tagesreisen entfernt von [[Uppsala]].\n- Eigentum von [[Sami]] und seiner Familie\n- Heruntergebrannt\n\n![[Hexenkatze Flurplan Bild.png]]"
+}

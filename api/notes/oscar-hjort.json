@@ -1,0 +1,55 @@
+{
+  "title": "Oscar Hjort",
+  "slug": "oscar-hjort",
+  "category": "npc",
+  "relativePath": "2 - NSCs/04 Hexenkatze/Oscar Hjort.md",
+  "url": "notes/oscar-hjort.html",
+  "apiUrl": "api/notes/oscar-hjort.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Toter Schriftsteller, der Schattentheater erfunden hat Schriftsteller, der wieder zurück nach Frankreich wollte, wo er Schattentheater mit Uhrwerken verbunden hatte. Ist von Piry e",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Piry",
+      "label": "Piry",
+      "slug": "piry"
+    },
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Sophia",
+      "label": "Sophia",
+      "slug": "sophia"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Katja Kokola",
+      "label": "Katja Kokola",
+      "slug": "katja-kokola"
+    },
+    {
+      "target": "Hielma von Thulenstein",
+      "label": "Hielma von Thulenstein",
+      "slug": "hielma-von-thulenstein"
+    },
+    {
+      "target": "Albert Wriedenhelm",
+      "label": "Albert Wriedenhelm",
+      "slug": "albert-wriedenhelm"
+    }
+  ],
+  "markdown": "\n*Toter Schriftsteller, der Schattentheater erfunden hat*\n![[Oscar Hjort Geist Bild.png]]\n\n- Schriftsteller, der wieder zurück nach Frankreich wollte, wo er Schattentheater mit Uhrwerken verbunden hatte.\n- Ist von [[Piry]] ermordet worden.\n- Ist als Widergänger wieder gekommen und hat die [[Gasthaus Hexenkatze]] verflucht. Er wollte Rache.\n\n[[Sophia]] erzählt von seinem Leben: \n\n*\"Ein junger Mann wandert durch Europa und sieht die Höfe. In Frankreich. Gefeiert für sein Schattentheater. Er tanzte auf den schönsten Bällen. Er genoss den Wein. Sein Name wurde gerufen. Doch dann kam die Guillotine. Die Revolution fraß die Guten. Er floh. Er wurde vergessen. Arm wie ein Bettler kam er in seiner Heimat in [[Uppsala]] an. Er sieht plötzlich kriechende Wesen, fliegende Wesen, Dinge die Kinder nehmen, und er will sie erforschen. Und dann lernt er sie kennen. Albert lernt er kennen. Namen lernt er kennen. [[Katja Kokola]], [[Hielma von Thulenstein]]. [[Albert Wriedenhelm]]. Sie luden mich ein. Sie sagten, ich dürfte mitentscheiden. Ich ging. Und [[Piry]] mordete mich.\"*\n\n"
+}

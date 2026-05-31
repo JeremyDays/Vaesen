@@ -1,0 +1,25 @@
+{
+  "title": "Gewehr",
+  "slug": "gewehr",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Jona/Gewehr.md",
+  "url": "notes/gewehr.html",
+  "apiUrl": "api/notes/gewehr.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Jonas",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    }
+  ],
+  "markdown": "- [[Jona]]s\n- "
+}

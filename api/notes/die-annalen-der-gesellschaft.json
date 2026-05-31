@@ -1,0 +1,25 @@
+{
+  "title": "Die Annalen Der Gesellschaft",
+  "slug": "die-annalen-der-gesellschaft",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Schloss Gyllenkreuz/Die Annalen Der Gesellschaft.md",
+  "url": "notes/die-annalen-der-gesellschaft.html",
+  "apiUrl": "api/notes/die-annalen-der-gesellschaft.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "In Schloss Gyllenkreuz",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Schloss Gyllenkreuz",
+      "label": "Schloss Gyllenkreuz",
+      "slug": "schloss-gyllenkreuz"
+    }
+  ],
+  "markdown": "- In [[Schloss Gyllenkreuz]]\n- \n\n"
+}

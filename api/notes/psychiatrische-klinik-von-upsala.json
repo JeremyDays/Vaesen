@@ -1,0 +1,28 @@
+{
+  "title": "Psychiatrische Klinik von Upsala",
+  "slug": "psychiatrische-klinik-von-upsala",
+  "category": "location",
+  "relativePath": "3 - Orte/In Uppsala/Psychiatrische Klinik von Upsala.md",
+  "url": "notes/psychiatrische-klinik-von-upsala.html",
+  "apiUrl": "api/notes/psychiatrische-klinik-von-upsala.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "Hier hat Hilde gearbeitet.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ],
+    "aliases": [
+      "Psychiatrischen Klinik von Upsala"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    }
+  ],
+  "markdown": "- Hier hat [[Hilde]] gearbeitet.\n- "
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Drittes geistliches ABC",
+  "slug": "drittes-geistliches-abc",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Nicht im Besitz der Gruppe/Drittes geistliches ABC.md",
+  "url": "notes/drittes-geistliches-abc.html",
+  "apiUrl": "api/notes/drittes-geistliches-abc.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Das hat Hilde bei ihrem Onkel Paulus Olbers gesehen. Es wurde von Francisco de Osuna geschrieben.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Paulus Olbers",
+      "label": "Paulus Olbers",
+      "slug": "paulus-olbers"
+    },
+    {
+      "target": "Francisco de Osuna",
+      "label": "Francisco de Osuna",
+      "slug": "francisco-de-osuna"
+    }
+  ],
+  "markdown": "- Das hat [[Hilde]] bei ihrem Onkel [[Paulus Olbers]] gesehen.\n- Es wurde von [[Francisco de Osuna]] geschrieben.\n- "
+}

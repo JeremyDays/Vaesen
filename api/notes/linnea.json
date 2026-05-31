@@ -1,0 +1,39 @@
+{
+  "title": "Linnea",
+  "slug": "linnea",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Linnea.md",
+  "url": "notes/linnea.html",
+  "apiUrl": "api/notes/linnea.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Alte Frau der Gesellschaft Sie lebt allein im HauptquartierSchloss Gyllenkreuz Sie ist jetzt in der Psychiatrischen Klinik von UppsalaPsychiatrische Klinik von Uppsala",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Alte Frau",
+      "Linnea Elfeklint"
+    ]
+  },
+  "links": [
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    },
+    {
+      "target": "Schloss Gyllenkreuz",
+      "label": "Hauptquartier",
+      "slug": "schloss-gyllenkreuz"
+    },
+    {
+      "target": "Psychiatrische Klinik von Uppsala",
+      "label": "Psychiatrischen Klinik von Uppsala",
+      "slug": "psychiatrische-klinik-von-uppsala"
+    }
+  ],
+  "markdown": "\n*Alte Frau der [[Gesellschaft]]*\n![[Linnea Bild.png]]\n\n- Sie lebt allein im [[Schloss Gyllenkreuz|Hauptquartier]]\n- Sie ist jetzt in der [[Psychiatrische Klinik von Uppsala|Psychiatrischen Klinik von Uppsala]]\n"
+}

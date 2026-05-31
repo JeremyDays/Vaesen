@@ -1,0 +1,19 @@
+{
+  "title": "Nicklas",
+  "slug": "nicklas",
+  "category": "npc",
+  "relativePath": "2 - NSCs/05 Fudal/Nicklas.md",
+  "url": "notes/nicklas.html",
+  "apiUrl": "api/notes/nicklas.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": ""
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Linea",
+  "slug": "linea",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Linea.md",
+  "url": "notes/linea.html",
+  "apiUrl": "api/notes/linea.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "Sie lebt allein im Hauptquartier",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [
+    {
+      "target": "Hauptquartier",
+      "label": "Hauptquartier",
+      "slug": null
+    }
+  ],
+  "markdown": "\n- Sie lebt allein im [[Hauptquartier]]\n"
+}

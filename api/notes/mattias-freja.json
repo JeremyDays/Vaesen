@@ -1,0 +1,22 @@
+{
+  "title": "Mattias Freja",
+  "slug": "mattias-freja",
+  "category": "npc",
+  "relativePath": "2 - NSCs/05 Fudal/Mattias Freja.md",
+  "url": "notes/mattias-freja.html",
+  "apiUrl": "api/notes/mattias-freja.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "",
+  "frontmatter": {
+    "aliases": [
+      "Freya"
+    ],
+    "tags": [
+      "NSC"
+    ]
+  },
+  "links": [],
+  "markdown": "\n![[Mattias Freja.jpg]]\n\n"
+}

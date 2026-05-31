@@ -1,0 +1,33 @@
+{
+  "title": "Albert Wriedenhelm",
+  "slug": "albert-wriedenhelm",
+  "category": "npc",
+  "relativePath": "2 - NSCs/02 Die Gesellschaft/Albert Wriedenhelm.md",
+  "url": "notes/albert-wriedenhelm.html",
+  "apiUrl": "api/notes/albert-wriedenhelm.json",
+  "tags": [
+    "NSC"
+  ],
+  "excerpt": "DonnerstagskindDonnerstagskinder Mitglied der Gesellschaft Überlebender",
+  "frontmatter": {
+    "tags": [
+      "NSC"
+    ],
+    "aliases": [
+      "Professor Albert Wriedenhelm"
+    ]
+  },
+  "links": [
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskind",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    }
+  ],
+  "markdown": "\n- [[Donnerstagskinder|Donnerstagskind]]\n- Mitglied der [[Gesellschaft]]\n- Überlebender"
+}

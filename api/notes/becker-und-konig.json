@@ -1,0 +1,35 @@
+{
+  "title": "Becker und König",
+  "slug": "becker-und-konig",
+  "category": "location",
+  "relativePath": "3 - Orte/In Uppsala/Becker und König.md",
+  "url": "notes/becker-und-konig.html",
+  "apiUrl": "api/notes/becker-und-konig.json",
+  "tags": [
+    "Ort"
+  ],
+  "excerpt": "In Uppsala Beim Dom von Uppsala Bei der Königsstraße Dort haben wir Linnea getroffen.",
+  "frontmatter": {
+    "tags": [
+      "Ort"
+    ]
+  },
+  "links": [
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Dom von Uppsala",
+      "label": "Dom von Uppsala",
+      "slug": "dom-von-uppsala"
+    },
+    {
+      "target": "Linnea",
+      "label": "Linnea",
+      "slug": "linnea"
+    }
+  ],
+  "markdown": "- In [[Uppsala]]\n- Beim [[Dom von Uppsala]]\n- Bei der Königsstraße\n- Dort haben wir [[Linnea]] getroffen.\n\n"
+}
