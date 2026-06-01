@@ -6,11 +6,13 @@
   "url": "notes/vaesen.html",
   "apiUrl": "api/notes/vaesen.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "KI Zusammenfassung S01 Ankunft in Uppsala: Gründerin. Anfang 15. Jhd. Tine Rasmussen hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach...",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },
