@@ -1504,8 +1504,8 @@
     },
     {
       "source": "carl-rosen-von-bangen",
-      "target": "carl-rosen-von-bangen",
-      "label": "Carl Rosén von Bängen"
+      "target": "hilde",
+      "label": "Hilde"
     },
     {
       "source": "carl-rosen-von-bangen",
@@ -1514,8 +1514,8 @@
     },
     {
       "source": "carl-rosen-von-bangen",
-      "target": "hilde",
-      "label": "Hilde"
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl Rosén von Bängen"
     },
     {
       "source": "francisco-de-osuna",
@@ -1604,13 +1604,13 @@
     },
     {
       "source": "thekla-levinia-von-bangen",
-      "target": "astrid-cleve",
-      "label": "Astrid Cleve"
+      "target": "hilde",
+      "label": "Hilde"
     },
     {
       "source": "thekla-levinia-von-bangen",
-      "target": "hilde",
-      "label": "Hilde"
+      "target": "astrid-cleve",
+      "label": "Astrid Cleve"
     },
     {
       "source": "inga-johansson",
@@ -1819,11 +1819,6 @@
     },
     {
       "source": "nils-klaed",
-      "target": "gasthaus-hexenkatze",
-      "label": "Gasthaus Hexenkatze"
-    },
-    {
-      "source": "nils-klaed",
       "target": "jona",
       "label": "Jona"
     },
@@ -1911,11 +1906,6 @@
       "source": "sophia",
       "target": "oscar-hjort",
       "label": "Oscar Hjort"
-    },
-    {
-      "source": "sven2",
-      "target": "gasthaus-hexenkatze",
-      "label": "Gasthaus Hexenkatze"
     },
     {
       "source": "sven2",
