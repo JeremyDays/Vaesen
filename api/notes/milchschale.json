@@ -1,0 +1,25 @@
+{
+  "title": "Milchschale",
+  "slug": "milchschale",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Milchschale.md",
+  "url": "notes/milchschale.html",
+  "apiUrl": "api/notes/milchschale.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Opfergabe für einen Kobold. Einem Kobold soll man eine Milchschale hinstellen oder einen Brei. KI Zusammenfassung S01 Ankunft in Uppsala: Einer Kobold Kreatur soll man eine...",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [
+    {
+      "target": "Kobold",
+      "label": "Kobold",
+      "slug": "kobold"
+    }
+  ],
+  "markdown": "\n- Opfergabe für einen [[Kobold]].\n- Einem Kobold soll man eine Milchschale hinstellen oder einen Brei.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Einer Kobold-Kreatur soll man eine Milchschale oder einen Brei hinstellen.\n"
+}

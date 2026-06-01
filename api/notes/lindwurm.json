@@ -1,0 +1,25 @@
+{
+  "title": "Lindwurm",
+  "slug": "lindwurm",
+  "category": "creature",
+  "relativePath": "8 - Kreaturen/Lindwurm.md",
+  "url": "notes/lindwurm.html",
+  "apiUrl": "api/notes/lindwurm.json",
+  "tags": [
+    "Kreatur"
+  ],
+  "excerpt": "Ein Vaesen. KI Zusammenfassung S01 Ankunft in Uppsala: Lindwurm wird als relevante Kreatur genannt.",
+  "frontmatter": {
+    "tags": [
+      "Kreatur"
+    ]
+  },
+  "links": [
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    }
+  ],
+  "markdown": "\n- Ein [[Vaesen]].\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Lindwurm wird als relevante Kreatur genannt.\n"
+}
