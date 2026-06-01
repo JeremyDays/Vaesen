@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Sophias Mutter. Hat die Gasthaus Hexenkatze verlassen Ist ein paar Monate später verstorben. KI Zusammenfassung S02 Die Hexenkatze: Nora, Sophias Mutter ist verschwunden; Das Zimme",
+  "excerpt": "Sophias Mutter. Beschreibung Hat die Gasthaus Hexenkatze verlassen Ist ein paar Monate später verstorben. Rolle Noch nicht eindeutig festgelegt. Verbindungen Sophias Mutter. Bisher",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -16,15 +16,15 @@
   },
   "links": [
     {
-      "target": "Sophia",
-      "label": "Sophia",
-      "slug": "sophia"
-    },
-    {
       "target": "Gasthaus Hexenkatze",
       "label": "Gasthaus Hexenkatze",
       "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Sophia",
+      "label": "Sophia",
+      "slug": "sophia"
     }
   ],
-  "markdown": "\n- [[Sophia]]s Mutter. \n- Hat die [[Gasthaus Hexenkatze]] verlassen\n- Ist ein paar Monate später verstorben.\n\n## KI-Zusammenfassung\nS02 - Die Hexenkatze: Nora, Sophias Mutter ist verschwunden; Das Zimmer der Nora ist abgeschlossen. Darf keiner betreten; Sven weist auf die Tür von Nora.\n"
+  "markdown": "\n*Sophias Mutter.*\n\n## Beschreibung\n- Hat die [[Gasthaus Hexenkatze]] verlassen\n- Ist ein paar Monate später verstorben.\n\n## Rolle\n- Noch nicht eindeutig festgelegt.\n\n## Verbindungen\n- [[Sophia]]s Mutter.\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: Nora, Sophias Mutter ist verschwunden; Das Zimmer der Nora ist abgeschlossen. Darf keiner betreten; Sven weist auf die Tür von Nora.\n"
 }

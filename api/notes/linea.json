@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Sie lebt allein im Hauptquartier",
+  "excerpt": "Sie lebt allein im Hauptquartier. Beschreibung Keine gesicherte Beschreibung in den bisherigen Notizen. Rolle Noch nicht eindeutig festgelegt. Verbindungen Sie lebt allein im Haupt",
   "frontmatter": {
     "tags": [
       "NSC"
@@ -21,5 +21,5 @@
       "slug": null
     }
   ],
-  "markdown": "\n- Sie lebt allein im [[Hauptquartier]]\n"
+  "markdown": "\n*Sie lebt allein im Hauptquartier.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Rolle\n- Noch nicht eindeutig festgelegt.\n\n## Verbindungen\n- Sie lebt allein im [[Hauptquartier]]\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
 }

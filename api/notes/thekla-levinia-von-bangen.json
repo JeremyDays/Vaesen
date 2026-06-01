@@ -8,26 +8,23 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Jüngere Schwester von Hilde Sie sollte Medizinerin werden, wurde es leider nicht. Elena: Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin",
+  "excerpt": "Jüngere Schwester von Hilde. Beschreibung Sie sollte Medizinerin werden, wurde es leider nicht. Verkauft Kräuter und Tinkturen. Rolle Elena: Die erste Frau in Schweden, die einen D",
   "frontmatter": {
     "tags": [
       "NSC"
-    ],
-    "aliases": [
-      "Thekla"
     ]
   },
   "links": [
     {
-      "target": "Hilde",
-      "label": "Hilde",
-      "slug": "hilde"
-    },
-    {
       "target": "Astrid Cleve",
       "label": "Astrid Cleve",
       "slug": "astrid-cleve"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
     }
   ],
-  "markdown": "- Jüngere Schwester von [[Hilde]]\n- Sie sollte Medizinerin werden, wurde es leider nicht. \n>**Elena:** Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin erhielt war **[[Astrid Cleve]]** in 1898. War eine leidenschaftliche Botanikerin.\n- Verkauft Kräuter und Tinkturen.\n\n## KI-Zusammenfassung\nS03 - Abschied von Mariefred: Hilde sucht ihre Schwester Thekla Levinia von Bängen auf. Sie wollte Medizinerin werden. Leidenschaftliche Botanikerin; Thekla Levinia von Bängen: Wissen Sie über die Umnachtungen? Sie sagt, sie sieht Tote. Sie muss in Behandlung!; Thekla Levinia von Bängen zu Jona: \"Deine Mutter war schon eine Hexe und du hast nur Leid über deine Familie gebracht!\"; Sven erzählt Thekla Levinia von Bängen von Uppsala usw.\n"
+  "markdown": "\n*Jüngere Schwester von Hilde.*\n\n## Beschreibung\n- Sie sollte Medizinerin werden, wurde es leider nicht.\n- Verkauft Kräuter und Tinkturen.\n\n## Rolle\n>**Elena:** Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin erhielt war **[[Astrid Cleve]]** in 1898. War eine leidenschaftliche Botanikerin.\n\n## Verbindungen\n- Jüngere Schwester von [[Hilde]]\n>**Elena:** Die erste Frau in Schweden, die einen Doktorgrad in einer naturwissenschaftlichen Disziplin erhielt war **[[Astrid Cleve]]** in 1898. War eine leidenschaftliche Botanikerin.\n\n## Bisherige Interaktionen\nS03 - Abschied von Mariefred: Hilde sucht ihre Schwester Thekla Levinia von Bängen auf. Sie wollte Medizinerin werden. Leidenschaftliche Botanikerin; Thekla Levinia von Bängen: Wissen Sie über die Umnachtungen? Sie sagt, sie sieht Tote. Sie muss in Behandlung!; Thekla Levinia von Bängen zu Jona: \"Deine Mutter war schon eine Hexe und du hast nur Leid über deine Familie gebracht!\"; Sven erzählt Thekla Levinia von Bängen von Uppsala usw.\n"
 }
