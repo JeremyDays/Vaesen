@@ -3287,7 +3287,7 @@
     "title": "Aktionen",
     "slug": "aktionen",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Aktionen.md",
+    "relativePath": "6 - Regeln/Aktionen.md",
     "url": "notes/aktionen.html",
     "apiUrl": "api/notes/aktionen.json",
     "tags": [
@@ -3306,7 +3306,7 @@
     "title": "Angriff Schaden und Rüstung",
     "slug": "angriff-schaden-und-rustung",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Angriff Schaden und Rüstung.md",
+    "relativePath": "6 - Regeln/Angriff Schaden und Rüstung.md",
     "url": "notes/angriff-schaden-und-rustung.html",
     "apiUrl": "api/notes/angriff-schaden-und-rustung.json",
     "tags": [
@@ -3325,7 +3325,7 @@
     "title": "Bedrohungen durch Upgrades",
     "slug": "bedrohungen-durch-upgrades",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Bedrohungen durch Upgrades.md",
+    "relativePath": "6 - Regeln/Bedrohungen durch Upgrades.md",
     "url": "notes/bedrohungen-durch-upgrades.html",
     "apiUrl": "api/notes/bedrohungen-durch-upgrades.json",
     "tags": [
@@ -3344,7 +3344,7 @@
     "title": "Deckung",
     "slug": "deckung",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Deckung.md",
+    "relativePath": "6 - Regeln/Deckung.md",
     "url": "notes/deckung.html",
     "apiUrl": "api/notes/deckung.json",
     "tags": [
@@ -3363,7 +3363,7 @@
     "title": "Erfolgswurf",
     "slug": "erfolgswurf",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Erfolgswurf.md",
+    "relativePath": "6 - Regeln/Erfolgswurf.md",
     "url": "notes/erfolgswurf.html",
     "apiUrl": "api/notes/erfolgswurf.json",
     "tags": [
@@ -3382,7 +3382,7 @@
     "title": "Feuer Gift und Sturz",
     "slug": "feuer-gift-und-sturz",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Feuer Gift und Sturz.md",
+    "relativePath": "6 - Regeln/Feuer Gift und Sturz.md",
     "url": "notes/feuer-gift-und-sturz.html",
     "apiUrl": "api/notes/feuer-gift-und-sturz.json",
     "tags": [
@@ -3401,7 +3401,7 @@
     "title": "Flucht Verfolgung und Hinterhalt",
     "slug": "flucht-verfolgung-und-hinterhalt",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Flucht Verfolgung und Hinterhalt.md",
+    "relativePath": "6 - Regeln/Flucht Verfolgung und Hinterhalt.md",
     "url": "notes/flucht-verfolgung-und-hinterhalt.html",
     "apiUrl": "api/notes/flucht-verfolgung-und-hinterhalt.json",
     "tags": [
@@ -3420,7 +3420,7 @@
     "title": "Furchtwurf",
     "slug": "furchtwurf",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Furchtwurf.md",
+    "relativePath": "6 - Regeln/Furchtwurf.md",
     "url": "notes/furchtwurf.html",
     "apiUrl": "api/notes/furchtwurf.json",
     "tags": [
@@ -3439,7 +3439,7 @@
     "title": "Gebrochen",
     "slug": "gebrochen",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Gebrochen.md",
+    "relativePath": "6 - Regeln/Gebrochen.md",
     "url": "notes/gebrochen.html",
     "apiUrl": "api/notes/gebrochen.json",
     "tags": [
@@ -3458,7 +3458,7 @@
     "title": "Hauptquartier-Upgrades",
     "slug": "hauptquartier-upgrades",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Hauptquartier-Upgrades.md",
+    "relativePath": "6 - Regeln/Hauptquartier-Upgrades.md",
     "url": "notes/hauptquartier-upgrades.html",
     "apiUrl": "api/notes/hauptquartier-upgrades.json",
     "tags": [
@@ -3477,7 +3477,7 @@
     "title": "Heilung vertieft",
     "slug": "heilung-vertieft",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Heilung vertieft.md",
+    "relativePath": "6 - Regeln/Heilung vertieft.md",
     "url": "notes/heilung-vertieft.html",
     "apiUrl": "api/notes/heilung-vertieft.json",
     "tags": [
@@ -3496,7 +3496,7 @@
     "title": "Hunger Durst und Müdigkeit",
     "slug": "hunger-durst-und-mudigkeit",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Hunger Durst und Müdigkeit.md",
+    "relativePath": "6 - Regeln/Hunger Durst und Müdigkeit.md",
     "url": "notes/hunger-durst-und-mudigkeit.html",
     "apiUrl": "api/notes/hunger-durst-und-mudigkeit.json",
     "tags": [
@@ -3515,7 +3515,7 @@
     "title": "Initiative und Zonen",
     "slug": "initiative-und-zonen",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Initiative und Zonen.md",
+    "relativePath": "6 - Regeln/Initiative und Zonen.md",
     "url": "notes/initiative-und-zonen.html",
     "apiUrl": "api/notes/initiative-und-zonen.json",
     "tags": [
@@ -3534,7 +3534,7 @@
     "title": "Kontakte und Einrichtungen",
     "slug": "kontakte-und-einrichtungen",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Kontakte und Einrichtungen.md",
+    "relativePath": "6 - Regeln/Kontakte und Einrichtungen.md",
     "url": "notes/kontakte-und-einrichtungen.html",
     "apiUrl": "api/notes/kontakte-und-einrichtungen.json",
     "tags": [
@@ -3553,7 +3553,7 @@
     "title": "Kritische Verletzungen",
     "slug": "kritische-verletzungen",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Kritische Verletzungen.md",
+    "relativePath": "6 - Regeln/Kritische Verletzungen.md",
     "url": "notes/kritische-verletzungen.html",
     "apiUrl": "api/notes/kritische-verletzungen.json",
     "tags": [
@@ -3572,7 +3572,7 @@
     "title": "Manipulation",
     "slug": "manipulation",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Manipulation.md",
+    "relativePath": "6 - Regeln/Manipulation.md",
     "url": "notes/manipulation.html",
     "apiUrl": "api/notes/manipulation.json",
     "tags": [
@@ -3591,7 +3591,7 @@
     "title": "NSCs und Zähigkeit",
     "slug": "nscs-und-zahigkeit",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/NSCs und Zähigkeit.md",
+    "relativePath": "6 - Regeln/NSCs und Zähigkeit.md",
     "url": "notes/nscs-und-zahigkeit.html",
     "apiUrl": "api/notes/nscs-und-zahigkeit.json",
     "tags": [
@@ -3610,7 +3610,7 @@
     "title": "Ressourcen und Ausrüstung",
     "slug": "ressourcen-und-ausrustung",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Ressourcen und Ausrüstung.md",
+    "relativePath": "6 - Regeln/Ressourcen und Ausrüstung.md",
     "url": "notes/ressourcen-und-ausrustung.html",
     "apiUrl": "api/notes/ressourcen-und-ausrustung.json",
     "tags": [
@@ -3629,7 +3629,7 @@
     "title": "Rituale Schwächen und Vertreibung",
     "slug": "rituale-schwachen-und-vertreibung",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Rituale Schwächen und Vertreibung.md",
+    "relativePath": "6 - Regeln/Rituale Schwächen und Vertreibung.md",
     "url": "notes/rituale-schwachen-und-vertreibung.html",
     "apiUrl": "api/notes/rituale-schwachen-und-vertreibung.json",
     "tags": [
@@ -3648,7 +3648,7 @@
     "title": "Steigern",
     "slug": "steigern",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Steigern.md",
+    "relativePath": "6 - Regeln/Steigern.md",
     "url": "notes/steigern.html",
     "apiUrl": "api/notes/steigern.json",
     "tags": [
@@ -3667,7 +3667,7 @@
     "title": "Vaesen-Magie",
     "slug": "vaesen-magie",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Vaesen-Magie.md",
+    "relativePath": "6 - Regeln/Vaesen-Magie.md",
     "url": "notes/vaesen-magie.html",
     "apiUrl": "api/notes/vaesen-magie.json",
     "tags": [
@@ -3686,7 +3686,7 @@
     "title": "Vorbereitung",
     "slug": "vorbereitung",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Vorbereitung.md",
+    "relativePath": "6 - Regeln/Vorbereitung.md",
     "url": "notes/vorbereitung.html",
     "apiUrl": "api/notes/vorbereitung.json",
     "tags": [
@@ -3705,7 +3705,7 @@
     "title": "Vorteile",
     "slug": "vorteile",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Vorteile.md",
+    "relativePath": "6 - Regeln/Vorteile.md",
     "url": "notes/vorteile.html",
     "apiUrl": "api/notes/vorteile.json",
     "tags": [
@@ -3724,7 +3724,7 @@
     "title": "Wurf strapazieren",
     "slug": "wurf-strapazieren",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Wurf strapazieren.md",
+    "relativePath": "6 - Regeln/Wurf strapazieren.md",
     "url": "notes/wurf-strapazieren.html",
     "apiUrl": "api/notes/wurf-strapazieren.json",
     "tags": [
@@ -3743,7 +3743,7 @@
     "title": "Zustand",
     "slug": "zustand",
     "category": "rules",
-    "relativePath": "6 - Regeln/Einzelne Regeln/Zustand.md",
+    "relativePath": "6 - Regeln/Zustand.md",
     "url": "notes/zustand.html",
     "apiUrl": "api/notes/zustand.json",
     "tags": [
@@ -3757,19 +3757,6 @@
     },
     "links": [],
     "markdown": "**Jeder PHYSIS- oder PRÄZISION-Wurf**\n[-] Anzahl Körperlicher Zustände\n\n**Jeder LOGIK- oder EMPATHIE-Wurf**\n[-] Anzahl Mentaler Zustände\n\n**Heilen:**\n- [-2 Zustände] **Memento** anschauen/benutzen für 1 Szene. 1x pro Mysterium möglich. Heilt kein Gebrechen.\n- **Medizin**. Bettruhe. Heilt körperliche Zustände. Kann auch Gebrechen heilen.\n- **Inspiration**. Bettruhe. Heilt mentale Zustände. Kann auch Gebrechen heilen.\n- [-3 Mentale Zustände] **Beichte**\n"
-  },
-  {
-    "title": "Regeln",
-    "slug": "regeln",
-    "category": "rules",
-    "relativePath": "6 - Regeln/Regeln.md",
-    "url": "notes/regeln.html",
-    "apiUrl": "api/notes/regeln.json",
-    "tags": [],
-    "excerpt": "Wurf strapazieren. Alle nicht 6en neu würfeln, aber Zustand bekommen Vorteile erhalten durch Vorbereitung (Reise) \"6\" ist Erfolg 5 Erfahrungen = 1 Fertigkeit / 1 Talent",
-    "frontmatter": {},
-    "links": [],
-    "markdown": "\n- Wurf strapazieren. Alle nicht-6en neu würfeln, aber Zustand bekommen\n- Vorteile erhalten durch Vorbereitung (Reise)\n\n- \"6\" ist Erfolg\n- 5 Erfahrungen = 1 Fertigkeit / 1 Talent"
   },
   {
     "title": "Jungkirchenbewegung",
