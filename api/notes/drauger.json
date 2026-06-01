@@ -6,11 +6,13 @@
   "url": "notes/drauger.html",
   "apiUrl": "api/notes/drauger.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "Ein Vaesen Ein Untoter, der Rache will. Oscar Hjort Erzeugt Albträume wie im Gasthaus Hexenkatze: Alle träumen dasselbe. Auf der Bühne stehen und mit Dolch erdolcht werden. Er...",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

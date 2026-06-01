@@ -6,11 +6,13 @@
   "url": "notes/geisterraben.html",
   "apiUrl": "api/notes/geisterraben.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "Ein Vaesen. Geisterraben gibt es im Krieg. KI Zusammenfassung S01 Ankunft in Uppsala: Geisterraben gibt es im Krieg.",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

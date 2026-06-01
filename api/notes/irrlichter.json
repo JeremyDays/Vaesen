@@ -6,11 +6,13 @@
   "url": "notes/irrlichter.html",
   "apiUrl": "api/notes/irrlichter.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Irrlichter. Bei Wasser. Bekommen Traumata. Landkonflikte / Erbstreitigkeiten.",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

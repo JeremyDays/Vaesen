@@ -6,11 +6,13 @@
   "url": "notes/hauswichtel.html",
   "apiUrl": "api/notes/hauswichtel.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Einem Hauswichtel kann man Brei oder Haferschleim hinstellen....",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

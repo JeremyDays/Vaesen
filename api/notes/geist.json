@@ -6,11 +6,13 @@
   "url": "notes/geist.html",
   "apiUrl": "api/notes/geist.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "Ein Vaesen. Spiriti ist ein Alias oder eine Bezeichnung für Geist. KI Zusammenfassung S01 Ankunft in Uppsala: In Charlots Notizen werden Gifte durch SpiritiGeist erwähnt.",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ],
     "aliases": [

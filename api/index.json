@@ -5030,11 +5030,13 @@
     "url": "notes/drauger.html",
     "apiUrl": "api/notes/drauger.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Ein Vaesen Ein Untoter, der Rache will. Oscar Hjort Erzeugt Albträume wie im Gasthaus Hexenkatze: Alle träumen dasselbe. Auf der Bühne stehen und mit Dolch erdolcht werden. Er...",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5065,11 +5067,13 @@
     "url": "notes/elfen.html",
     "apiUrl": "api/notes/elfen.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Elfen. Angst vor Kirchenglocken, Stahl kann sie bannen, Mit Blasebalg Weihwasser über Elfenwege; Hilde sucht nach christlicher Kirche....",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5084,11 +5088,13 @@
     "url": "notes/geist.html",
     "apiUrl": "api/notes/geist.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Ein Vaesen. Spiriti ist ein Alias oder eine Bezeichnung für Geist. KI Zusammenfassung S01 Ankunft in Uppsala: In Charlots Notizen werden Gifte durch SpiritiGeist erwähnt.",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ],
       "aliases": [
@@ -5117,11 +5123,13 @@
     "url": "notes/geisterraben.html",
     "apiUrl": "api/notes/geisterraben.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Ein Vaesen. Geisterraben gibt es im Krieg. KI Zusammenfassung S01 Ankunft in Uppsala: Geisterraben gibt es im Krieg.",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5142,11 +5150,13 @@
     "url": "notes/hauswichtel.html",
     "apiUrl": "api/notes/hauswichtel.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Einem Hauswichtel kann man Brei oder Haferschleim hinstellen....",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5167,11 +5177,13 @@
     "url": "notes/irrlichter.html",
     "apiUrl": "api/notes/irrlichter.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Irrlichter. Bei Wasser. Bekommen Traumata. Landkonflikte / Erbstreitigkeiten.",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5186,11 +5198,13 @@
     "url": "notes/kobold.html",
     "apiUrl": "api/notes/kobold.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Ein Vaesen. Einem Kobold soll man eine Milchschale hinstellen. KI Zusammenfassung S01 Ankunft in Uppsala: Der Kobold wird im Zusammenhang mit der Milchschale genannt; als Gabe...",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5216,11 +5230,13 @@
     "url": "notes/lindwurm.html",
     "apiUrl": "api/notes/lindwurm.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Ein Vaesen. KI Zusammenfassung S01 Ankunft in Uppsala: Lindwurm wird als relevante Kreatur genannt.",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5241,11 +5257,13 @@
     "url": "notes/mehrjungfrauen.html",
     "apiUrl": "api/notes/mehrjungfrauen.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Mehrjungfrauen leben in Seen, wollen Geschenke. Ertrinken.",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5260,11 +5278,13 @@
     "url": "notes/nachtmar.html",
     "apiUrl": "api/notes/nachtmar.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Ein Vaesen Besessene Frauen Nachtmar sind Frauen, die an Hexen beten, um die Geburtsschmerzen zu umgehen. Die Mutter oder die Tochter kann zu einem Nachtmar werden. KI...",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5285,11 +5305,13 @@
     "url": "notes/nachtraben.html",
     "apiUrl": "api/notes/nachtraben.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Vaesen",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5310,11 +5332,13 @@
     "url": "notes/nock.html",
     "apiUrl": "api/notes/nock.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Nöck. Wassermann. Hat etwas mit Musik zu tun. Mag Katzen. Soll man ihm opfern. Psychische Traumata. Besessenheit. Messer zum Bannen,...",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5329,11 +5353,13 @@
     "url": "notes/seekalb.html",
     "apiUrl": "api/notes/seekalb.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5348,11 +5374,13 @@
     "url": "notes/seeschlange.html",
     "apiUrl": "api/notes/seeschlange.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Seeschlange. Verletzungen wie von Löwen. Nimmt Kühe und Schweine. Man kann sie bannen, indem man sie dazu bringt, sich selbst in den...",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5367,11 +5395,13 @@
     "url": "notes/vaesen.html",
     "apiUrl": "api/notes/vaesen.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "KI Zusammenfassung S01 Ankunft in Uppsala: Gründerin. Anfang 15. Jhd. Tine Rasmussen hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach...",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ]
     },
@@ -5386,11 +5416,13 @@
     "url": "notes/wichtel.html",
     "apiUrl": "api/notes/wichtel.json",
     "tags": [
-      "Kreatur"
+      "Kreatur",
+      "Vaesen"
     ],
     "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut...",
     "frontmatter": {
       "tags": [
+        "Vaesen",
         "Kreatur"
       ],
       "aliases": [
