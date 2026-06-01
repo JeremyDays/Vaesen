@@ -19,7 +19,7 @@ main { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 28px 0 56
 .dashboard-page main { width: 100%; padding: 0 0 56px; }
 .hero {
   align-items: end;
-  aspect-ratio: 1824 / 862;
+  aspect-ratio: 1599 / 984;
   background:
     linear-gradient(180deg, rgb(0 0 0 / 2%) 0%, rgb(0 0 0 / 8%) 55%, rgb(0 0 0 / 40%) 100%),
     url("hero-group-banner.png") center / cover no-repeat,
