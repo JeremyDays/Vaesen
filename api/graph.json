@@ -1494,18 +1494,18 @@
     },
     {
       "source": "auslander",
-      "target": "hilde",
-      "label": "Hilde"
-    },
-    {
-      "source": "auslander",
       "target": "auslander",
       "label": "Ausländer"
     },
     {
-      "source": "carl-rosen-von-bangen",
+      "source": "auslander",
       "target": "hilde",
       "label": "Hilde"
+    },
+    {
+      "source": "carl-rosen-von-bangen",
+      "target": "carl-rosen-von-bangen",
+      "label": "Carl Rosén von Bängen"
     },
     {
       "source": "carl-rosen-von-bangen",
@@ -1514,8 +1514,8 @@
     },
     {
       "source": "carl-rosen-von-bangen",
-      "target": "carl-rosen-von-bangen",
-      "label": "Carl Rosén von Bängen"
+      "target": "hilde",
+      "label": "Hilde"
     },
     {
       "source": "francisco-de-osuna",
@@ -1554,6 +1554,11 @@
     },
     {
       "source": "jonas-olbers",
+      "target": "1828",
+      "label": "1828"
+    },
+    {
+      "source": "jonas-olbers",
       "target": "hilde",
       "label": "Hilde"
     },
@@ -1566,11 +1571,6 @@
       "source": "jonas-olbers",
       "target": "jonas-olbers",
       "label": "Jonas Olbers"
-    },
-    {
-      "source": "jonas-olbers",
-      "target": "1828",
-      "label": "1828"
     },
     {
       "source": "nathan-olof-von-bangen",
@@ -1604,13 +1604,13 @@
     },
     {
       "source": "thekla-levinia-von-bangen",
-      "target": "hilde",
-      "label": "Hilde"
+      "target": "astrid-cleve",
+      "label": "Astrid Cleve"
     },
     {
       "source": "thekla-levinia-von-bangen",
-      "target": "astrid-cleve",
-      "label": "Astrid Cleve"
+      "target": "hilde",
+      "label": "Hilde"
     },
     {
       "source": "inga-johansson",
@@ -1629,13 +1629,13 @@
     },
     {
       "source": "johan-johansson-junior",
-      "target": "jona",
-      "label": "Jona"
+      "target": "charlot",
+      "label": "Charlot"
     },
     {
       "source": "johan-johansson-junior",
-      "target": "charlot",
-      "label": "Charlot"
+      "target": "jona",
+      "label": "Jona"
     },
     {
       "source": "johan-johansson-senior",
@@ -1829,11 +1829,16 @@
     },
     {
       "source": "nora",
+      "target": "gasthaus-hexenkatze",
+      "label": "Gasthaus Hexenkatze"
+    },
+    {
+      "source": "nora",
       "target": "sophia",
       "label": "Sophia"
     },
     {
-      "source": "nora",
+      "source": "oscar-hjort",
       "target": "gasthaus-hexenkatze",
       "label": "Gasthaus Hexenkatze"
     },
@@ -1844,33 +1849,8 @@
     },
     {
       "source": "oscar-hjort",
-      "target": "gasthaus-hexenkatze",
-      "label": "Gasthaus Hexenkatze"
-    },
-    {
-      "source": "oscar-hjort",
       "target": "sophia",
       "label": "Sophia"
-    },
-    {
-      "source": "oscar-hjort",
-      "target": "uppsala",
-      "label": "Uppsala"
-    },
-    {
-      "source": "oscar-hjort",
-      "target": "katja-kokola",
-      "label": "Katja Kokola"
-    },
-    {
-      "source": "oscar-hjort",
-      "target": "hielma-von-thulenstein",
-      "label": "Hielma von Thulenstein"
-    },
-    {
-      "source": "oscar-hjort",
-      "target": "albert-wriedenhelm",
-      "label": "Albert Wriedenhelm"
     },
     {
       "source": "piry",
