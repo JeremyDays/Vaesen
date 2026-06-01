@@ -577,6 +577,12 @@
       "url": "notes/taschenuhr.html"
     },
     {
+      "id": "milchschale",
+      "title": "Milchschale",
+      "category": "item",
+      "url": "notes/milchschale.html"
+    },
+    {
       "id": "drittes-geistliches-abc",
       "title": "Drittes geistliches ABC",
       "category": "item",
@@ -913,6 +919,12 @@
       "url": "notes/elfen.html"
     },
     {
+      "id": "geist",
+      "title": "Geist",
+      "category": "creature",
+      "url": "notes/geist.html"
+    },
+    {
       "id": "geisterraben",
       "title": "Geisterraben",
       "category": "creature",
@@ -931,16 +943,22 @@
       "url": "notes/irrlichter.html"
     },
     {
+      "id": "kobold",
+      "title": "Kobold",
+      "category": "creature",
+      "url": "notes/kobold.html"
+    },
+    {
+      "id": "lindwurm",
+      "title": "Lindwurm",
+      "category": "creature",
+      "url": "notes/lindwurm.html"
+    },
+    {
       "id": "mehrjungfrauen",
       "title": "Mehrjungfrauen",
       "category": "creature",
       "url": "notes/mehrjungfrauen.html"
-    },
-    {
-      "id": "milchhase",
-      "title": "Milchhase",
-      "category": "creature",
-      "url": "notes/milchhase.html"
     },
     {
       "id": "nachtmar",
@@ -2172,6 +2190,11 @@
       "label": "Sven"
     },
     {
+      "source": "milchschale",
+      "target": "kobold",
+      "label": "Kobold"
+    },
+    {
       "source": "drittes-geistliches-abc",
       "target": "hilde",
       "label": "Hilde"
@@ -2418,13 +2441,28 @@
     },
     {
       "source": "s01-ankunft-in-uppsala",
-      "target": "milchhase",
-      "label": "Milchhase"
+      "target": "geist",
+      "label": "Spiriti"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "milchschale",
+      "label": "Milchschale"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "kobold",
+      "label": "Kobold"
     },
     {
       "source": "s01-ankunft-in-uppsala",
       "target": "geisterraben",
       "label": "Geisterraben"
+    },
+    {
+      "source": "s01-ankunft-in-uppsala",
+      "target": "lindwurm",
+      "label": "Lindwurm"
     },
     {
       "source": "s01-ankunft-in-uppsala",
@@ -2937,7 +2975,37 @@
       "label": "Gasthaus Hexenkatze"
     },
     {
+      "source": "geist",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "geist",
+      "target": "geist",
+      "label": "Spiriti"
+    },
+    {
+      "source": "geisterraben",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
       "source": "hauswichtel",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "kobold",
+      "target": "vaesen",
+      "label": "Vaesen"
+    },
+    {
+      "source": "kobold",
+      "target": "milchschale",
+      "label": "Milchschale"
+    },
+    {
+      "source": "lindwurm",
       "target": "vaesen",
       "label": "Vaesen"
     },

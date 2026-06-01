@@ -8,12 +8,18 @@
   "tags": [
     "Kreatur"
   ],
-  "excerpt": "KI Zusammenfassung S01 Ankunft in Uppsala: Charlot: Notizen: Gifte durch Spiriti, Milchhase = Kobold, Geisterraben im Krieg, Lindwurm; Charlot beginnt auf Französisch zu...",
+  "excerpt": "Ein Vaesen. Geisterraben gibt es im Krieg. KI Zusammenfassung S01 Ankunft in Uppsala: Geisterraben gibt es im Krieg.",
   "frontmatter": {
     "tags": [
       "Kreatur"
     ]
   },
-  "links": [],
-  "markdown": "\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Charlot: Notizen: Gifte durch Spiriti, Milchhase = Kobold, Geisterraben im Krieg, Lindwurm; Charlot beginnt auf Französisch zu fluchen. Er kann sich zurückhalten. Er hat über Geisterraben gelesen.\n"
+  "links": [
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    }
+  ],
+  "markdown": "\n- Ein [[Vaesen]].\n- Geisterraben gibt es im Krieg.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Geisterraben gibt es im Krieg.\n"
 }
