@@ -1,0 +1,19 @@
+{
+  "title": "Hunger Durst und Müdigkeit",
+  "slug": "hunger-durst-und-mudigkeit",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Hunger Durst und Müdigkeit.md",
+  "url": "notes/hunger-durst-und-mudigkeit.html",
+  "apiUrl": "api/notes/hunger-durst-und-mudigkeit.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Entbehrung Kein Essen, Trinken oder Schlaf führt zu Zuständen. Sichere Ruhe, Nahrung und Wasser beenden die akute Gefahr. Passt gut für Reisen, Winter, Gefangenschaft und lange Nac",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Entbehrung**\n- Kein Essen, Trinken oder Schlaf führt zu Zuständen.\n- Sichere Ruhe, Nahrung und Wasser beenden die akute Gefahr.\n- Passt gut für Reisen, Winter, Gefangenschaft und lange Nachtwachen.\n"
+}

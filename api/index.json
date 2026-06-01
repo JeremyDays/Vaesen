@@ -3351,6 +3351,63 @@
     "markdown": "\nJede Runde hat man 1 Hauptaktion + 1 Nebenaktion\n\n**Hauptaktionen / Langsame Aktionen**\n- Angreifen\n- Fertigkeit einsetzen\n- Waffe ziehen\n\n**Nebenaktionen / Schnelle Aktionen**\n- Etwas sagen\n- Parieren / Ausweichen\n- "
   },
   {
+    "title": "Angriff Schaden und Rüstung",
+    "slug": "angriff-schaden-und-rustung",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Angriff Schaden und Rüstung.md",
+    "url": "notes/angriff-schaden-und-rustung.html",
+    "apiUrl": "api/notes/angriff-schaden-und-rustung.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Angriff Nahkampf: Kraft oder Nahkampf. Fernkampf: Fernkampf. 1 Erfolg trifft. Schaden Waffenschaden = Zustände bzw. Zähigkeitsschaden. Zusätzliche Erfolge können Schaden erhöhen. R",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Angriff**\n- Nahkampf: Kraft oder Nahkampf.\n- Fernkampf: Fernkampf.\n- 1 Erfolg trifft.\n\n**Schaden**\n- Waffenschaden = Zustände bzw. Zähigkeitsschaden.\n- Zusätzliche Erfolge können Schaden erhöhen.\n\n**Rüstung**\n- Rüstung kann Schaden senken.\n- Rüstung erschwert Beweglichkeit.\n"
+  },
+  {
+    "title": "Bedrohungen durch Upgrades",
+    "slug": "bedrohungen-durch-upgrades",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Bedrohungen durch Upgrades.md",
+    "url": "notes/bedrohungen-durch-upgrades.html",
+    "apiUrl": "api/notes/bedrohungen-durch-upgrades.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Beim Ausbau Upgrades können Bedrohungen wecken. Je teurer / je mehr auf einmal, desto riskanter. Bedrohungen Neue Probleme im Schloss, alte Geheimnisse, Gegner, Vaesen Spuren oder ",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Beim Ausbau**\n- Upgrades können Bedrohungen wecken.\n- Je teurer / je mehr auf einmal, desto riskanter.\n\n**Bedrohungen**\n- Neue Probleme im Schloss, alte Geheimnisse, Gegner, Vaesen-Spuren oder soziale Folgen.\n"
+  },
+  {
+    "title": "Deckung",
+    "slug": "deckung",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Deckung.md",
+    "url": "notes/deckung.html",
+    "apiUrl": "api/notes/deckung.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Deckung Schutz zwischen Ziel und Angreifer erschwert Treffer. Je massiver die Deckung, desto besser der Schutz. Deckung hilft vor allem gegen Fernkampf und Explosionen.",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Deckung**\n- Schutz zwischen Ziel und Angreifer erschwert Treffer.\n- Je massiver die Deckung, desto besser der Schutz.\n- Deckung hilft vor allem gegen Fernkampf und Explosionen.\n"
+  },
+  {
     "title": "Erfolgswurf",
     "slug": "erfolgswurf",
     "category": "rules",
@@ -3368,6 +3425,44 @@
     },
     "links": [],
     "markdown": "**Erfolgswurf**\n\"6\" ist Erfolg\n\n"
+  },
+  {
+    "title": "Feuer Gift und Sturz",
+    "slug": "feuer-gift-und-sturz",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Feuer Gift und Sturz.md",
+    "url": "notes/feuer-gift-und-sturz.html",
+    "apiUrl": "api/notes/feuer-gift-und-sturz.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Feuer Verursacht Schaden/Zustände weiter, solange es brennt. Löschen oder aus der Gefahr raus. Gift Wirkt mit Stärke/Schaden, bis es behandelt oder überstanden ist. Medizin kann he",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Feuer**\n- Verursacht Schaden/Zustände weiter, solange es brennt.\n- Löschen oder aus der Gefahr raus.\n\n**Gift**\n- Wirkt mit Stärke/Schaden, bis es behandelt oder überstanden ist.\n- Medizin kann helfen.\n\n**Sturz**\n- Ab ca. 3 Metern gefährlich.\n- Rüstung hilft gegen Sturz nicht.\n"
+  },
+  {
+    "title": "Flucht Verfolgung und Hinterhalt",
+    "slug": "flucht-verfolgung-und-hinterhalt",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Flucht Verfolgung und Hinterhalt.md",
+    "url": "notes/flucht-verfolgung-und-hinterhalt.html",
+    "apiUrl": "api/notes/flucht-verfolgung-und-hinterhalt.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Flucht / Verfolgung Meist Gewandtheit gegen Gewandtheit. Gegner in derselben Zone können Flucht verhindern. Hinterhalt Vorher erfolgreich verbergen oder anschleichen. Gelingt der H",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Flucht / Verfolgung**\n- Meist Gewandtheit gegen Gewandtheit.\n- Gegner in derselben Zone können Flucht verhindern.\n\n**Hinterhalt**\n- Vorher erfolgreich verbergen oder anschleichen.\n- Gelingt der Hinterhalt, ist der erste Angriff deutlich im Vorteil.\n"
   },
   {
     "title": "Furchtwurf",
@@ -3389,6 +3484,215 @@
     "markdown": "**Wurf auf LOGIK oder EMPATHIE**\n[+] Anzahl von Freunden\n[-] Geistiger Zustand\n\n**Bei Fehlschlag:**\n[+] Mentaler Zustand\nUnd:\n- Erstarren, \n- In Ohnmacht fallen, \n- Fliehen, oder \n- Angreifen\n\n**Dauer:** d6 x 10s bzw. Runden\n\n"
   },
   {
+    "title": "Gebrochen",
+    "slug": "gebrochen",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Gebrochen.md",
+    "url": "notes/gebrochen.html",
+    "apiUrl": "api/notes/gebrochen.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Gebrochen Wenn alle körperlichen oder alle mentalen Zustände markiert sind und noch ein passender Zustand dazukommt. Charakter ist handlungsunfähig. Weitere Gefahr kann kritische V",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Gebrochen**\n- Wenn alle körperlichen oder alle mentalen Zustände markiert sind und noch ein passender Zustand dazukommt.\n- Charakter ist handlungsunfähig.\n- Weitere Gefahr kann kritische Verletzungen auslösen.\n"
+  },
+  {
+    "title": "Hauptquartier-Upgrades",
+    "slug": "hauptquartier-upgrades",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Hauptquartier-Upgrades.md",
+    "url": "notes/hauptquartier-upgrades.html",
+    "apiUrl": "api/notes/hauptquartier-upgrades.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Upgrades Werden mit Hauptquartier EP gekauft. Können Räume, Einrichtungen, Kontakte oder Vorteile freischalten. Manche haben Voraussetzungen. Nutzen Vorbereitung, Heilung, Wissen, ",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Upgrades**\n- Werden mit Hauptquartier-EP gekauft.\n- Können Räume, Einrichtungen, Kontakte oder Vorteile freischalten.\n- Manche haben Voraussetzungen.\n\n**Nutzen**\n- Vorbereitung, Heilung, Wissen, Ausrüstung und Kontakte werden leichter.\n"
+  },
+  {
+    "title": "Heilung vertieft",
+    "slug": "heilung-vertieft",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Heilung vertieft.md",
+    "url": "notes/heilung-vertieft.html",
+    "apiUrl": "api/notes/heilung-vertieft.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Körperlich Medizin + Bettruhe + sichere Versorgung. Kann körperliche Zustände und teils Gebrechen behandeln. Mental Inspiration + Ruhe + Gespräch / Nähe. Kann mentale Zustände und ",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Körperlich**\n- Medizin + Bettruhe + sichere Versorgung.\n- Kann körperliche Zustände und teils Gebrechen behandeln.\n\n**Mental**\n- Inspiration + Ruhe + Gespräch / Nähe.\n- Kann mentale Zustände und teils Gebrechen behandeln.\n\n**Memento**\n- 1x pro Mysterium in einer Szene nutzbar.\n- Heilt Zustände, aber kein Gebrechen.\n"
+  },
+  {
+    "title": "Hunger Durst und Müdigkeit",
+    "slug": "hunger-durst-und-mudigkeit",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Hunger Durst und Müdigkeit.md",
+    "url": "notes/hunger-durst-und-mudigkeit.html",
+    "apiUrl": "api/notes/hunger-durst-und-mudigkeit.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Entbehrung Kein Essen, Trinken oder Schlaf führt zu Zuständen. Sichere Ruhe, Nahrung und Wasser beenden die akute Gefahr. Passt gut für Reisen, Winter, Gefangenschaft und lange Nac",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Entbehrung**\n- Kein Essen, Trinken oder Schlaf führt zu Zuständen.\n- Sichere Ruhe, Nahrung und Wasser beenden die akute Gefahr.\n- Passt gut für Reisen, Winter, Gefangenschaft und lange Nachtwachen.\n"
+  },
+  {
+    "title": "Initiative und Zonen",
+    "slug": "initiative-und-zonen",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Initiative und Zonen.md",
+    "url": "notes/initiative-und-zonen.html",
+    "apiUrl": "api/notes/initiative-und-zonen.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Initiative Reihenfolge zu Beginn des Konflikts festlegen. Danach wird reihum gehandelt. Zonen Nah: gleiche Zone. Kurz/Mittel/Weit: Bewegung und Reichweite beachten. In eine benachb",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Initiative**\n- Reihenfolge zu Beginn des Konflikts festlegen.\n- Danach wird reihum gehandelt.\n\n**Zonen**\n- Nah: gleiche Zone.\n- Kurz/Mittel/Weit: Bewegung und Reichweite beachten.\n- In eine benachbarte Zone bewegen ist meist eine schnelle Aktion.\n"
+  },
+  {
+    "title": "Kontakte und Einrichtungen",
+    "slug": "kontakte-und-einrichtungen",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Kontakte und Einrichtungen.md",
+    "url": "notes/kontakte-und-einrichtungen.html",
+    "apiUrl": "api/notes/kontakte-und-einrichtungen.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Kontakte Müssen benannt und in die Geschichte eingebunden werden. Können Hinweise, Hilfe, Zugang oder Schutz geben. Einrichtungen Räume im Schloss geben wiederkehrende Vorteile. Be",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Kontakte**\n- Müssen benannt und in die Geschichte eingebunden werden.\n- Können Hinweise, Hilfe, Zugang oder Schutz geben.\n\n**Einrichtungen**\n- Räume im Schloss geben wiederkehrende Vorteile.\n- Besonders nützlich: Bibliothek, Krankenstation, Stall, Kapelle, Labor, Archiv.\n"
+  },
+  {
+    "title": "Kritische Verletzungen",
+    "slug": "kritische-verletzungen",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Kritische Verletzungen.md",
+    "url": "notes/kritische-verletzungen.html",
+    "apiUrl": "api/notes/kritische-verletzungen.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Wenn gebrochen Bei weiterer schwerer Gefahr: kritische Verletzung würfeln. Körperlich und mental getrennt betrachten. Folgen Kann zeitkritisch, dauerhaft oder erzählerisch schwerwi",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Wenn gebrochen**\n- Bei weiterer schwerer Gefahr: kritische Verletzung würfeln.\n- Körperlich und mental getrennt betrachten.\n\n**Folgen**\n- Kann zeitkritisch, dauerhaft oder erzählerisch schwerwiegend sein.\n- Manche Folgen werden zu Defekten.\n"
+  },
+  {
+    "title": "Manipulation",
+    "slug": "manipulation",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Manipulation.md",
+    "url": "notes/manipulation.html",
+    "apiUrl": "api/notes/manipulation.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Manipulation Für Überreden, Drohen, Lügen, Feilschen, Einschüchtern. Gegen wichtige Personen oft vergleichender Wurf. Zusätzliche Erfolge können Druck, Zugeständnisse oder mentale ",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Manipulation**\n- Für Überreden, Drohen, Lügen, Feilschen, Einschüchtern.\n- Gegen wichtige Personen oft vergleichender Wurf.\n- Zusätzliche Erfolge können Druck, Zugeständnisse oder mentale Zustände erzeugen.\n"
+  },
+  {
+    "title": "NSCs und Zähigkeit",
+    "slug": "nscs-und-zahigkeit",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/NSCs und Zähigkeit.md",
+    "url": "notes/nscs-und-zahigkeit.html",
+    "apiUrl": "api/notes/nscs-und-zahigkeit.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "NSCs Haben meist Zähigkeit statt Zuständen. Schaden senkt Zähigkeit. Niedrige Zähigkeit bedeutet weniger Würfel / schwächere Gegenwehr.",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**NSCs**\n- Haben meist Zähigkeit statt Zuständen.\n- Schaden senkt Zähigkeit.\n- Niedrige Zähigkeit bedeutet weniger Würfel / schwächere Gegenwehr.\n"
+  },
+  {
+    "title": "Ressourcen und Ausrüstung",
+    "slug": "ressourcen-und-ausrustung",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Ressourcen und Ausrüstung.md",
+    "url": "notes/ressourcen-und-ausrustung.html",
+    "apiUrl": "api/notes/ressourcen-und-ausrustung.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Ausrüstung beschaffen Gegenstand hat Verfügbarkeit 1 5. Wurf mit Ressourcen gegen Verfügbarkeit. Vor dem Mysterium oder plausibel vor Ort. Nach dem Mysterium Jede Person behält 1 n",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Ausrüstung beschaffen**\n- Gegenstand hat Verfügbarkeit 1-5.\n- Wurf mit Ressourcen gegen Verfügbarkeit.\n- Vor dem Mysterium oder plausibel vor Ort.\n\n**Nach dem Mysterium**\n- Jede Person behält 1 neuen Gegenstand.\n- Memento und Alltagsgegenstände bleiben immer.\n"
+  },
+  {
+    "title": "Rituale Schwächen und Vertreibung",
+    "slug": "rituale-schwachen-und-vertreibung",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Rituale Schwächen und Vertreibung.md",
+    "url": "notes/rituale-schwachen-und-vertreibung.html",
+    "apiUrl": "api/notes/rituale-schwachen-und-vertreibung.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Konfrontation mit Vaesen Gewalt ist selten die beste Lösung. Erst Schwäche, Wahrheit, Tabu oder Bindung herausfinden. Vertreibung / Befriedung Ritual, Wiedergutmachung, Begräbnis, ",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Konfrontation mit Vaesen**\n- Gewalt ist selten die beste Lösung.\n- Erst Schwäche, Wahrheit, Tabu oder Bindung herausfinden.\n\n**Vertreibung / Befriedung**\n- Ritual, Wiedergutmachung, Begräbnis, Gabe, Entschuldigung oder Bann.\n- Passt zur Ursache des Mysteriums.\n"
+  },
+  {
     "title": "Steigern",
     "slug": "steigern",
     "category": "rules",
@@ -3408,6 +3712,25 @@
     "markdown": "**Steigern**\n5 Erfahrungen = 1 Fertigkeit / 1 Talent\n"
   },
   {
+    "title": "Vaesen-Magie",
+    "slug": "vaesen-magie",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Vaesen-Magie.md",
+    "url": "notes/vaesen-magie.html",
+    "apiUrl": "api/notes/vaesen-magie.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Vaesen Magie Vaesen können Regeln der normalen Welt brechen. Effekte sind oft orts , personen oder tabugebunden. Stahl, Kirche, Rituale, Namen, Gaben oder Wahrheiten können wichtig",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Vaesen-Magie**\n- Vaesen können Regeln der normalen Welt brechen.\n- Effekte sind oft orts-, personen- oder tabugebunden.\n- Stahl, Kirche, Rituale, Namen, Gaben oder Wahrheiten können wichtig sein.\n"
+  },
+  {
     "title": "Vorbereitung",
     "slug": "vorbereitung",
     "category": "rules",
@@ -3425,6 +3748,25 @@
     },
     "links": [],
     "markdown": "**Vorbereitung**\nVorteile erhalten durch Vorbereitung (Reise): Einmal Skill +2 Würfel\n"
+  },
+  {
+    "title": "Vorteile",
+    "slug": "vorteile",
+    "category": "rules",
+    "relativePath": "6 - Regeln/Einzelne Regeln/Vorteile.md",
+    "url": "notes/vorteile.html",
+    "apiUrl": "api/notes/vorteile.json",
+    "tags": [
+      "Regel"
+    ],
+    "excerpt": "Vorteil Gilt für ein Mysterium. 1x pro Session: +2 Würfel auf einen passenden Wurf. Vor dem Wurf oder vor dem Strapazieren ansagen.",
+    "frontmatter": {
+      "tags": [
+        "Regel"
+      ]
+    },
+    "links": [],
+    "markdown": "\n**Vorteil**\n- Gilt für ein Mysterium.\n- 1x pro Session: +2 Würfel auf einen passenden Wurf.\n- Vor dem Wurf oder vor dem Strapazieren ansagen.\n"
   },
   {
     "title": "Wurf strapazieren",

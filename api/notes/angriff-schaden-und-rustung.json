@@ -1,0 +1,19 @@
+{
+  "title": "Angriff Schaden und Rüstung",
+  "slug": "angriff-schaden-und-rustung",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Angriff Schaden und Rüstung.md",
+  "url": "notes/angriff-schaden-und-rustung.html",
+  "apiUrl": "api/notes/angriff-schaden-und-rustung.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Angriff Nahkampf: Kraft oder Nahkampf. Fernkampf: Fernkampf. 1 Erfolg trifft. Schaden Waffenschaden = Zustände bzw. Zähigkeitsschaden. Zusätzliche Erfolge können Schaden erhöhen. R",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Angriff**\n- Nahkampf: Kraft oder Nahkampf.\n- Fernkampf: Fernkampf.\n- 1 Erfolg trifft.\n\n**Schaden**\n- Waffenschaden = Zustände bzw. Zähigkeitsschaden.\n- Zusätzliche Erfolge können Schaden erhöhen.\n\n**Rüstung**\n- Rüstung kann Schaden senken.\n- Rüstung erschwert Beweglichkeit.\n"
+}

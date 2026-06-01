@@ -1,0 +1,19 @@
+{
+  "title": "NSCs und Zähigkeit",
+  "slug": "nscs-und-zahigkeit",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/NSCs und Zähigkeit.md",
+  "url": "notes/nscs-und-zahigkeit.html",
+  "apiUrl": "api/notes/nscs-und-zahigkeit.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "NSCs Haben meist Zähigkeit statt Zuständen. Schaden senkt Zähigkeit. Niedrige Zähigkeit bedeutet weniger Würfel / schwächere Gegenwehr.",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**NSCs**\n- Haben meist Zähigkeit statt Zuständen.\n- Schaden senkt Zähigkeit.\n- Niedrige Zähigkeit bedeutet weniger Würfel / schwächere Gegenwehr.\n"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Kontakte und Einrichtungen",
+  "slug": "kontakte-und-einrichtungen",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Kontakte und Einrichtungen.md",
+  "url": "notes/kontakte-und-einrichtungen.html",
+  "apiUrl": "api/notes/kontakte-und-einrichtungen.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Kontakte Müssen benannt und in die Geschichte eingebunden werden. Können Hinweise, Hilfe, Zugang oder Schutz geben. Einrichtungen Räume im Schloss geben wiederkehrende Vorteile. Be",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Kontakte**\n- Müssen benannt und in die Geschichte eingebunden werden.\n- Können Hinweise, Hilfe, Zugang oder Schutz geben.\n\n**Einrichtungen**\n- Räume im Schloss geben wiederkehrende Vorteile.\n- Besonders nützlich: Bibliothek, Krankenstation, Stall, Kapelle, Labor, Archiv.\n"
+}

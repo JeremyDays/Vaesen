@@ -1,0 +1,19 @@
+{
+  "title": "Initiative und Zonen",
+  "slug": "initiative-und-zonen",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Initiative und Zonen.md",
+  "url": "notes/initiative-und-zonen.html",
+  "apiUrl": "api/notes/initiative-und-zonen.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Initiative Reihenfolge zu Beginn des Konflikts festlegen. Danach wird reihum gehandelt. Zonen Nah: gleiche Zone. Kurz/Mittel/Weit: Bewegung und Reichweite beachten. In eine benachb",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Initiative**\n- Reihenfolge zu Beginn des Konflikts festlegen.\n- Danach wird reihum gehandelt.\n\n**Zonen**\n- Nah: gleiche Zone.\n- Kurz/Mittel/Weit: Bewegung und Reichweite beachten.\n- In eine benachbarte Zone bewegen ist meist eine schnelle Aktion.\n"
+}

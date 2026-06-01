@@ -1,0 +1,19 @@
+{
+  "title": "Feuer Gift und Sturz",
+  "slug": "feuer-gift-und-sturz",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Feuer Gift und Sturz.md",
+  "url": "notes/feuer-gift-und-sturz.html",
+  "apiUrl": "api/notes/feuer-gift-und-sturz.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Feuer Verursacht Schaden/Zustände weiter, solange es brennt. Löschen oder aus der Gefahr raus. Gift Wirkt mit Stärke/Schaden, bis es behandelt oder überstanden ist. Medizin kann he",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Feuer**\n- Verursacht Schaden/Zustände weiter, solange es brennt.\n- Löschen oder aus der Gefahr raus.\n\n**Gift**\n- Wirkt mit Stärke/Schaden, bis es behandelt oder überstanden ist.\n- Medizin kann helfen.\n\n**Sturz**\n- Ab ca. 3 Metern gefährlich.\n- Rüstung hilft gegen Sturz nicht.\n"
+}

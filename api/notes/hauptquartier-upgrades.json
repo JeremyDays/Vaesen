@@ -1,0 +1,19 @@
+{
+  "title": "Hauptquartier-Upgrades",
+  "slug": "hauptquartier-upgrades",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Hauptquartier-Upgrades.md",
+  "url": "notes/hauptquartier-upgrades.html",
+  "apiUrl": "api/notes/hauptquartier-upgrades.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Upgrades Werden mit Hauptquartier EP gekauft. Können Räume, Einrichtungen, Kontakte oder Vorteile freischalten. Manche haben Voraussetzungen. Nutzen Vorbereitung, Heilung, Wissen, ",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Upgrades**\n- Werden mit Hauptquartier-EP gekauft.\n- Können Räume, Einrichtungen, Kontakte oder Vorteile freischalten.\n- Manche haben Voraussetzungen.\n\n**Nutzen**\n- Vorbereitung, Heilung, Wissen, Ausrüstung und Kontakte werden leichter.\n"
+}

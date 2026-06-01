@@ -601,10 +601,40 @@
       "url": "notes/aktionen.html"
     },
     {
+      "id": "angriff-schaden-und-rustung",
+      "title": "Angriff Schaden und Rüstung",
+      "category": "rules",
+      "url": "notes/angriff-schaden-und-rustung.html"
+    },
+    {
+      "id": "bedrohungen-durch-upgrades",
+      "title": "Bedrohungen durch Upgrades",
+      "category": "rules",
+      "url": "notes/bedrohungen-durch-upgrades.html"
+    },
+    {
+      "id": "deckung",
+      "title": "Deckung",
+      "category": "rules",
+      "url": "notes/deckung.html"
+    },
+    {
       "id": "erfolgswurf",
       "title": "Erfolgswurf",
       "category": "rules",
       "url": "notes/erfolgswurf.html"
+    },
+    {
+      "id": "feuer-gift-und-sturz",
+      "title": "Feuer Gift und Sturz",
+      "category": "rules",
+      "url": "notes/feuer-gift-und-sturz.html"
+    },
+    {
+      "id": "flucht-verfolgung-und-hinterhalt",
+      "title": "Flucht Verfolgung und Hinterhalt",
+      "category": "rules",
+      "url": "notes/flucht-verfolgung-und-hinterhalt.html"
     },
     {
       "id": "furchtwurf",
@@ -613,16 +643,94 @@
       "url": "notes/furchtwurf.html"
     },
     {
+      "id": "gebrochen",
+      "title": "Gebrochen",
+      "category": "rules",
+      "url": "notes/gebrochen.html"
+    },
+    {
+      "id": "hauptquartier-upgrades",
+      "title": "Hauptquartier-Upgrades",
+      "category": "rules",
+      "url": "notes/hauptquartier-upgrades.html"
+    },
+    {
+      "id": "heilung-vertieft",
+      "title": "Heilung vertieft",
+      "category": "rules",
+      "url": "notes/heilung-vertieft.html"
+    },
+    {
+      "id": "hunger-durst-und-mudigkeit",
+      "title": "Hunger Durst und Müdigkeit",
+      "category": "rules",
+      "url": "notes/hunger-durst-und-mudigkeit.html"
+    },
+    {
+      "id": "initiative-und-zonen",
+      "title": "Initiative und Zonen",
+      "category": "rules",
+      "url": "notes/initiative-und-zonen.html"
+    },
+    {
+      "id": "kontakte-und-einrichtungen",
+      "title": "Kontakte und Einrichtungen",
+      "category": "rules",
+      "url": "notes/kontakte-und-einrichtungen.html"
+    },
+    {
+      "id": "kritische-verletzungen",
+      "title": "Kritische Verletzungen",
+      "category": "rules",
+      "url": "notes/kritische-verletzungen.html"
+    },
+    {
+      "id": "manipulation",
+      "title": "Manipulation",
+      "category": "rules",
+      "url": "notes/manipulation.html"
+    },
+    {
+      "id": "nscs-und-zahigkeit",
+      "title": "NSCs und Zähigkeit",
+      "category": "rules",
+      "url": "notes/nscs-und-zahigkeit.html"
+    },
+    {
+      "id": "ressourcen-und-ausrustung",
+      "title": "Ressourcen und Ausrüstung",
+      "category": "rules",
+      "url": "notes/ressourcen-und-ausrustung.html"
+    },
+    {
+      "id": "rituale-schwachen-und-vertreibung",
+      "title": "Rituale Schwächen und Vertreibung",
+      "category": "rules",
+      "url": "notes/rituale-schwachen-und-vertreibung.html"
+    },
+    {
       "id": "steigern",
       "title": "Steigern",
       "category": "rules",
       "url": "notes/steigern.html"
     },
     {
+      "id": "vaesen-magie",
+      "title": "Vaesen-Magie",
+      "category": "rules",
+      "url": "notes/vaesen-magie.html"
+    },
+    {
       "id": "vorbereitung",
       "title": "Vorbereitung",
       "category": "rules",
       "url": "notes/vorbereitung.html"
+    },
+    {
+      "id": "vorteile",
+      "title": "Vorteile",
+      "category": "rules",
+      "url": "notes/vorteile.html"
     },
     {
       "id": "wurf-strapazieren",

@@ -1,0 +1,19 @@
+{
+  "title": "Manipulation",
+  "slug": "manipulation",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Manipulation.md",
+  "url": "notes/manipulation.html",
+  "apiUrl": "api/notes/manipulation.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Manipulation Für Überreden, Drohen, Lügen, Feilschen, Einschüchtern. Gegen wichtige Personen oft vergleichender Wurf. Zusätzliche Erfolge können Druck, Zugeständnisse oder mentale ",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Manipulation**\n- Für Überreden, Drohen, Lügen, Feilschen, Einschüchtern.\n- Gegen wichtige Personen oft vergleichender Wurf.\n- Zusätzliche Erfolge können Druck, Zugeständnisse oder mentale Zustände erzeugen.\n"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Heilung vertieft",
+  "slug": "heilung-vertieft",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Heilung vertieft.md",
+  "url": "notes/heilung-vertieft.html",
+  "apiUrl": "api/notes/heilung-vertieft.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Körperlich Medizin + Bettruhe + sichere Versorgung. Kann körperliche Zustände und teils Gebrechen behandeln. Mental Inspiration + Ruhe + Gespräch / Nähe. Kann mentale Zustände und ",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Körperlich**\n- Medizin + Bettruhe + sichere Versorgung.\n- Kann körperliche Zustände und teils Gebrechen behandeln.\n\n**Mental**\n- Inspiration + Ruhe + Gespräch / Nähe.\n- Kann mentale Zustände und teils Gebrechen behandeln.\n\n**Memento**\n- 1x pro Mysterium in einer Szene nutzbar.\n- Heilt Zustände, aber kein Gebrechen.\n"
+}

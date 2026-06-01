@@ -1,0 +1,19 @@
+{
+  "title": "Gebrochen",
+  "slug": "gebrochen",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Gebrochen.md",
+  "url": "notes/gebrochen.html",
+  "apiUrl": "api/notes/gebrochen.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Gebrochen Wenn alle körperlichen oder alle mentalen Zustände markiert sind und noch ein passender Zustand dazukommt. Charakter ist handlungsunfähig. Weitere Gefahr kann kritische V",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Gebrochen**\n- Wenn alle körperlichen oder alle mentalen Zustände markiert sind und noch ein passender Zustand dazukommt.\n- Charakter ist handlungsunfähig.\n- Weitere Gefahr kann kritische Verletzungen auslösen.\n"
+}

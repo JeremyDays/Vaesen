@@ -1,0 +1,19 @@
+{
+  "title": "Kritische Verletzungen",
+  "slug": "kritische-verletzungen",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Kritische Verletzungen.md",
+  "url": "notes/kritische-verletzungen.html",
+  "apiUrl": "api/notes/kritische-verletzungen.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Wenn gebrochen Bei weiterer schwerer Gefahr: kritische Verletzung würfeln. Körperlich und mental getrennt betrachten. Folgen Kann zeitkritisch, dauerhaft oder erzählerisch schwerwi",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Wenn gebrochen**\n- Bei weiterer schwerer Gefahr: kritische Verletzung würfeln.\n- Körperlich und mental getrennt betrachten.\n\n**Folgen**\n- Kann zeitkritisch, dauerhaft oder erzählerisch schwerwiegend sein.\n- Manche Folgen werden zu Defekten.\n"
+}

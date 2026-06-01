@@ -1,0 +1,19 @@
+{
+  "title": "Deckung",
+  "slug": "deckung",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Deckung.md",
+  "url": "notes/deckung.html",
+  "apiUrl": "api/notes/deckung.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Deckung Schutz zwischen Ziel und Angreifer erschwert Treffer. Je massiver die Deckung, desto besser der Schutz. Deckung hilft vor allem gegen Fernkampf und Explosionen.",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Deckung**\n- Schutz zwischen Ziel und Angreifer erschwert Treffer.\n- Je massiver die Deckung, desto besser der Schutz.\n- Deckung hilft vor allem gegen Fernkampf und Explosionen.\n"
+}

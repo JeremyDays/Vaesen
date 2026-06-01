@@ -1,0 +1,19 @@
+{
+  "title": "Bedrohungen durch Upgrades",
+  "slug": "bedrohungen-durch-upgrades",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Bedrohungen durch Upgrades.md",
+  "url": "notes/bedrohungen-durch-upgrades.html",
+  "apiUrl": "api/notes/bedrohungen-durch-upgrades.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Beim Ausbau Upgrades können Bedrohungen wecken. Je teurer / je mehr auf einmal, desto riskanter. Bedrohungen Neue Probleme im Schloss, alte Geheimnisse, Gegner, Vaesen Spuren oder ",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Beim Ausbau**\n- Upgrades können Bedrohungen wecken.\n- Je teurer / je mehr auf einmal, desto riskanter.\n\n**Bedrohungen**\n- Neue Probleme im Schloss, alte Geheimnisse, Gegner, Vaesen-Spuren oder soziale Folgen.\n"
+}
