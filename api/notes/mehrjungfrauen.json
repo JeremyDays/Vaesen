@@ -6,11 +6,13 @@
   "url": "notes/mehrjungfrauen.html",
   "apiUrl": "api/notes/mehrjungfrauen.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Mehrjungfrauen leben in Seen, wollen Geschenke. Ertrinken.",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

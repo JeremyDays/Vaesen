@@ -6,11 +6,13 @@
   "url": "notes/lindwurm.html",
   "apiUrl": "api/notes/lindwurm.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "Ein Vaesen. KI Zusammenfassung S01 Ankunft in Uppsala: Lindwurm wird als relevante Kreatur genannt.",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

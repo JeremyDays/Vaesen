@@ -6,11 +6,13 @@
   "url": "notes/seekalb.html",
   "apiUrl": "api/notes/seekalb.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

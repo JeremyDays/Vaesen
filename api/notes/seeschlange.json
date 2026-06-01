@@ -6,11 +6,13 @@
   "url": "notes/seeschlange.html",
   "apiUrl": "api/notes/seeschlange.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Seeschlange. Verletzungen wie von Löwen. Nimmt Kühe und Schweine. Man kann sie bannen, indem man sie dazu bringt, sich selbst in den...",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

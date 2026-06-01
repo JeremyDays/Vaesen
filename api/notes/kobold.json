@@ -6,11 +6,13 @@
   "url": "notes/kobold.html",
   "apiUrl": "api/notes/kobold.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "Ein Vaesen. Einem Kobold soll man eine Milchschale hinstellen. KI Zusammenfassung S01 Ankunft in Uppsala: Der Kobold wird im Zusammenhang mit der Milchschale genannt; als Gabe...",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

@@ -6,11 +6,13 @@
   "url": "notes/nachtmar.html",
   "apiUrl": "api/notes/nachtmar.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "Ein Vaesen Besessene Frauen Nachtmar sind Frauen, die an Hexen beten, um die Geburtsschmerzen zu umgehen. Die Mutter oder die Tochter kann zu einem Nachtmar werden. KI...",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },

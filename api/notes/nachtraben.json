@@ -6,11 +6,13 @@
   "url": "notes/nachtraben.html",
   "apiUrl": "api/notes/nachtraben.json",
   "tags": [
-    "Kreatur"
+    "Kreatur",
+    "Vaesen"
   ],
   "excerpt": "Vaesen",
   "frontmatter": {
     "tags": [
+      "Vaesen",
       "Kreatur"
     ]
   },
