@@ -8,7 +8,7 @@
   "tags": [
     "NSC"
   ],
-  "excerpt": "Altes Pferd von Charlot.",
+  "excerpt": "Charlots alter Gaul ist ein abgearbeitetes, geduldiges Pferd an seiner Seite. Altes Pferd von Charlot.",
   "frontmatter": {
     "tags": "NSC"
   },
@@ -19,5 +19,5 @@
       "slug": "charlot"
     }
   ],
-  "markdown": "\n- Altes Pferd von [[Charlot]].\n- "
+  "markdown": "\n*Charlots alter Gaul ist ein abgearbeitetes, geduldiges Pferd an seiner Seite.*\n\n![[Gaul Bild.png|250]]\n\n- Altes Pferd von [[Charlot]].\n- \n"
 }
