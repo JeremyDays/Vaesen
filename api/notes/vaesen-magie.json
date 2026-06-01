@@ -1,0 +1,19 @@
+{
+  "title": "Vaesen-Magie",
+  "slug": "vaesen-magie",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Vaesen-Magie.md",
+  "url": "notes/vaesen-magie.html",
+  "apiUrl": "api/notes/vaesen-magie.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Vaesen Magie Vaesen können Regeln der normalen Welt brechen. Effekte sind oft orts , personen oder tabugebunden. Stahl, Kirche, Rituale, Namen, Gaben oder Wahrheiten können wichtig",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Vaesen-Magie**\n- Vaesen können Regeln der normalen Welt brechen.\n- Effekte sind oft orts-, personen- oder tabugebunden.\n- Stahl, Kirche, Rituale, Namen, Gaben oder Wahrheiten können wichtig sein.\n"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Ressourcen und Ausrüstung",
+  "slug": "ressourcen-und-ausrustung",
+  "category": "rules",
+  "relativePath": "6 - Regeln/Einzelne Regeln/Ressourcen und Ausrüstung.md",
+  "url": "notes/ressourcen-und-ausrustung.html",
+  "apiUrl": "api/notes/ressourcen-und-ausrustung.json",
+  "tags": [
+    "Regel"
+  ],
+  "excerpt": "Ausrüstung beschaffen Gegenstand hat Verfügbarkeit 1 5. Wurf mit Ressourcen gegen Verfügbarkeit. Vor dem Mysterium oder plausibel vor Ort. Nach dem Mysterium Jede Person behält 1 n",
+  "frontmatter": {
+    "tags": [
+      "Regel"
+    ]
+  },
+  "links": [],
+  "markdown": "\n**Ausrüstung beschaffen**\n- Gegenstand hat Verfügbarkeit 1-5.\n- Wurf mit Ressourcen gegen Verfügbarkeit.\n- Vor dem Mysterium oder plausibel vor Ort.\n\n**Nach dem Mysterium**\n- Jede Person behält 1 neuen Gegenstand.\n- Memento und Alltagsgegenstände bleiben immer.\n"
+}
