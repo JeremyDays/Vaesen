@@ -3193,7 +3193,7 @@
     "tags": [
       "Gegenstand"
     ],
-    "excerpt": "Opfergabe für einen Kobold. Einem Kobold soll man eine Milchschale hinstellen oder einen Brei. KI Zusammenfassung S01 Ankunft in Uppsala: Einer Kobold Kreatur soll man eine...",
+    "excerpt": "Opfergabe für einen Kobold. Einem Kobold soll man eine Milchschale hinstellen. KI Zusammenfassung S01 Ankunft in Uppsala: Einer Kobold Kreatur soll man eine Milchschale hinstellen.",
     "frontmatter": {
       "tags": [
         "Gegenstand"
@@ -3206,7 +3206,7 @@
         "slug": "kobold"
       }
     ],
-    "markdown": "\n- Opfergabe für einen [[Kobold]].\n- Einem Kobold soll man eine Milchschale hinstellen oder einen Brei.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Einer Kobold-Kreatur soll man eine Milchschale oder einen Brei hinstellen.\n"
+    "markdown": "\n- Opfergabe für einen [[Kobold]].\n- Einem Kobold soll man eine Milchschale hinstellen.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Einer Kobold-Kreatur soll man eine Milchschale hinstellen.\n"
   },
   {
     "title": "Drittes geistliches ABC",
@@ -5144,7 +5144,7 @@
     "tags": [
       "Kreatur"
     ],
-    "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut...",
+    "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Einem Hauswichtel kann man Brei oder Haferschleim hinstellen....",
     "frontmatter": {
       "tags": [
         "Kreatur"
@@ -5157,7 +5157,7 @@
         "slug": "vaesen"
       }
     ],
-    "markdown": "- Ein [[Vaesen]]\n- Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus\n- Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt, und dieser dann die Frau/den Mann loswerden will.\n- "
+    "markdown": "- Ein [[Vaesen]]\n- Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus\n- Einem Hauswichtel kann man Brei oder Haferschleim hinstellen.\n- Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt, und dieser dann die Frau/den Mann loswerden will.\n- \n"
   },
   {
     "title": "Irrlichter",
@@ -5188,7 +5188,7 @@
     "tags": [
       "Kreatur"
     ],
-    "excerpt": "Ein Vaesen. Einem Kobold soll man eine Milchschale hinstellen oder einen Brei. KI Zusammenfassung S01 Ankunft in Uppsala: Der Kobold wird im Zusammenhang mit der Milchschale...",
+    "excerpt": "Ein Vaesen. Einem Kobold soll man eine Milchschale hinstellen. KI Zusammenfassung S01 Ankunft in Uppsala: Der Kobold wird im Zusammenhang mit der Milchschale genannt; als Gabe...",
     "frontmatter": {
       "tags": [
         "Kreatur"
@@ -5206,7 +5206,7 @@
         "slug": "milchschale"
       }
     ],
-    "markdown": "\n- Ein [[Vaesen]].\n- Einem Kobold soll man eine [[Milchschale]] hinstellen oder einen Brei.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Der Kobold wird im Zusammenhang mit der Milchschale genannt; als Gabe soll man ihm Milch oder Brei hinstellen.\n"
+    "markdown": "\n- Ein [[Vaesen]].\n- Einem Kobold soll man eine [[Milchschale]] hinstellen.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Der Kobold wird im Zusammenhang mit der Milchschale genannt; als Gabe soll man ihm Milch hinstellen.\n"
   },
   {
     "title": "Lindwurm",
