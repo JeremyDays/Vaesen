@@ -1,0 +1,19 @@
+{
+  "title": "Baldriantrank",
+  "slug": "baldriantrank",
+  "category": "item",
+  "relativePath": "4 - Gegenstände/Im Besitz der Gruppe/Hilde/Baldriantrank.md",
+  "url": "notes/baldriantrank.html",
+  "apiUrl": "api/notes/baldriantrank.json",
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "Einmal geistigen Zustand heilen. KI Zusammenfassung S03 Abschied von Mariefred: Baldriantrank: Einmal geistiger Zustand heilen.",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ]
+  },
+  "links": [],
+  "markdown": "- Einmal geistigen Zustand heilen.\n\n## KI-Zusammenfassung\nS03 - Abschied von Mariefred: Baldriantrank: Einmal geistiger Zustand heilen.\n"
+}

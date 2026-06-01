@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Hat Hilde aus dem Gasthaus Hexenkatze mitgenommen.",
+  "excerpt": "Hat Hilde aus dem Gasthaus Hexenkatze mitgenommen. KI Zusammenfassung S02 Die Hexenkatze: Viele Koffer, Harken, ... (Hilde nimmt eine Harke); Hilde nimmt sich eine Harke.",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -26,5 +26,5 @@
       "slug": "gasthaus-hexenkatze"
     }
   ],
-  "markdown": "- Hat [[Hilde]] aus dem [[Gasthaus Hexenkatze]] mitgenommen."
+  "markdown": "- Hat [[Hilde]] aus dem [[Gasthaus Hexenkatze]] mitgenommen.\n\n## KI-Zusammenfassung\nS02 - Die Hexenkatze: Viele Koffer, Harken, ... (Hilde nimmt eine Harke); Hilde nimmt sich eine Harke.\n"
 }

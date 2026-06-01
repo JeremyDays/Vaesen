@@ -5,9 +5,18 @@
   "relativePath": "4 - Gegenstände/Darlahest.md",
   "url": "notes/darlahest.html",
   "apiUrl": "api/notes/darlahest.json",
-  "tags": [],
-  "excerpt": "",
-  "frontmatter": {},
+  "tags": [
+    "Gegenstand"
+  ],
+  "excerpt": "KI Zusammenfassung S04 Reise nach Fudal: Jona fragt nach den traditionellen Holzpferden, ein Dalahäst. Frederic schnitzt sie. Jona eins als Geschenk gekauft. (ihre Vorbereitung).",
+  "frontmatter": {
+    "tags": [
+      "Gegenstand"
+    ],
+    "aliases": [
+      "Dalahäst"
+    ]
+  },
   "links": [],
-  "markdown": ""
+  "markdown": "\n## KI-Zusammenfassung\nS04 - Reise nach Fudal: Jona fragt nach den traditionellen Holzpferden, ein Dalahäst. Frederic schnitzt sie. Jona eins als Geschenk gekauft. (ihre Vorbereitung).\n"
 }

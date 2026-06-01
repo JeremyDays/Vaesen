@@ -511,6 +511,12 @@
       "url": "notes/tagebuch-von-nora.html"
     },
     {
+      "id": "baldriantrank",
+      "title": "Baldriantrank",
+      "category": "item",
+      "url": "notes/baldriantrank.html"
+    },
+    {
       "id": "harke",
       "title": "Harke",
       "category": "item",
@@ -2795,6 +2801,11 @@
       "source": "s03-abschied-von-mariefred",
       "target": "nathan-olof-von-bangen",
       "label": "Nathan Olof von Bängen"
+    },
+    {
+      "source": "s03-abschied-von-mariefred",
+      "target": "baldriantrank",
+      "label": "Baldriantrank"
     },
     {
       "source": "s03-abschied-von-mariefred",
