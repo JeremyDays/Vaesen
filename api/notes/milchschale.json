@@ -8,7 +8,7 @@
   "tags": [
     "Gegenstand"
   ],
-  "excerpt": "Opfergabe für einen Kobold. Einem Kobold soll man eine Milchschale hinstellen oder einen Brei. KI Zusammenfassung S01 Ankunft in Uppsala: Einer Kobold Kreatur soll man eine...",
+  "excerpt": "Opfergabe für einen Kobold. Einem Kobold soll man eine Milchschale hinstellen. KI Zusammenfassung S01 Ankunft in Uppsala: Einer Kobold Kreatur soll man eine Milchschale hinstellen.",
   "frontmatter": {
     "tags": [
       "Gegenstand"
@@ -21,5 +21,5 @@
       "slug": "kobold"
     }
   ],
-  "markdown": "\n- Opfergabe für einen [[Kobold]].\n- Einem Kobold soll man eine Milchschale hinstellen oder einen Brei.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Einer Kobold-Kreatur soll man eine Milchschale oder einen Brei hinstellen.\n"
+  "markdown": "\n- Opfergabe für einen [[Kobold]].\n- Einem Kobold soll man eine Milchschale hinstellen.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Einer Kobold-Kreatur soll man eine Milchschale hinstellen.\n"
 }
