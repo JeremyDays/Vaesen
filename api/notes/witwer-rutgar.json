@@ -16,10 +16,15 @@
   },
   "links": [
     {
+      "target": "Tagebuch von Nora",
+      "label": "Tagebuch von Nora",
+      "slug": "tagebuch-von-nora"
+    },
+    {
       "target": "Nora",
       "label": "Nora",
       "slug": "nora"
     }
   ],
-  "markdown": "\n*Wurde im Tagebuch von Nora erwähnt.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Wurde im Tagebuch von [[Nora]] erwähnt.\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
+  "markdown": "\n*Wurde im [[Tagebuch von Nora]] erwähnt.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Wurde im Tagebuch von [[Nora]] erwähnt.\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
 }

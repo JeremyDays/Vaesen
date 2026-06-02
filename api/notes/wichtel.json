@@ -9,7 +9,7 @@
     "Kreatur",
     "Vaesen"
   ],
-  "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut...",
+  "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des HauswichtelsHauswichtel beschmutzt habt, dann entstehen Fallen im Haus Romantische Avancen, wenn der Mann/Frau Wichtel besonders...",
   "frontmatter": {
     "tags": [
       "Vaesen",
@@ -24,7 +24,52 @@
       "target": "Vaesen",
       "label": "Vaesen",
       "slug": "vaesen"
+    },
+    {
+      "target": "Hauswichtel",
+      "label": "Hauswichtels",
+      "slug": "hauswichtel"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Tine Rasmussen",
+      "label": "Tine Rasmussen",
+      "slug": "tine-rasmussen"
+    },
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskinder",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Matz von Rosenberg",
+      "label": "Matz von Rosenberg",
+      "slug": "matz-von-rosenberg"
+    },
+    {
+      "target": "Artemis",
+      "label": "Artemis",
+      "slug": "artemis"
+    },
+    {
+      "target": "Olaus Klint",
+      "label": "Olaus Klint",
+      "slug": "olaus-klint"
+    },
+    {
+      "target": "Hauswichtel",
+      "label": "Hauswichteln",
+      "slug": "hauswichtel"
+    },
+    {
+      "target": "Nachtmar",
+      "label": "Nachtmar",
+      "slug": "nachtmar"
     }
   ],
-  "markdown": "- Ein [[Vaesen]]\n- Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus\n- Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt, und dieser dann die Frau/den Mann loswerden will.\n-\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Gründerin. Anfang 15. Jhd. Tine Rasmussen hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach wurde sie angeklagt, dass sie Vaesen sehen könnte. Sie ist mit dem Blick gesegnet worden, eins der Donnerstagskinder. Vier Wichtel hätten sie befreit. Danach wäre sie untergetaucht. Matz von Rosenberg getroffen. Orden der Artemis gegründet. S02 - Die Hexenkatze: Olaus Klint Entweder Hauswichteln oder Nachtmar (Besessene Frauen).\n"
+  "markdown": "- Ein [[Vaesen]]\n- Wenn ihr einmal den Haferschleim des [[Hauswichtel|Hauswichtels]] beschmutzt habt, dann entstehen Fallen im Haus\n- Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt, und dieser dann die Frau/den Mann loswerden will.\n-\n\n## KI-Zusammenfassung\nS01 - Ankunft in [[Uppsala]]: Gründerin. Anfang 15. Jhd. [[Tine Rasmussen]] hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach wurde sie angeklagt, dass sie [[Vaesen]] sehen könnte. Sie ist mit dem Blick gesegnet worden, eins der [[Donnerstagskinder]]. Vier Wichtel hätten sie befreit. Danach wäre sie untergetaucht. [[Matz von Rosenberg]] getroffen. Orden der [[Artemis]] gegründet. S02 - Die Hexenkatze: [[Olaus Klint]] Entweder [[Hauswichtel|Hauswichteln]] oder [[Nachtmar]] (Besessene Frauen).\n"
 }

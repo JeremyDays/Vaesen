@@ -16,6 +16,72 @@
       "Kreatur"
     ]
   },
-  "links": [],
-  "markdown": "\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Gründerin. Anfang 15. Jhd. Tine Rasmussen hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach wurde sie angeklagt, dass sie Vaesen sehen könnte. Sie ist mit dem Blick gesegnet worden, eins der Donnerstagskinder. Vier Wichtel hätten sie befreit. Danach wäre sie untergetaucht. Matz von Rosenberg getroffen. Orden der Artemis gegründet; Dunkle Vaesen sehen und sie töten; Aufgabe: Menschen schützen und Vaesen erforschen; Sie können kein Rosenberger werden. Die die Vaesen abschlachten. S02 - Die Hexenkatze: Eine Gestalt. Ein Vaesen. Sie gleitet durch uns durch; Jona darauf ansprechen, warum sie so viel Hass auf Vaesen hat und warum sie dann dennoch nicht Olaus Klint versucht hat zu töten. S03 - Abschied von Mariefred: Jona darauf ansprechen, warum sie so viel Hass auf Vaesen hat und warum sie dann dennoch nicht Olaus Klint versucht hat zu töten; Die Gruppe diskutiert darüber, was wollen wir nun tun. Wenn dies nicht unsere Aufgabe wäre, würden wir die Vaesen nicht sehen können. Sie sind gefährlich; Charlot sucht nach Wein. In der Bibliothek. Bücher über Schaden an Menschen durch Vaesen. Mit solchen Schaden hatte er noch nicht zu tun gehabt. Was könnte er tun? Er ist unsicher, hat Zweifel es behandeln zu können. Er wird betrunken und wird Zustand wütend. Immer wieder taucht doch Mariefred auf. Er träumt davon; Wissen Sie, weshalb ich hier krank lag? Haben Sie schon etwas gehört von Vaesen?.\n"
+  "links": [
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Tine Rasmussen",
+      "label": "Tine Rasmussen",
+      "slug": "tine-rasmussen"
+    },
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskinder",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Wichtel",
+      "label": "Wichtel",
+      "slug": "wichtel"
+    },
+    {
+      "target": "Matz von Rosenberg",
+      "label": "Matz von Rosenberg",
+      "slug": "matz-von-rosenberg"
+    },
+    {
+      "target": "Artemis",
+      "label": "Artemis",
+      "slug": "artemis"
+    },
+    {
+      "target": "Rosenberger",
+      "label": "Rosenberger",
+      "slug": "rosenberger"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Olaus Klint",
+      "label": "Olaus Klint",
+      "slug": "olaus-klint"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Die Gruppe",
+      "label": "Die Gruppe",
+      "slug": "die-gruppe"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Zustand",
+      "label": "Zustand",
+      "slug": "zustand"
+    }
+  ],
+  "markdown": "\n## KI-Zusammenfassung\nS01 - Ankunft in [[Uppsala]]: Gründerin. Anfang 15. Jhd. [[Tine Rasmussen]] hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach wurde sie angeklagt, dass sie Vaesen sehen könnte. Sie ist mit dem Blick gesegnet worden, eins der [[Donnerstagskinder]]. Vier [[Wichtel]] hätten sie befreit. Danach wäre sie untergetaucht. [[Matz von Rosenberg]] getroffen. Orden der [[Artemis]] gegründet; Dunkle Vaesen sehen und sie töten; Aufgabe: Menschen schützen und Vaesen erforschen; Sie können kein [[Rosenberger]] werden. Die die Vaesen abschlachten. S02 - Die Hexenkatze: Eine Gestalt. Ein Vaesen. Sie gleitet durch uns durch; [[Jona]] darauf ansprechen, warum sie so viel Hass auf Vaesen hat und warum sie dann dennoch nicht [[Olaus Klint]] versucht hat zu töten. S03 - Abschied von [[Mariefred]]: [[Jona]] darauf ansprechen, warum sie so viel Hass auf Vaesen hat und warum sie dann dennoch nicht [[Olaus Klint]] versucht hat zu töten; [[Die Gruppe]] diskutiert darüber, was wollen wir nun tun. Wenn dies nicht unsere Aufgabe wäre, würden wir die Vaesen nicht sehen können. Sie sind gefährlich; [[Charlot]] sucht nach Wein. In der Bibliothek. Bücher über Schaden an Menschen durch Vaesen. Mit solchen Schaden hatte er noch nicht zu tun gehabt. Was könnte er tun? Er ist unsicher, hat Zweifel es behandeln zu können. Er wird betrunken und wird [[Zustand]] wütend. Immer wieder taucht doch [[Mariefred]] auf. Er träumt davon; Wissen Sie, weshalb ich hier krank lag? Haben Sie schon etwas gehört von Vaesen?.\n"
 }
