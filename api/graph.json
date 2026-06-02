@@ -3586,11 +3586,6 @@
     },
     {
       "source": "s01-ankunft-in-uppsala",
-      "target": "albert-frisk",
-      "label": "Albert Frisk"
-    },
-    {
-      "source": "s01-ankunft-in-uppsala",
       "target": "algot-frisk",
       "label": "Algot Frisk"
     },
