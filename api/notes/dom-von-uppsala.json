@@ -19,7 +19,12 @@
       "target": "Becker und König",
       "label": "Becker und König",
       "slug": "becker-und-konig"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
     }
   ],
-  "markdown": "- Bei der Königsstraße\n- Beim [[Becker und König]]\n-\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Königsstraße, beim Dom, Becker und König.\n"
+  "markdown": "- Bei der Königsstraße\n- Beim [[Becker und König]]\n-\n\n## KI-Zusammenfassung\nS01 - Ankunft in [[Uppsala]]: Königsstraße, beim Dom, [[Becker und König]].\n"
 }

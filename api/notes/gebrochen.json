@@ -14,6 +14,12 @@
       "Regel"
     ]
   },
-  "links": [],
-  "markdown": "\n**Gebrochen**\n- Wenn alle körperlichen oder alle mentalen Zustände markiert sind und noch ein passender Zustand dazukommt.\n- Charakter ist handlungsunfähig.\n- Weitere Gefahr kann kritische Verletzungen auslösen.\n"
+  "links": [
+    {
+      "target": "Zustand",
+      "label": "Zustand",
+      "slug": "zustand"
+    }
+  ],
+  "markdown": "\n**Gebrochen**\n- Wenn alle körperlichen oder alle mentalen Zustände markiert sind und noch ein passender [[Zustand]] dazukommt.\n- Charakter ist handlungsunfähig.\n- Weitere Gefahr kann kritische Verletzungen auslösen.\n"
 }

@@ -24,15 +24,15 @@
       "slug": "hilde"
     },
     {
-      "target": "Carl Rosén von Bängen",
-      "label": "Carl",
-      "slug": "carl-rosen-von-bangen"
-    },
-    {
       "target": "Sven",
       "label": "Sven",
       "slug": "sven"
+    },
+    {
+      "target": "Carl Rosén von Bängen",
+      "label": "Carl",
+      "slug": "carl-rosen-von-bangen"
     }
   ],
-  "markdown": "\n*Sie ist eng mit dem Schicksal von Hilde, Carl und Sven verbunden.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Sie ist eng mit dem Schicksal von [[Hilde]], [[Carl Rosén von Bängen|Carl]] und [[Sven]] verbunden.\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
+  "markdown": "\n*Sie ist eng mit dem Schicksal von [[Hilde]], Carl und [[Sven]] verbunden.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Sie ist eng mit dem Schicksal von [[Hilde]], [[Carl Rosén von Bängen|Carl]] und [[Sven]] verbunden.\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
 }

@@ -31,7 +31,17 @@
       "target": "Gasthaus Hexenkatze",
       "label": "Gasthaus Hexenkatze",
       "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
     }
   ],
-  "markdown": "- Ein [[Vaesen]]\n- Ein Untoter, der Rache will.\n- [[Oscar Hjort]]\n- Erzeugt Albträume wie im [[Gasthaus Hexenkatze]]: \n\t- Alle träumen dasselbe. Auf der Bühne stehen und mit Dolch erdolcht werden. Er hat es auch schon geträumt. Die Freunde sind der Teufel. Das Blut läuft runter, und das Publikum klatscht.\n\n## KI-Zusammenfassung\nS02 - Die Hexenkatze: Charlot erinnert sich aus dem Buch: Ein Drauger. Ein Untoter, der Rache will; Drauger hat behauptet, dass die Gesellschaft ihn betrogen hat.\n"
+  "markdown": "- Ein [[Vaesen]]\n- Ein Untoter, der Rache will.\n- [[Oscar Hjort]]\n- Erzeugt Albträume wie im [[Gasthaus Hexenkatze]]: \n\t- Alle träumen dasselbe. Auf der Bühne stehen und mit Dolch erdolcht werden. Er hat es auch schon geträumt. Die Freunde sind der Teufel. Das Blut läuft runter, und das Publikum klatscht.\n\n## KI-Zusammenfassung\nS02 - Die Hexenkatze: [[Charlot]] erinnert sich aus dem Buch: Ein Drauger. Ein Untoter, der Rache will; Drauger hat behauptet, dass die [[Gesellschaft]] ihn betrogen hat.\n"
 }

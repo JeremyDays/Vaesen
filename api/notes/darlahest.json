@@ -17,6 +17,22 @@
       "Dalahäst"
     ]
   },
-  "links": [],
-  "markdown": "\n## KI-Zusammenfassung\nS04 - Reise nach Fudal: Jona fragt nach den traditionellen Holzpferden, ein Dalahäst. Frederic schnitzt sie. Jona eins als Geschenk gekauft. (ihre Vorbereitung).\n"
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Frederic",
+      "label": "Frederic",
+      "slug": "frederic"
+    },
+    {
+      "target": "Vorbereitung",
+      "label": "Vorbereitung",
+      "slug": "vorbereitung"
+    }
+  ],
+  "markdown": "\n## KI-Zusammenfassung\nS04 - Reise nach Fudal: [[Jona]] fragt nach den traditionellen Holzpferden, ein Dalahäst. [[Frederic]] schnitzt sie. [[Jona]] eins als Geschenk gekauft. (ihre [[Vorbereitung]]).\n"
 }

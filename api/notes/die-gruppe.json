@@ -6,8 +6,39 @@
   "url": "notes/die-gruppe.html",
   "apiUrl": "api/notes/die-gruppe.json",
   "tags": [],
-  "excerpt": "",
+  "excerpt": "Die Website zur Runde liegt unter [Vaesen](https://jeremydays.github.io/Vaesen/). Die Gruppe besteht aus Sven, Charlot, Hilde und Jona. Die Gruppe ist Teil der Gesellschaft und...",
   "frontmatter": {},
-  "links": [],
-  "markdown": "![[Die SCs.png]]\n\n"
+  "links": [
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    },
+    {
+      "target": "Schloss Gyllenkreuz",
+      "label": "Schloss Gyllenkreuz",
+      "slug": "schloss-gyllenkreuz"
+    }
+  ],
+  "markdown": "![[Die SCs.png]]\n\nDie Website zur Runde liegt unter [Vaesen](https://jeremydays.github.io/Vaesen/).\n\nDie Gruppe besteht aus [[Sven]], [[Charlot]], [[Hilde]] und [[Jona]].\n\nDie Gruppe ist Teil der [[Gesellschaft]] und arbeitet von [[Schloss Gyllenkreuz]] aus an ihren Mysterien.\n"
 }

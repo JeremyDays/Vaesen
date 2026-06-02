@@ -14,6 +14,17 @@
       "NSC"
     ]
   },
-  "links": [],
-  "markdown": "\n*Frederic ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Jona fragt nach den traditionellen Holzpferden, ein Dalahäst. Frederic schnitzt sie. Jona eins als Geschenk gekauft. (ihre Vorbereitung).\n"
+  "links": [
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Vorbereitung",
+      "label": "Vorbereitung",
+      "slug": "vorbereitung"
+    }
+  ],
+  "markdown": "\n*Frederic ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: [[Jona]] fragt nach den traditionellen Holzpferden, ein Dalahäst. Frederic schnitzt sie. [[Jona]] eins als Geschenk gekauft. (ihre [[Vorbereitung]]).\n"
 }

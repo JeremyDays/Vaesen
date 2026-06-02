@@ -14,6 +14,17 @@
       "Regel"
     ]
   },
-  "links": [],
-  "markdown": "\n**Upgrades**\n- Werden mit Hauptquartier-EP gekauft.\n- Können Räume, Einrichtungen, Kontakte oder Vorteile freischalten.\n- Manche haben Voraussetzungen.\n\n**Nutzen**\n- Vorbereitung, Heilung, Wissen, Ausrüstung und Kontakte werden leichter.\n"
+  "links": [
+    {
+      "target": "Vorteile",
+      "label": "Vorteile",
+      "slug": "vorteile"
+    },
+    {
+      "target": "Vorbereitung",
+      "label": "Vorbereitung",
+      "slug": "vorbereitung"
+    }
+  ],
+  "markdown": "\n**Upgrades**\n- Werden mit Hauptquartier-EP gekauft.\n- Können Räume, Einrichtungen, Kontakte oder [[Vorteile]] freischalten.\n- Manche haben Voraussetzungen.\n\n**Nutzen**\n- [[Vorbereitung]], Heilung, Wissen, Ausrüstung und Kontakte werden leichter.\n"
 }

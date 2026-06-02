@@ -19,7 +19,32 @@
       "target": "Schloss Gyllenkreuz",
       "label": "Schloss Gyllenkreuz",
       "slug": "schloss-gyllenkreuz"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
     }
   ],
-  "markdown": "- In [[Schloss Gyllenkreuz]]\n-\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Hilde: \"Die Annalen Der Gesellschaft\" = Während Studium Inquisition erforscht, hier liest sie etwas über Die Gesellschaft. S03 - Abschied von Mariefred: Die Annalen Der Gesellschaft; Sven zweifelt an seiner Vergangenheit. Er schaut Die Annalen Der Gesellschaft durch. Etwas kommt irgendwie bekannt vor. Aber woher? Waldgeist?; Wir alle wollen uns um die Zusammenfassungen in Die Annalen Der Gesellschaft kümmern, den Haupttext wird Hilde schreiben.\n"
+  "markdown": "- In [[Schloss Gyllenkreuz]]\n-\n\n## KI-Zusammenfassung\nS01 - Ankunft in [[Uppsala]]: [[Hilde]]: \"Die Annalen Der [[Gesellschaft]]\" = Während Studium Inquisition erforscht, hier liest sie etwas über Die [[Gesellschaft]]. S03 - Abschied von [[Mariefred]]: Die Annalen Der [[Gesellschaft]]; [[Sven]] zweifelt an seiner Vergangenheit. Er schaut Die Annalen Der [[Gesellschaft]] durch. Etwas kommt irgendwie bekannt vor. Aber woher? Waldgeist?; Wir alle wollen uns um die Zusammenfassungen in Die Annalen Der [[Gesellschaft]] kümmern, den Haupttext wird [[Hilde]] schreiben.\n"
 }

@@ -14,6 +14,17 @@
       "Gegenstand"
     ]
   },
-  "links": [],
-  "markdown": "- Einmal geistigen Zustand heilen.\n\n## KI-Zusammenfassung\nS03 - Abschied von Mariefred: Baldriantrank: Einmal geistiger Zustand heilen.\n"
+  "links": [
+    {
+      "target": "Zustand",
+      "label": "Zustand",
+      "slug": "zustand"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    }
+  ],
+  "markdown": "- Einmal geistigen [[Zustand]] heilen.\n\n## KI-Zusammenfassung\nS03 - Abschied von [[Mariefred]]: Baldriantrank: Einmal geistiger [[Zustand]] heilen.\n"
 }

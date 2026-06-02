@@ -9,7 +9,7 @@
     "Kreatur",
     "Vaesen"
   ],
-  "excerpt": "Ein Vaesen. Spiriti ist ein Alias oder eine Bezeichnung für Geist. KI Zusammenfassung S01 Ankunft in Uppsala: In Charlots Notizen werden Gifte durch SpiritiGeist erwähnt.",
+  "excerpt": "Ein Vaesen. Spiriti ist ein Alias oder eine Bezeichnung für Geist. KI Zusammenfassung S01 Ankunft in Uppsala: In CharlotsCharlot Notizen werden Gifte durch SpiritiGeist erwähnt.",
   "frontmatter": {
     "tags": [
       "Vaesen",
@@ -27,9 +27,24 @@
     },
     {
       "target": "Geist",
+      "label": "Geist",
+      "slug": "geist"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlots",
+      "slug": "charlot"
+    },
+    {
+      "target": "Geist",
       "label": "Spiriti",
       "slug": "geist"
     }
   ],
-  "markdown": "\n- Ein [[Vaesen]].\n- Spiriti ist ein Alias oder eine Bezeichnung für Geist.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: In Charlots Notizen werden Gifte durch [[Geist|Spiriti]] erwähnt.\n"
+  "markdown": "\n- Ein [[Vaesen]].\n- Spiriti ist ein Alias oder eine Bezeichnung für [[Geist]].\n\n## KI-Zusammenfassung\nS01 - Ankunft in [[Uppsala]]: In [[Charlot|Charlots]] Notizen werden Gifte durch [[Geist|Spiriti]] erwähnt.\n"
 }

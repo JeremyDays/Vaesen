@@ -14,6 +14,12 @@
       "Regel"
     ]
   },
-  "links": [],
-  "markdown": "**Wurf auf LOGIK oder EMPATHIE**\n[+] Anzahl von Freunden\n[-] Geistiger Zustand\n\n**Bei Fehlschlag:**\n[+] Mentaler Zustand\nUnd:\n- Erstarren, \n- In Ohnmacht fallen, \n- Fliehen, oder \n- Angreifen\n\n**Dauer:** d6 x 10s bzw. Runden\n\n"
+  "links": [
+    {
+      "target": "Zustand",
+      "label": "Zustand",
+      "slug": "zustand"
+    }
+  ],
+  "markdown": "**Wurf auf LOGIK oder EMPATHIE**\n[+] Anzahl von Freunden\n[-] Geistiger [[Zustand]]\n\n**Bei Fehlschlag:**\n[+] Mentaler [[Zustand]]\nUnd:\n- Erstarren, \n- In Ohnmacht fallen, \n- Fliehen, oder \n- Angreifen\n\n**Dauer:** d6 x 10s bzw. Runden\n\n"
 }

@@ -21,7 +21,12 @@
       "target": "Vaesen",
       "label": "Vaesen",
       "slug": "vaesen"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
     }
   ],
-  "markdown": "\n- Ein [[Vaesen]].\n- Geisterraben gibt es im Krieg.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Geisterraben gibt es im Krieg.\n"
+  "markdown": "\n- Ein [[Vaesen]].\n- Geisterraben gibt es im Krieg.\n\n## KI-Zusammenfassung\nS01 - Ankunft in [[Uppsala]]: Geisterraben gibt es im Krieg.\n"
 }

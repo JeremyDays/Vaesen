@@ -9,7 +9,7 @@
     "Kreatur",
     "Vaesen"
   ],
-  "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus Einem Hauswichtel kann man Brei oder Haferschleim hinstellen....",
+  "excerpt": "Ein Vaesen Wenn ihr einmal den Haferschleim des HauswichtelsHauswichtel beschmutzt habt, dann entstehen Fallen im Haus Einem Hauswichtel kann man Brei oder Haferschleim...",
   "frontmatter": {
     "tags": [
       "Vaesen",
@@ -21,7 +21,22 @@
       "target": "Vaesen",
       "label": "Vaesen",
       "slug": "vaesen"
+    },
+    {
+      "target": "Hauswichtel",
+      "label": "Hauswichtels",
+      "slug": "hauswichtel"
+    },
+    {
+      "target": "Hauswichtel",
+      "label": "Hauswichtel",
+      "slug": "hauswichtel"
+    },
+    {
+      "target": "Wichtel",
+      "label": "Wichtel",
+      "slug": "wichtel"
     }
   ],
-  "markdown": "- Ein [[Vaesen]]\n- Wenn ihr einmal den Haferschleim des Hauswichtels beschmutzt habt, dann entstehen Fallen im Haus\n- Einem Hauswichtel kann man Brei oder Haferschleim hinstellen.\n- Romantische Avancen, wenn der Mann/Frau Wichtel besonders gut behandelt, und dieser dann die Frau/den Mann loswerden will.\n- \n"
+  "markdown": "- Ein [[Vaesen]]\n- Wenn ihr einmal den Haferschleim des [[Hauswichtel|Hauswichtels]] beschmutzt habt, dann entstehen Fallen im Haus\n- Einem [[Hauswichtel]] kann man Brei oder Haferschleim hinstellen.\n- Romantische Avancen, wenn der Mann/Frau [[Wichtel]] besonders gut behandelt, und dieser dann die Frau/den Mann loswerden will.\n- \n"
 }

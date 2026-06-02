@@ -24,7 +24,17 @@
       "target": "Sami",
       "label": "Sami",
       "slug": "sami"
+    },
+    {
+      "target": "Olaus Klint",
+      "label": "Olaus Klint",
+      "slug": "olaus-klint"
+    },
+    {
+      "target": "Piry",
+      "label": "Piry",
+      "slug": "piry"
     }
   ],
-  "markdown": "\n![[Karte Uppsala Hexenkatze Bild.png]]\n- Ein Gasthaus 2 Tagesreisen entfernt von [[Uppsala]].\n- Eigentum von [[Sami]] und seiner Familie\n- Heruntergebrannt\n\n![[Hexenkatze Flurplan Bild.png]]\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Wir haben einen Brief erhalten von Olaus Klint... Einladung zum Gasthaus Hexenkatze; Gasthaus Hexenkatze war kurz nach dem Massaker ein wichtiger Treffpunkt. Piry war der Ladenbesitzer; Gasthaus Hexenkatze kleines Gasthaus. S02 - Die Hexenkatze: Auch Gasthaus Hexenkatze und 2 weitere Orte aufgeführt. Nicht belästigen.\n"
+  "markdown": "\n![[Karte Uppsala Hexenkatze Bild.png]]\n- Ein Gasthaus 2 Tagesreisen entfernt von [[Uppsala]].\n- Eigentum von [[Sami]] und seiner Familie\n- Heruntergebrannt\n\n![[Hexenkatze Flurplan Bild.png]]\n\n## KI-Zusammenfassung\nS01 - Ankunft in [[Uppsala]]: Wir haben einen Brief erhalten von [[Olaus Klint]]... Einladung zum Gasthaus Hexenkatze; Gasthaus Hexenkatze war kurz nach dem Massaker ein wichtiger Treffpunkt. [[Piry]] war der Ladenbesitzer; Gasthaus Hexenkatze kleines Gasthaus. S02 - Die Hexenkatze: Auch Gasthaus Hexenkatze und 2 weitere Orte aufgeführt. Nicht belästigen.\n"
 }

@@ -19,7 +19,47 @@
       "target": "Schloss Gyllenkreuz",
       "label": "Schloss Gyllenkreuz",
       "slug": "schloss-gyllenkreuz"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Rosenberger",
+      "label": "Rosenberger",
+      "slug": "rosenberger"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Oscar Hjort",
+      "label": "Oscar Hjort",
+      "slug": "oscar-hjort"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
     }
   ],
-  "markdown": "\n*Bediensteter von [[Schloss Gyllenkreuz]].*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS01 - Ankunft in Uppsala: Algot Frisk: \"Sind Sie Rosenberger?\"; Sven macht mit dem Algot Frisk sauber; Algot Frisk: Es gibt viel hier zu entdecken; Algot Frisk hat Frühstück gemacht; Algot Frisk zeigt uns die Kapelle im Keller. S02 - Die Hexenkatze: Algot Frisk und Sven machen die Kutsche fertig; Hat der Buttler (Algot Frisk) wirklich soviel Gutes im Sinn?. S03 - Abschied von Mariefred: Bedienstete Anstellen (Bekannte von Algot Frisk); Algot Frisk hat Mittagessen vorbereitet; Algot Frisk: Oscar Hjort war ein Künstler, Teil der Gesellschaft, er erinnert sich aber nicht so genau, er war damals nur ein Kind; Jona zu Algot Frisk: Ich hole dir gerne deine Brötchen; Hilde: Algot Frisk soll Schatzmeister werden.\n"
+  "markdown": "\n*Bediensteter von [[Schloss Gyllenkreuz]].*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS01 - Ankunft in [[Uppsala]]: Algot Frisk: \"Sind Sie [[Rosenberger]]?\"; [[Sven]] macht mit dem Algot Frisk sauber; Algot Frisk: Es gibt viel hier zu entdecken; Algot Frisk hat Frühstück gemacht; Algot Frisk zeigt uns die Kapelle im Keller. S02 - Die Hexenkatze: Algot Frisk und [[Sven]] machen die Kutsche fertig; Hat der Buttler (Algot Frisk) wirklich soviel Gutes im Sinn?. S03 - Abschied von [[Mariefred]]: Bedienstete Anstellen (Bekannte von Algot Frisk); Algot Frisk hat Mittagessen vorbereitet; Algot Frisk: [[Oscar Hjort]] war ein Künstler, Teil der [[Gesellschaft]], er erinnert sich aber nicht so genau, er war damals nur ein Kind; [[Jona]] zu Algot Frisk: Ich hole dir gerne deine Brötchen; [[Hilde]]: Algot Frisk soll Schatzmeister werden.\n"
 }

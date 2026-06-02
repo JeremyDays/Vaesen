@@ -19,7 +19,12 @@
       "target": "Uppsala",
       "label": "Uppsala",
       "slug": "uppsala"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
     }
   ],
-  "markdown": "\n*Bischof von Uppsala.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Bischof von [[Uppsala]]\n\n## Bisherige Interaktionen\nS03 - Abschied von Mariefred: Der Bischof Herr Ohlsdorf hat noch einmal etwas Zeit für sie.\n"
+  "markdown": "\n*Bischof von [[Uppsala]].*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Bischof von [[Uppsala]]\n\n## Bisherige Interaktionen\nS03 - Abschied von [[Mariefred]]: Der Bischof Herr Ohlsdorf hat noch einmal etwas Zeit für sie.\n"
 }
