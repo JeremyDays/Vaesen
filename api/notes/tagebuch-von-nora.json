@@ -21,6 +21,11 @@
       "slug": "1889-01-15"
     },
     {
+      "target": "Geist",
+      "label": "Geist",
+      "slug": "geist"
+    },
+    {
       "target": "Witwer Rutgar",
       "label": "Witwer Rutgar",
       "slug": "witwer-rutgar"
@@ -29,6 +34,11 @@
       "target": "1889-01-17",
       "label": "1889-01-17",
       "slug": "1889-01-17"
+    },
+    {
+      "target": "Sami",
+      "label": "Sami",
+      "slug": "sami"
     },
     {
       "target": "Sophia",
@@ -49,11 +59,6 @@
       "target": "Piry",
       "label": "Piry",
       "slug": "piry"
-    },
-    {
-      "target": "Sami",
-      "label": "Sami",
-      "slug": "sami"
     },
     {
       "target": "Uppsala",
@@ -84,7 +89,12 @@
       "target": "1889-04-03",
       "label": "1889-04-03",
       "slug": "1889-04-03"
+    },
+    {
+      "target": "Nora",
+      "label": "Nora",
+      "slug": "nora"
     }
   ],
-  "markdown": "\n[[1889-01-15]]\n...\n- Geist\n- [[Witwer Rutgar]]\n\n[[1889-01-17]]\n- Vor 20 Jahren Sami etwas angetan. \n- Er ist anders, wenn wütend\n- Blaue Flecken, ... Angst um [[Sophia]]\n- \n\n[[1889-01-31]]\n- [[Sophia]] gleicher Traum\n\n[[1889-02-07]]\n- Geist sagt: [[Piry]]\n- [[Sami]]s Großvater\n- In Code an [[Uppsala]] geschickt\n- Liest [[Piry]]s Liebesbriefe\n\n[[1889-02-08]]\n- Piry tötete [[Oscar Hjort]]. Mit 3 Personen aus [[Uppsala]]. Albert. \n- Begruben den Körper im Garten.\n- Körper mit Magie entweiht.\n\n[[1889-03-01]]\n- [[Sophia]] will Stücke aufführen. Brilliante Idee.\n- Trollträume-Theatergruppe\n\n[[1889-03-19]]\n- Im Stall versteckt. \n- Schlug mit Schürhaken.\n- Angst.\n\n[[1889-04-03]]\n- Wenn ich hier bleibe, tötet er mich.\n- Ich will [[Sophia]] holen, wenn [[Sami]] gestorben ist.\n\n## KI-Zusammenfassung\nS02 - Die Hexenkatze: Wir lesen das Tagebuch von Nora, sie fühlte sich verfolgt und bedroht.\n"
+  "markdown": "\n[[1889-01-15]]\n...\n- [[Geist]]\n- [[Witwer Rutgar]]\n\n[[1889-01-17]]\n- Vor 20 Jahren [[Sami]] etwas angetan. \n- Er ist anders, wenn wütend\n- Blaue Flecken, ... Angst um [[Sophia]]\n- \n\n[[1889-01-31]]\n- [[Sophia]] gleicher Traum\n\n[[1889-02-07]]\n- [[Geist]] sagt: [[Piry]]\n- [[Sami]]s Großvater\n- In Code an [[Uppsala]] geschickt\n- Liest [[Piry]]s Liebesbriefe\n\n[[1889-02-08]]\n- [[Piry]] tötete [[Oscar Hjort]]. Mit 3 Personen aus [[Uppsala]]. Albert. \n- Begruben den Körper im Garten.\n- Körper mit Magie entweiht.\n\n[[1889-03-01]]\n- [[Sophia]] will Stücke aufführen. Brilliante Idee.\n- Trollträume-Theatergruppe\n\n[[1889-03-19]]\n- Im Stall versteckt. \n- Schlug mit Schürhaken.\n- Angst.\n\n[[1889-04-03]]\n- Wenn ich hier bleibe, tötet er mich.\n- Ich will [[Sophia]] holen, wenn [[Sami]] gestorben ist.\n\n## KI-Zusammenfassung\nS02 - Die Hexenkatze: Wir lesen das Tagebuch von [[Nora]], sie fühlte sich verfolgt und bedroht.\n"
 }

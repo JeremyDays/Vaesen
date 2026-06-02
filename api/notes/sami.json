@@ -29,7 +29,37 @@
       "target": "Sophia",
       "label": "Sophia",
       "slug": "sophia"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Gasthof von Bängen",
+      "label": "Gasthof von Bängen",
+      "slug": "gasthof-von-bangen"
+    },
+    {
+      "target": "Ingelie",
+      "label": "Ingelie",
+      "slug": "ingelie"
+    },
+    {
+      "target": "Piry",
+      "label": "Piry",
+      "slug": "piry"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
     }
   ],
-  "markdown": "\n*Wirt vom [[Gasthaus Hexenkatze]]*\n\n![[Sami Harjula Bild.png]]\n\n## Beschreibung\n- Hat sich selbst das Leben genommen\n\n## Verbindungen\n- Hat seine Frau [[Nora]] und Tochter [[Sophia]] geschlagen.\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: Hilde redet mit dem Gastwirt Sami: Über den Gasthof von Bängen, über Spinner, Schausteller, die Qual des Putzens; Sami ist herzlich zu Hilde, aber schnauzt die Köchin Ingelie an; Hilde fragt, ob Sami mit Piry verwandt ist. Sein Vater; Tochter des Sami; Charlot überzeugt Sami, dass Kunst wichtig ist. Aber es bleibt erst einmal ein Gasthaus. S03 - Abschied von Mariefred: 2 der Verstorbenen haben nur wenig Erbe zu verteilen. Familie Sami gibt Geld. 4 einfache Monatseinkommen.\n"
+  "markdown": "\n*Wirt vom [[Gasthaus Hexenkatze]]*\n\n![[Sami Harjula Bild.png]]\n\n## Beschreibung\n- Hat sich selbst das Leben genommen\n\n## Verbindungen\n- Hat seine Frau [[Nora]] und Tochter [[Sophia]] geschlagen.\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: [[Hilde]] redet mit dem Gastwirt Sami: Über den [[Gasthof von Bängen]], über Spinner, Schausteller, die Qual des Putzens; Sami ist herzlich zu [[Hilde]], aber schnauzt die Köchin [[Ingelie]] an; [[Hilde]] fragt, ob Sami mit [[Piry]] verwandt ist. Sein Vater; Tochter des Sami; [[Charlot]] überzeugt Sami, dass Kunst wichtig ist. Aber es bleibt erst einmal ein Gasthaus. S03 - Abschied von [[Mariefred]]: 2 der Verstorbenen haben nur wenig Erbe zu verteilen. Familie Sami gibt Geld. 4 einfache Monatseinkommen.\n"
 }

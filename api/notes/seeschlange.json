@@ -16,6 +16,17 @@
       "Kreatur"
     ]
   },
-  "links": [],
-  "markdown": "\n## KI-Zusammenfassung\nS04 - Reise nach Fudal: Seeschlange. Verletzungen wie von Löwen. Nimmt Kühe und Schweine. Man kann sie bannen, indem man sie dazu bringt, sich selbst in den Schwanz zu beißen; Hilde sucht nach christlicher Kirche. Große Teppiche an der Wand. Heilige Margareta mit Kreuz gegen Seeschlange. Heiliger Johann gibt ein Geschenk an einen Elfen. Heiliger ... spricht einen Richtspruch bei einem Wegstein über 2 Bauern.\n"
+  "links": [
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Elfen",
+      "label": "Elfen",
+      "slug": "elfen"
+    }
+  ],
+  "markdown": "\n## KI-Zusammenfassung\nS04 - Reise nach Fudal: Seeschlange. Verletzungen wie von Löwen. Nimmt Kühe und Schweine. Man kann sie bannen, indem man sie dazu bringt, sich selbst in den Schwanz zu beißen; [[Hilde]] sucht nach christlicher Kirche. Große Teppiche an der Wand. Heilige Margareta mit Kreuz gegen Seeschlange. Heiliger Johann gibt ein Geschenk an einen [[Elfen]]. Heiliger ... spricht einen Richtspruch bei einem Wegstein über 2 Bauern.\n"
 }

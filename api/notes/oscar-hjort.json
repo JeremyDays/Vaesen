@@ -29,7 +29,37 @@
       "target": "Sophia",
       "label": "Sophia",
       "slug": "sophia"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Sami",
+      "label": "Sami",
+      "slug": "sami"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Algot Frisk",
+      "label": "Algot Frisk",
+      "slug": "algot-frisk"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
     }
   ],
-  "markdown": "\n*Toter Schriftsteller, der Schattentheater erfunden hat; Schriftsteller, der wieder zurück nach Frankreich wollte, wo er Schattentheater mit Uhrwerken verbunden hatte.*\n\n![[Oscar Hjort Geist Bild.png]]\n\n## Beschreibung\n- Ist als Widergänger wieder gekommen und hat die [[Gasthaus Hexenkatze]] verflucht. Er wollte Rache.\n\n## Verbindungen\n- Ist von [[Piry]] ermordet worden.\n- [[Sophia]] erzählt von seinem Leben:\n\n## Bisherige Interaktionen\nS01 - Ankunft in Uppsala: Oscar Hjort. Schriftsteller. Schattentheater. Sehr schön. S02 - Die Hexenkatze: Sami sagt, Oscar Hjort hätte Gastrecht gehabt; Hilde: \"Oscar wo bist du?\"; Oscar Hjort ist ein Schauspieler gewesen; Hilde: \"Wir sind gesandt worden, um Oscar Frieden zu bringen\" (strapaziert 3 Erfolge); Oscar Hjort: (frz.) \"Segnet meine Überreste\". S03 - Abschied von Mariefred: Algot Frisk: Oscar Hjort war ein Künstler, Teil der Gesellschaft, er erinnert sich aber nicht so genau, er war damals nur ein Kind.\n"
+  "markdown": "\n*Toter Schriftsteller, der Schattentheater erfunden hat; Schriftsteller, der wieder zurück nach Frankreich wollte, wo er Schattentheater mit Uhrwerken verbunden hatte.*\n\n![[Oscar Hjort Geist Bild.png]]\n\n## Beschreibung\n- Ist als Widergänger wieder gekommen und hat die [[Gasthaus Hexenkatze]] verflucht. Er wollte Rache.\n\n## Verbindungen\n- Ist von [[Piry]] ermordet worden.\n- [[Sophia]] erzählt von seinem Leben:\n\n## Bisherige Interaktionen\nS01 - Ankunft in [[Uppsala]]: Oscar Hjort. Schriftsteller. Schattentheater. Sehr schön. S02 - Die Hexenkatze: [[Sami]] sagt, Oscar Hjort hätte Gastrecht gehabt; [[Hilde]]: \"Oscar wo bist du?\"; Oscar Hjort ist ein Schauspieler gewesen; [[Hilde]]: \"Wir sind gesandt worden, um Oscar Frieden zu bringen\" (strapaziert 3 Erfolge); Oscar Hjort: (frz.) \"Segnet meine Überreste\". S03 - Abschied von [[Mariefred]]: [[Algot Frisk]]: Oscar Hjort war ein Künstler, Teil der [[Gesellschaft]], er erinnert sich aber nicht so genau, er war damals nur ein Kind.\n"
 }

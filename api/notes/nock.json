@@ -16,6 +16,12 @@
       "Kreatur"
     ]
   },
-  "links": [],
-  "markdown": "\n## KI-Zusammenfassung\nS04 - Reise nach Fudal: Nöck. Wassermann. Hat etwas mit Musik zu tun. Mag Katzen. Soll man ihm opfern. Psychische Traumata. Besessenheit. Messer zum Bannen, mit dem die Saiten eines Instruments durchgeschnitten wurden; Charlot: Man kann dem Nöck eine Katze opfern, um eine Melodie zu erhalten.\n"
+  "links": [
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    }
+  ],
+  "markdown": "\n## KI-Zusammenfassung\nS04 - Reise nach Fudal: Nöck. Wassermann. Hat etwas mit Musik zu tun. Mag Katzen. Soll man ihm opfern. Psychische Traumata. Besessenheit. Messer zum Bannen, mit dem die Saiten eines Instruments durchgeschnitten wurden; [[Charlot]]: Man kann dem Nöck eine Katze opfern, um eine Melodie zu erhalten.\n"
 }

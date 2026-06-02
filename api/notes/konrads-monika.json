@@ -14,6 +14,37 @@
       "NSC"
     ]
   },
-  "links": [],
-  "markdown": "\n*Konrads Monika ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Konrads Monika, Konrads Lisa führen uns rum, zeigen uns das eine Zimmer (nicht getrennt). Lockenköpfchen; Jons Gustav wird später noch Geige spielen. Er spielt sehr viel besser als vor einem halben Jahr. Fanatisch spielt er. Ein Teufelsgeiger. Erzählt Konrads Monika über den Jons Gustav. Wohnt im Wald; Hilde beobachtet genauer. Die Pers Ida sitzt abseits. Die Mattias Freja ist um die Lisbets Boel herum. Freunde. Die Konrads Monika will noch mal mit Hilde reden; Konrads Monika mag den Jons Gustav. Die Pers Ida war weg und verkratzt. Die Lisbets Boel ist nachts schon mal raus; Manche Mädchen sagen, dass man Musik vom See her hört. Ein Geigenspiel. Aber Konrads Monika geht früh schlafen. Sie geht nach der Sommeralm immer beichten. Im großen Esssaal gab es einen Teppich, der einen Teufel gezeigt hat. Seit ein paar Wochen. Verschwunden als sie Pers Ida gefunden haben. Sie will noch 12 Rosenkränze beten.\n"
+  "links": [
+    {
+      "target": "Konrads Lisa",
+      "label": "Konrads Lisa",
+      "slug": "konrads-lisa"
+    },
+    {
+      "target": "Jons Gustav",
+      "label": "Jons Gustav",
+      "slug": "jons-gustav"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Pers Ida",
+      "label": "Pers Ida",
+      "slug": "pers-ida"
+    },
+    {
+      "target": "Mattias Freja",
+      "label": "Mattias Freja",
+      "slug": "mattias-freja"
+    },
+    {
+      "target": "Lisbets Boel",
+      "label": "Lisbets Boel",
+      "slug": "lisbets-boel"
+    }
+  ],
+  "markdown": "\n*Konrads Monika ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Konrads Monika, [[Konrads Lisa]] führen uns rum, zeigen uns das eine Zimmer (nicht getrennt). Lockenköpfchen; [[Jons Gustav]] wird später noch Geige spielen. Er spielt sehr viel besser als vor einem halben Jahr. Fanatisch spielt er. Ein Teufelsgeiger. Erzählt Konrads Monika über den [[Jons Gustav]]. Wohnt im Wald; [[Hilde]] beobachtet genauer. Die [[Pers Ida]] sitzt abseits. Die [[Mattias Freja]] ist um die [[Lisbets Boel]] herum. Freunde. Die Konrads Monika will noch mal mit [[Hilde]] reden; Konrads Monika mag den [[Jons Gustav]]. Die [[Pers Ida]] war weg und verkratzt. Die [[Lisbets Boel]] ist nachts schon mal raus; Manche Mädchen sagen, dass man Musik vom See her hört. Ein Geigenspiel. Aber Konrads Monika geht früh schlafen. Sie geht nach der Sommeralm immer beichten. Im großen Esssaal gab es einen Teppich, der einen Teufel gezeigt hat. Seit ein paar Wochen. Verschwunden als sie [[Pers Ida]] gefunden haben. Sie will noch 12 Rosenkränze beten.\n"
 }

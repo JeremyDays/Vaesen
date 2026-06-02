@@ -23,10 +23,20 @@
       "slug": "vaesen"
     },
     {
+      "target": "Kobold",
+      "label": "Kobold",
+      "slug": "kobold"
+    },
+    {
       "target": "Milchschale",
       "label": "Milchschale",
       "slug": "milchschale"
+    },
+    {
+      "target": "S01 - Ankunft in Uppsala",
+      "label": "S01 - Ankunft in Uppsala",
+      "slug": "s01-ankunft-in-uppsala"
     }
   ],
-  "markdown": "\n- Ein [[Vaesen]].\n- Einem Kobold soll man eine [[Milchschale]] hinstellen.\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Der Kobold wird im Zusammenhang mit der Milchschale genannt; als Gabe soll man ihm Milch hinstellen.\n"
+  "markdown": "\n- Ein [[Vaesen]].\n- Einem [[Kobold]] soll man eine [[Milchschale]] hinstellen.\n\n## KI-Zusammenfassung\n[[S01 - Ankunft in Uppsala]]: Der [[Kobold]] wird im Zusammenhang mit der [[Milchschale]] genannt; als Gabe soll man ihm Milch hinstellen.\n"
 }

@@ -14,6 +14,42 @@
       "NSC"
     ]
   },
-  "links": [],
-  "markdown": "\n*Lisbets Boel ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n![[Lisbets Boel.jpg]]\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Viel Käse und zwei Krüge Milch. Mattias Freja. Heute Abend großes Fest. Lisbets Boel' Geburtstag; Lisbets Boel. Aufgedreht, viel im Mittelpunkt. Charlot fragt sich, ob sie genug geschlafen hat; Lisbets Boel hat wenig geschlafen. Redet wenig. Aufgedreht. Wird heute 22 Jahre. Jona ist 20 Jahre alt; Charlot sieht, dass Jons Gustav etwas von Lisbets Boel will. Spielt sie mit ihm? Sie fasst häufiger in ihre Rocktasche. Eher angespannte Situation; Hilde beobachtet genauer. Die Pers Ida sitzt abseits. Die Mattias Freja ist um die Lisbets Boel herum. Freunde. Die Konrads Monika will noch mal mit Hilde reden.\n"
+  "links": [
+    {
+      "target": "Mattias Freja",
+      "label": "Mattias Freja",
+      "slug": "mattias-freja"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Jons Gustav",
+      "label": "Jons Gustav",
+      "slug": "jons-gustav"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Pers Ida",
+      "label": "Pers Ida",
+      "slug": "pers-ida"
+    },
+    {
+      "target": "Konrads Monika",
+      "label": "Konrads Monika",
+      "slug": "konrads-monika"
+    }
+  ],
+  "markdown": "\n*Lisbets Boel ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n![[Lisbets Boel.jpg]]\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Viel Käse und zwei Krüge Milch. [[Mattias Freja]]. Heute Abend großes Fest. Lisbets Boel' Geburtstag; Lisbets Boel. Aufgedreht, viel im Mittelpunkt. [[Charlot]] fragt sich, ob sie genug geschlafen hat; Lisbets Boel hat wenig geschlafen. Redet wenig. Aufgedreht. Wird heute 22 Jahre. [[Jona]] ist 20 Jahre alt; [[Charlot]] sieht, dass [[Jons Gustav]] etwas von Lisbets Boel will. Spielt sie mit ihm? Sie fasst häufiger in ihre Rocktasche. Eher angespannte Situation; [[Hilde]] beobachtet genauer. Die [[Pers Ida]] sitzt abseits. Die [[Mattias Freja]] ist um die Lisbets Boel herum. Freunde. Die [[Konrads Monika]] will noch mal mit [[Hilde]] reden.\n"
 }

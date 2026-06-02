@@ -14,6 +14,12 @@
       "Regel"
     ]
   },
-  "links": [],
-  "markdown": "\n**Kontakte**\n- Müssen benannt und in die Geschichte eingebunden werden.\n- Können Hinweise, Hilfe, Zugang oder Schutz geben.\n\n**Einrichtungen**\n- Räume im Schloss geben wiederkehrende Vorteile.\n- Besonders nützlich: Bibliothek, Krankenstation, Stall, Kapelle, Labor, Archiv.\n"
+  "links": [
+    {
+      "target": "Vorteile",
+      "label": "Vorteile",
+      "slug": "vorteile"
+    }
+  ],
+  "markdown": "\n**Kontakte**\n- Müssen benannt und in die Geschichte eingebunden werden.\n- Können Hinweise, Hilfe, Zugang oder Schutz geben.\n\n**Einrichtungen**\n- Räume im Schloss geben wiederkehrende [[Vorteile]].\n- Besonders nützlich: Bibliothek, Krankenstation, Stall, Kapelle, Labor, Archiv.\n"
 }

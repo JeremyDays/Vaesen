@@ -14,6 +14,17 @@
       "NSC"
     ]
   },
-  "links": [],
-  "markdown": "\n*Nicklas ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Es geht Mattias Freja näher als eine Freundschaft. Lisbets Boel sagt, es gibt einen anderen Geiger. Nicklas soll ein guter Geiger sein. Sie weiß nicht; Kommt morgen Abend. Zum Weideeingang. Ich stell euch ihm vor: Nicklas.\n"
+  "links": [
+    {
+      "target": "Mattias Freja",
+      "label": "Mattias Freja",
+      "slug": "mattias-freja"
+    },
+    {
+      "target": "Lisbets Boel",
+      "label": "Lisbets Boel",
+      "slug": "lisbets-boel"
+    }
+  ],
+  "markdown": "\n*Nicklas ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Es geht [[Mattias Freja]] näher als eine Freundschaft. [[Lisbets Boel]] sagt, es gibt einen anderen Geiger. Nicklas soll ein guter Geiger sein. Sie weiß nicht; Kommt morgen Abend. Zum Weideeingang. Ich stell euch ihm vor: Nicklas.\n"
 }

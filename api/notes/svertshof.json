@@ -8,6 +8,17 @@
   "tags": [],
   "excerpt": "KI Zusammenfassung S03 Abschied von Mariefred: Svertshof? Gemeinde Mora? 3 Tagesreisen.",
   "frontmatter": {},
-  "links": [],
-  "markdown": "\n\n## KI-Zusammenfassung\nS03 - Abschied von Mariefred: Svertshof? Gemeinde Mora? 3 Tagesreisen.\n"
+  "links": [
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Mora",
+      "label": "Mora",
+      "slug": "mora"
+    }
+  ],
+  "markdown": "\n\n## KI-Zusammenfassung\nS03 - Abschied von [[Mariefred]]: Svertshof? Gemeinde [[Mora]]? 3 Tagesreisen.\n"
 }

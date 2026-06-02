@@ -19,7 +19,37 @@
       "target": "Gesellschaft",
       "label": "Gesellschaft",
       "slug": "gesellschaft"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Tine Rasmussen",
+      "label": "Tine Rasmussen",
+      "slug": "tine-rasmussen"
+    },
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    },
+    {
+      "target": "Donnerstagskinder",
+      "label": "Donnerstagskinder",
+      "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Wichtel",
+      "label": "Wichtel",
+      "slug": "wichtel"
+    },
+    {
+      "target": "Artemis",
+      "label": "Artemis",
+      "slug": "artemis"
     }
   ],
-  "markdown": "\n*Gründer der Gesellschaft.*\n\n## Beschreibung\n- Gründer der [[Gesellschaft]]\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS01 - Ankunft in Uppsala: Gründerin. Anfang 15. Jhd. Tine Rasmussen hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach wurde sie angeklagt, dass sie Vaesen sehen könnte. Sie ist mit dem Blick gesegnet worden, eins der Donnerstagskinder. Vier Wichtel hätten sie befreit. Danach wäre sie untergetaucht. Matz von Rosenberg getroffen. Orden der Artemis gegründet.\n"
+  "markdown": "\n*Gründer der [[Gesellschaft]].*\n\n## Beschreibung\n- Gründer der [[Gesellschaft]]\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS01 - Ankunft in [[Uppsala]]: Gründerin. Anfang 15. Jhd. [[Tine Rasmussen]] hat die Pocken bekommen, Familie gestorben, aber sie nicht. Gerade so überstanden. Danach wurde sie angeklagt, dass sie [[Vaesen]] sehen könnte. Sie ist mit dem Blick gesegnet worden, eins der [[Donnerstagskinder]]. Vier [[Wichtel]] hätten sie befreit. Danach wäre sie untergetaucht. Matz von Rosenberg getroffen. Orden der [[Artemis]] gegründet.\n"
 }

@@ -16,10 +16,30 @@
   },
   "links": [
     {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
       "target": "Jona",
       "label": "Jona",
       "slug": "jona"
+    },
+    {
+      "target": "Piry",
+      "label": "Piry",
+      "slug": "piry"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
     }
   ],
-  "markdown": "\n*Priester aus dem Gasthaus Hexenkatze.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Gerettet von [[Jona]]\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: Mann, Priester (Nils Klaed); Piry ist tot. Nils Klaed, der Priester, betet. Er wurde im Nachbardorf bestattet; Nils Klaed kennt keine Riesen. S03 - Abschied von Mariefred: Brief von Pfarrer Nils Klaed an Hilde.\n"
+  "markdown": "\n*Priester aus dem [[Gasthaus Hexenkatze]].*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Gerettet von [[Jona]]\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: Mann, Priester (Nils Klaed); [[Piry]] ist tot. Nils Klaed, der Priester, betet. Er wurde im Nachbardorf bestattet; Nils Klaed kennt keine Riesen. S03 - Abschied von [[Mariefred]]: Brief von Pfarrer Nils Klaed an [[Hilde]].\n"
 }

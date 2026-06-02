@@ -8,6 +8,17 @@
   "tags": [],
   "excerpt": "KI Zusammenfassung S03 Abschied von Mariefred: Svertshof? Gemeinde Mora? 3 Tagesreisen; Ich bitte um eine rasche Antwort und um ein Treffen in Mora. S04 Reise nach Fudal: Ort...",
   "frontmatter": {},
-  "links": [],
-  "markdown": "\n\n## KI-Zusammenfassung\nS03 - Abschied von Mariefred: Svertshof? Gemeinde Mora? 3 Tagesreisen; Ich bitte um eine rasche Antwort und um ein Treffen in Mora. S04 - Reise nach Fudal: Ort Mora. Etwas landwirtschaftlich geprägt, Handwerker sitzen auf der Straße und rasten; Sie kommen beide von hier. Aus Mora.\n"
+  "links": [
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Svertshof",
+      "label": "Svertshof",
+      "slug": "svertshof"
+    }
+  ],
+  "markdown": "\n\n## KI-Zusammenfassung\nS03 - Abschied von [[Mariefred]]: [[Svertshof]]? Gemeinde Mora? 3 Tagesreisen; Ich bitte um eine rasche Antwort und um ein Treffen in Mora. S04 - Reise nach Fudal: Ort Mora. Etwas landwirtschaftlich geprägt, Handwerker sitzen auf der Straße und rasten; Sie kommen beide von hier. Aus Mora.\n"
 }

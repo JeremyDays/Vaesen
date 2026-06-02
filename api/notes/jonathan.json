@@ -19,7 +19,22 @@
       "target": "Gasthaus Hexenkatze",
       "label": "Gasthaus Hexenkatze",
       "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Sami",
+      "label": "Sami",
+      "slug": "sami"
+    },
+    {
+      "target": "Sven2",
+      "label": "Sven2",
+      "slug": "sven2"
+    },
+    {
+      "target": "Ingelie",
+      "label": "Ingelie",
+      "slug": "ingelie"
     }
   ],
-  "markdown": "\n*Bauer aus dem Gasthaus Hexenkatze.*\n\n## Beschreibung\n- Bauer aus dem [[Gasthaus Hexenkatze]]\n- Im kalten Feuer verstorben\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: Mann, Tresen, unterhält sich, Bauer (Jonathan); Jonathan: Sami ist die Frau weggerannt. Mit einer Theatertruppe; Jonathan erzählt dasselbe, wie Sven2; Das Haus brennt runter. Ingelie und Jonathan sind gestorben.\n"
+  "markdown": "\n*Bauer aus dem [[Gasthaus Hexenkatze]].*\n\n## Beschreibung\n- Bauer aus dem [[Gasthaus Hexenkatze]]\n- Im kalten Feuer verstorben\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: Mann, Tresen, unterhält sich, Bauer (Jonathan); Jonathan: [[Sami]] ist die Frau weggerannt. Mit einer Theatertruppe; Jonathan erzählt dasselbe, wie [[Sven2]]; Das Haus brennt runter. [[Ingelie]] und Jonathan sind gestorben.\n"
 }

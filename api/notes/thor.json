@@ -14,6 +14,11 @@
   },
   "links": [
     {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
+    },
+    {
       "target": "Midgard",
       "label": "Midgard",
       "slug": null
@@ -29,5 +34,5 @@
       "slug": null
     }
   ],
-  "markdown": "\nThor bei den nordgermanischen Völkern, oder Donar bei den kontinentalen germanischen Völkern, ist ein germanischer Gott. Er ist „der Donnerer“ (Nomen Agentis), ursprünglich als Gattungsname „der Donner“ (Appellativum) (altsächsisch Thunaer, altenglisch þunor, althochdeutsch Donar, altniederländisch Donre, altnordisch Þórr von urnordisch þunraʀ „donnern“). \nDaraus erschließt sich der gemeingermanische Gottesname *Þunaraz. \nThor/Donar fungierte für die zur See fahrenden Völker als Gewitter- und Wettergott und war in weiterer Funktion innerhalb der bäuerlichen germanischen Gesellschaft Vegetationsgottheit. \nIn den mythologischen Edda-Schriften hatte er die Aufgabe des Beschützers von [[Midgard]], der Welt der Menschen, vor den [[Eisriesen]] aus [[Jötunheim]].\n\n![[Thor Bild.png]]"
+  "markdown": "\nThor bei den nordgermanischen Völkern, oder Donar bei den kontinentalen germanischen Völkern, ist ein germanischer Gott. Er ist „der Donnerer“ (Nomen Agentis), ursprünglich als Gattungsname „der Donner“ (Appellativum) (altsächsisch Thunaer, altenglisch þunor, althochdeutsch Donar, altniederländisch Donre, altnordisch Þórr von urnordisch þunraʀ „donnern“). \nDaraus erschließt sich der gemeingermanische Gottesname *Þunaraz. \nThor/Donar fungierte für die zur See fahrenden Völker als Gewitter- und Wettergott und war in weiterer Funktion innerhalb der bäuerlichen germanischen [[Gesellschaft]] Vegetationsgottheit. \nIn den mythologischen Edda-Schriften hatte er die Aufgabe des Beschützers von [[Midgard]], der Welt der Menschen, vor den [[Eisriesen]] aus [[Jötunheim]].\n\n![[Thor Bild.png]]"
 }

@@ -19,14 +19,14 @@
   },
   "links": [
     {
-      "target": "1828",
-      "label": "1828",
-      "slug": "1828"
-    },
-    {
       "target": "Hilde",
       "label": "Hilde",
       "slug": "hilde"
+    },
+    {
+      "target": "1828",
+      "label": "1828",
+      "slug": "1828"
     },
     {
       "target": "Alda Margherita Olbers",
@@ -39,5 +39,5 @@
       "slug": "jonas-olbers"
     }
   ],
-  "markdown": "\n*Großvater von Hilde.*\n\n## Beschreibung\n>Er verstarb im Jahr [[1828]]\n\n## Verbindungen\n- Großvater von [[Hilde]].\n>[[Alda Margherita Olbers]] wurde als Tochter des Pfarrers [[Jonas Olbers]] geboren. Sie wuchs in einem wohlhabenden und gebildeten Umfeld auf, das ihr gute Fremdsprachenkenntnisse und literarische Bildung vermittelte.\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
+  "markdown": "\n*Großvater von [[Hilde]].*\n\n## Beschreibung\n>Er verstarb im Jahr [[1828]]\n\n## Verbindungen\n- Großvater von [[Hilde]].\n>[[Alda Margherita Olbers]] wurde als Tochter des Pfarrers [[Jonas Olbers]] geboren. Sie wuchs in einem wohlhabenden und gebildeten Umfeld auf, das ihr gute Fremdsprachenkenntnisse und literarische Bildung vermittelte.\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
 }

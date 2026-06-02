@@ -14,6 +14,12 @@
       "NSC"
     ]
   },
-  "links": [],
-  "markdown": "\n*Mitarbeiter der Post.*\n\n## Beschreibung\n- Mitarbeiter der Post.\n\n## Verbindungen\n- Gute Verbindung mit einem Polizisten.\n\n## Bisherige Interaktionen\nS01 - Ankunft in Uppsala: Polizist. Richard von der Post geschickt.\n"
+  "links": [
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    }
+  ],
+  "markdown": "\n*Mitarbeiter der Post.*\n\n## Beschreibung\n- Mitarbeiter der Post.\n\n## Verbindungen\n- Gute Verbindung mit einem Polizisten.\n\n## Bisherige Interaktionen\nS01 - Ankunft in [[Uppsala]]: Polizist. Richard von der Post geschickt.\n"
 }

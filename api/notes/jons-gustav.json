@@ -14,6 +14,22 @@
       "NSC"
     ]
   },
-  "links": [],
-  "markdown": "\n*Jons Gustav ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n![[Jons Gustav.jpg]]\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Jons Gustav wird später noch Geige spielen. Er spielt sehr viel besser als vor einem halben Jahr. Fanatisch spielt er. Ein Teufelsgeiger. Erzählt Konrads Monika über den Jons Gustav. Wohnt im Wald; Jons Gustav achtet viel auf die Boel; Jons Gustav spricht mit Charlot. Er ist Arzt. Wir haben eine Priesterin dabei und Leute, die sich um einen kümmern. Charlot nuschelt; Jons Gustav hat wenig von seinem Erbe bekommen; Sven lässt Jons Gustav gewinnen.\n"
+  "links": [
+    {
+      "target": "Konrads Monika",
+      "label": "Konrads Monika",
+      "slug": "konrads-monika"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    }
+  ],
+  "markdown": "\n*Jons Gustav ist eine in den bisherigen Notizen erwähnte NSC-Figur.*\n\n![[Jons Gustav.jpg]]\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Keine gesicherten Verbindungen in den bisherigen Notizen.\n\n## Bisherige Interaktionen\nS04 - Reise nach Fudal: Jons Gustav wird später noch Geige spielen. Er spielt sehr viel besser als vor einem halben Jahr. Fanatisch spielt er. Ein Teufelsgeiger. Erzählt [[Konrads Monika]] über den Jons Gustav. Wohnt im Wald; Jons Gustav achtet viel auf die Boel; Jons Gustav spricht mit [[Charlot]]. Er ist Arzt. Wir haben eine Priesterin dabei und Leute, die sich um einen kümmern. [[Charlot]] nuschelt; Jons Gustav hat wenig von seinem Erbe bekommen; [[Sven]] lässt Jons Gustav gewinnen.\n"
 }

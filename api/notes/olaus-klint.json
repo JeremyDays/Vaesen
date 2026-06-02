@@ -24,7 +24,57 @@
       "target": "Donnerstagskinder",
       "label": "Donnerstagskind",
       "slug": "donnerstagskinder"
+    },
+    {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
+      "target": "Hilde",
+      "label": "Hilde",
+      "slug": "hilde"
+    },
+    {
+      "target": "Nachtmar",
+      "label": "Nachtmar",
+      "slug": "nachtmar"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
+    },
+    {
+      "target": "Sven2",
+      "label": "Sven2",
+      "slug": "sven2"
+    },
+    {
+      "target": "Kille",
+      "label": "Kille",
+      "slug": "kille"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
     }
   ],
-  "markdown": "\n*Ein Privatdetektiv aus Uppsala, der zwar kein Donnerstagskind ist, aber die Mysterien erforscht.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Ein Privatdetektiv aus [[Uppsala]], der zwar kein [[Donnerstagskinder|Donnerstagskind]] ist, aber die Mysterien erforscht.\n\n## Bisherige Interaktionen\nS01 - Ankunft in Uppsala: Wir haben einen Brief erhalten von Olaus Klint... Einladung zum Gasthaus Hexenkatze; Olaus Klint. Privatdetektiv. Auf Okkultes spezialisiert. S02 - Die Hexenkatze: Hilde spricht mit Olaus Klint; Olaus Klint Entweder Hauswichteln oder Nachtmar (Besessene Frauen); Sven rettet Sven2 und Kille, Jona Olaus Klint; Jona darauf ansprechen, warum sie so viel Hass auf Vaesen hat und warum sie dann dennoch nicht Olaus Klint versucht hat zu töten. S03 - Abschied von Mariefred: Jona darauf ansprechen, warum sie so viel Hass auf Vaesen hat und warum sie dann dennoch nicht Olaus Klint versucht hat zu töten; Brief von Olaus Klint an Hilde; Charlot: Kontaktiert Olaus Klint. Der Laden ist dicht.\n"
+  "markdown": "\n*Ein Privatdetektiv aus [[Uppsala]], der zwar kein Donnerstagskind ist, aber die Mysterien erforscht.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Ein Privatdetektiv aus [[Uppsala]], der zwar kein [[Donnerstagskinder|Donnerstagskind]] ist, aber die Mysterien erforscht.\n\n## Bisherige Interaktionen\nS01 - Ankunft in [[Uppsala]]: Wir haben einen Brief erhalten von Olaus Klint... Einladung zum [[Gasthaus Hexenkatze]]; Olaus Klint. Privatdetektiv. Auf Okkultes spezialisiert. S02 - Die Hexenkatze: [[Hilde]] spricht mit Olaus Klint; Olaus Klint Entweder Hauswichteln oder [[Nachtmar]] (Besessene Frauen); [[Sven]] rettet [[Sven2]] und [[Kille]], [[Jona]] Olaus Klint; [[Jona]] darauf ansprechen, warum sie so viel Hass auf [[Vaesen]] hat und warum sie dann dennoch nicht Olaus Klint versucht hat zu töten. S03 - Abschied von [[Mariefred]]: [[Jona]] darauf ansprechen, warum sie so viel Hass auf [[Vaesen]] hat und warum sie dann dennoch nicht Olaus Klint versucht hat zu töten; Brief von Olaus Klint an [[Hilde]]; [[Charlot]]: Kontaktiert Olaus Klint. Der Laden ist dicht.\n"
 }

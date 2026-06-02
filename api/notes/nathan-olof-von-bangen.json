@@ -19,7 +19,22 @@
       "target": "Hilde",
       "label": "Hilde",
       "slug": "hilde"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Mariefred",
+      "label": "Mariefred",
+      "slug": "mariefred"
+    },
+    {
+      "target": "Sven",
+      "label": "Sven",
+      "slug": "sven"
     }
   ],
-  "markdown": "\n*Älterer Bruder von Hilde; Akademiker und Gastwirt, der das Handwerk des Vaters lernt.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Älterer Bruder von [[Hilde]].\n- Akademiker und Gastwirt, der das Handwerk des Vaters lernt\n\n## Bisherige Interaktionen\nS01 - Ankunft in Uppsala: Nathan: 2 Groschen wie immer. S03 - Abschied von Mariefred: Sven mit Nathan Olof von Bängen.\n"
+  "markdown": "\n*Älterer Bruder von [[Hilde]]; Akademiker und Gastwirt, der das Handwerk des Vaters lernt.*\n\n## Beschreibung\n- Keine gesicherte Beschreibung in den bisherigen Notizen.\n\n## Verbindungen\n- Älterer Bruder von [[Hilde]].\n- Akademiker und Gastwirt, der das Handwerk des Vaters lernt\n\n## Bisherige Interaktionen\nS01 - Ankunft in [[Uppsala]]: Nathan: 2 Groschen wie immer. S03 - Abschied von [[Mariefred]]: [[Sven]] mit Nathan Olof von Bängen.\n"
 }

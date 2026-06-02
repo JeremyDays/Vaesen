@@ -16,10 +16,40 @@
   },
   "links": [
     {
+      "target": "Gasthaus Hexenkatze",
+      "label": "Gasthaus Hexenkatze",
+      "slug": "gasthaus-hexenkatze"
+    },
+    {
       "target": "Sven",
       "label": "Sven",
       "slug": "sven"
+    },
+    {
+      "target": "Ingelie",
+      "label": "Ingelie",
+      "slug": "ingelie"
+    },
+    {
+      "target": "Jona",
+      "label": "Jona",
+      "slug": "jona"
+    },
+    {
+      "target": "Jonathan",
+      "label": "Jonathan",
+      "slug": "jonathan"
+    },
+    {
+      "target": "Kille",
+      "label": "Kille",
+      "slug": "kille"
+    },
+    {
+      "target": "Olaus Klint",
+      "label": "Olaus Klint",
+      "slug": "olaus-klint"
     }
   ],
-  "markdown": "\n*Stalljunge vom Gasthaus Hexenkatze.*\n\n## Beschreibung\n- Ungefähr 20 Jahre alt.\n\n## Verbindungen\n- Wurde von [[Sven]] gerettet.\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: Ingelie hat den Stalljungen Sven2 dazu gebracht, den Hund zu füttern; Jona bringt die Sachen hoch mit dem Bediensteten Sven2; Jonathan erzählt dasselbe, wie Sven2; Jona bleibt ruhig, als Sven2 einschläft; Sven rettet Sven2 und Kille, Jona Olaus Klint.\n"
+  "markdown": "\n*Stalljunge vom [[Gasthaus Hexenkatze]].*\n\n## Beschreibung\n- Ungefähr 20 Jahre alt.\n\n## Verbindungen\n- Wurde von [[Sven]] gerettet.\n\n## Bisherige Interaktionen\nS02 - Die Hexenkatze: [[Ingelie]] hat den Stalljungen Sven2 dazu gebracht, den Hund zu füttern; [[Jona]] bringt die Sachen hoch mit dem Bediensteten Sven2; [[Jonathan]] erzählt dasselbe, wie Sven2; [[Jona]] bleibt ruhig, als Sven2 einschläft; [[Sven]] rettet Sven2 und [[Kille]], [[Jona]] [[Olaus Klint]].\n"
 }

@@ -19,7 +19,17 @@
       "target": "1880",
       "label": "1880",
       "slug": "1880"
+    },
+    {
+      "target": "Uppsala",
+      "label": "Uppsala",
+      "slug": "uppsala"
+    },
+    {
+      "target": "Gesellschaft",
+      "label": "Gesellschaft",
+      "slug": "gesellschaft"
     }
   ],
-  "markdown": "- [[1880]]\n\n## KI-Zusammenfassung\nS01 - Ankunft in Uppsala: Ende: Uloh-Massaker. Vor 10 Jahren haben sich 50-60 Leute der Gesellschaft dort getroffen, nicht alle. Riesen haben die Gesellschaft angegriffen. Viele Priester sind gestorben. Sie haben sich dort versammelt, um gegen Riesen zu kämpfen. Überlebende.\n"
+  "markdown": "- [[1880]]\n\n## KI-Zusammenfassung\nS01 - Ankunft in [[Uppsala]]: Ende: Uloh-Massaker. Vor 10 Jahren haben sich 50-60 Leute der [[Gesellschaft]] dort getroffen, nicht alle. Riesen haben die [[Gesellschaft]] angegriffen. Viele Priester sind gestorben. Sie haben sich dort versammelt, um gegen Riesen zu kämpfen. Überlebende.\n"
 }

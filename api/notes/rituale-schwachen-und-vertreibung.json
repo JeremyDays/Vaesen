@@ -14,6 +14,12 @@
       "Regel"
     ]
   },
-  "links": [],
-  "markdown": "\n**Konfrontation mit Vaesen**\n- Gewalt ist selten die beste Lösung.\n- Erst Schwäche, Wahrheit, Tabu oder Bindung herausfinden.\n\n**Vertreibung / Befriedung**\n- Ritual, Wiedergutmachung, Begräbnis, Gabe, Entschuldigung oder Bann.\n- Passt zur Ursache des Mysteriums.\n"
+  "links": [
+    {
+      "target": "Vaesen",
+      "label": "Vaesen",
+      "slug": "vaesen"
+    }
+  ],
+  "markdown": "\n**Konfrontation mit [[Vaesen]]**\n- Gewalt ist selten die beste Lösung.\n- Erst Schwäche, Wahrheit, Tabu oder Bindung herausfinden.\n\n**Vertreibung / Befriedung**\n- Ritual, Wiedergutmachung, Begräbnis, Gabe, Entschuldigung oder Bann.\n- Passt zur Ursache des Mysteriums.\n"
 }

@@ -19,15 +19,15 @@
   },
   "links": [
     {
-      "target": "Charlot",
-      "label": "Charlot",
-      "slug": "charlot"
-    },
-    {
       "target": "Jona",
       "label": "Jona",
       "slug": "jona"
+    },
+    {
+      "target": "Charlot",
+      "label": "Charlot",
+      "slug": "charlot"
     }
   ],
-  "markdown": "\n*Ältester Bruder von Jona.*\n\n## Beschreibung\n- [[Charlot]] versorgte die Wunde.\n\n## Verbindungen\n- Ältester Bruder von [[Jona]].\n- [[Jona]] schoss ihm in die Schulter.\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
+  "markdown": "\n*Ältester Bruder von [[Jona]].*\n\n## Beschreibung\n- [[Charlot]] versorgte die Wunde.\n\n## Verbindungen\n- Ältester Bruder von [[Jona]].\n- [[Jona]] schoss ihm in die Schulter.\n\n## Bisherige Interaktionen\nIn den bisherigen Protokollen noch nicht weiter ausgespielt.\n"
 }
